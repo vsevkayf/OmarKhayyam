@@ -5,8 +5,8 @@
   url: "/"
   side: left
 
-- title: "Dropdown Menu"
-  url: "#"
+- title: "About Us"
+  url: "/about/"
   side: left
   dropdown:
   - title: "Dropdown Menu 1"

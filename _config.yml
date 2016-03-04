@@ -8,19 +8,19 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Feeling Responsive"
+title: "Soroca Clinical Research Center"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "Better than your average search engine"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes."
+description: "Soroca Clinical Research Center (SCRC) Official Website."
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: vsevkayf
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -102,7 +102,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: vsevkayf     # Default author for pages
   -
     scope:
       path: ""
@@ -111,7 +111,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: vsevkayf     # Default author for posts
 
 
 
@@ -148,17 +148,17 @@ defaults:
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
 favicon-32x32:                          "favicon-32x32.png"
-touch-icon-192x192:                     "touch-icon-192x192.png"
-apple-touch-icon-180x180-precomposed:   "apple-touch-icon-180x180-precomposed.png"
-apple-touch-icon-152x152-precomposed:   "apple-touch-icon-152x152-precomposed.png"
-apple-touch-icon-144x144-precomposed:   "apple-touch-icon-144x144-precomposed.png"
-apple-touch-icon-120x120-precomposed:   "apple-touch-icon-120x120-precomposed.png"
-apple-touch-icon-114x114-precomposed:   "apple-touch-icon-114x114-precomposed.png"
-apple-touch-icon-76x76-precomposed:     "apple-touch-icon-76x76-precomposed.png"
-apple-touch-icon-72x72-precomposed:     "apple-touch-icon-72x72-precomposed.png"
-apple-touch-icon-precomposed:           "apple-touch-icon-precomposed.png"
+touch-icon-192x192:                     "favicon-32x32.png"
+apple-touch-icon-180x180-precomposed:   "favicon-32x32.png"
+apple-touch-icon-152x152-precomposed:   "favicon-32x32.png"
+apple-touch-icon-144x144-precomposed:   "favicon-32x32.png"
+apple-touch-icon-120x120-precomposed:   "favicon-32x32.png"
+apple-touch-icon-114x114-precomposed:   "favicon-32x32.png"
+apple-touch-icon-76x76-precomposed:     "favicon-32x32.png"
+apple-touch-icon-72x72-precomposed:     "favicon-32x32.png"
+apple-touch-icon-precomposed:           "favicon-32x32.png"
 msapplication_tileimage:                "msapplication_tileimage.png"               # Size 144x144
-msapplication_tilecolor:                "#fabb00"
+msapplication_tilecolor:                "#ffffff"
 
 
 #       ______                __                __
