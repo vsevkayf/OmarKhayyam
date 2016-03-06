@@ -2,7 +2,7 @@
 layout: page
 header:
   title: SCRC
-  image_fullwidth: contact.png
+  image_fullwidth: you-can-delete-me-header.png
   caption: Soroka Clinical Research Center
   caption_url: https://vsevkayf.github.io/OmarKhayyam/
 title: "Contact Form"
