@@ -18,10 +18,10 @@
 #   class: icon-cloud
 #   title: ""
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+- name: Facebook
+  url: http://www.facebook.com/
+  class: icon-facebook
+  title: ""
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
