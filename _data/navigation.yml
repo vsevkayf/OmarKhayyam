@@ -31,12 +31,21 @@
   - title: "Grants"
     url: "/grants/"
 
-- title: Blog
-  url: "/blog/"
+- title: "Services"
+  url: "/services/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "Academic Research"
+    url: "/acares/"
+  - title: "Industry- Initiated Research"
+    url: "/indures/"
+
+#- title: Blog
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
 
 #
 #   Navigation to the right › side: right
