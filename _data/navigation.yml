@@ -9,12 +9,27 @@
   url: "/about/"
   side: left
   dropdown:
-  - title: "Dropdown Menu 1"
-    url: "#"
-  - title: "Dropdown Menu 2"
-    url: "#"
-  - title: "Dropdown Menu 3"
-    url: "#"
+  - title: "Vision"
+    url: "/vision/"
+  - title: "Staff"
+    url: "/staff/"
+  - title: "Collaboration"
+    url: "/collaboration/"
+  - title: "Soroka Medical Center"
+    url: "/soroka/"
+
+- title: "Clinical Research"
+  url: "/clinicalresearch/"
+  side: left
+  dropdown:
+  - title: "Current Projects"
+    url: "/currentprojects/"
+  - title: "Therapeutic Areas"
+    url: "/therap/"
+  - title: "Sponsored Research"
+    url: "/sponsors/"
+  - title: "Grants"
+    url: "/grants/"
 
 - title: Blog
   url: "/blog/"
@@ -26,9 +41,9 @@
 #
 #   Navigation to the right › side: right
 #
-- title: "Info"
-  url: "/info/"
-  side: right
+#- title: "Info"
+#  url: "/info/"
+#  side: right
 
 - title: "Search"
   url: "/search/"
