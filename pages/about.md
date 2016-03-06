@@ -2,14 +2,14 @@
 layout: page
 header:
   title: SCRC
-  image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: twodudes.png
   caption: Soroka Clinical Research Center
   caption_url: https://vsevkayf.github.io/OmarKhayyam/
-title: "Contact Form"
-meta_title: "Contact Us"
-subheadline: "Tell Us What's On Your Mind"
+title: "About Us"
+meta_title: "About Us"
+subheadline: ""
 teaser: ""
-permalink: "/contact/"
+permalink: "/about/"
 ---
 <div class="col-sm-6 col-sm-offset-6 col-md-4 col-md-offset-8 form">
 	<form action="https://getsimpleform.com/messages?form_api_token=39dda43c5bb42c646bc0a41d973c9a36" method="post">
