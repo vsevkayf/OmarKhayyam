@@ -6,7 +6,10 @@
 #
 layout: frontpage
 header:
+  title: SCRC
   image_fullwidth: you-can-delete-me-header.png
+  caption: Soroka Clinical Research Center
+  caption_url: https://vsevkayf.github.io/OmarKhayyam/
 widget1:
   title: "Widget 1"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
@@ -32,10 +35,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
+#callforaction:
+#  url: https://tinyletter.com/feeling-responsive
+#  text: Inform me about new updates and features ›
+#  style: alert
 permalink: /index.html
 ---
 <div id="videoModal" class="reveal-modal large" data-reveal="">
