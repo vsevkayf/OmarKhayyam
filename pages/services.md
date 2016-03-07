@@ -7,7 +7,7 @@ header:
   caption_url: https://vsevkayf.github.io/OmarKhayyam/
 title: "Services"
 meta_title: "services"
-subheadline: "Tell Us What's On Your Mind"
+subheadline: ""
 teaser: ""
 permalink: "/services/"
 ---
