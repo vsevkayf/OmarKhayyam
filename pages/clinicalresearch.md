@@ -2,7 +2,7 @@
 layout: page
 header:
   title: SCRC
-  image_fullwidth: parallax.jpg
+  image_fullwidth: microdude.jpg
   caption: Soroka Clinical Research Center
   caption_url: https://vsevkayf.github.io/OmarKhayyam/
 title: "Clinical Research"
