@@ -6,7 +6,7 @@ header:
   caption: Soroka Clinical Research Center
   caption_url: https://vsevkayf.github.io/OmarKhayyam/
 title: "Contact Form"
-meta_title: "Contact Us"
+meta_title: "contact"
 subheadline: "Tell Us What's On Your Mind"
 teaser: ""
 permalink: "/contact/"
