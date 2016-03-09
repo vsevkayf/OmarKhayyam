@@ -2,40 +2,15 @@
 layout: page
 header:
   title: SCRC
-  image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: parallax.jpg
   caption: Soroka Clinical Research Center
   caption_url: https://vsevkayf.github.io/OmarKhayyam/
-title: "Contact Form"
-meta_title: "Contact Us"
-subheadline: "Tell Us What's On Your Mind"
+title: "Industry- Initiated Research"
+meta_title: "indures"
+subheadline: ""
 teaser: ""
-permalink: "/contact/"
+permalink: "/indures/"
 ---
-<div class="col-sm-6 col-sm-offset-6 col-md-4 col-md-offset-8 form">
-	<form action="https://getsimpleform.com/messages?form_api_token=39dda43c5bb42c646bc0a41d973c9a36" method="post">
-		<div class="form-field">
-			<input name="name" type="text" placeholder="Name" required>
-		</div>
-		<div class="form-field">
-			<input name="title" type="text" placeholder="Title" required>
-		</div>
-		<div class="form-field">
-			<input name="company Name" type="text" placeholder="Company Name" required>
-		</div>
-		<div class="form-field">
-			<input name="phone" type="tel" placeholder="Phone" required>
-		</div>
-		<div class="form-field">
-			<input name="email" type="email" placeholder="Email" required>
-		</div>
-		<div class="form-field">
-			<input name="How did you hear about us" type="text" placeholder="How did you hear about us" required>
-		</div>
-		<div class="form-field">
-			<textarea name="comments" placeholder="Message" required></textarea>
-		</div>
-		<input type="submit" class="btn btn-default" value="Send">
-	</form>
-</div>
 
-To submit a proposal for a new study use this <a href="http://sorokacrc.med.ad.bgu.ac.il/New%20study%20form.doc">form</a>.
+Soroka University Medical Center is an excellent site for conducting sponsored research. The vast majority of the industry trials are currently outsourced to Contract Research Organizations (CROs). One of the main goals of CRO (which determines the study success) is to identify successful trial sites. The crucial parts are enrollment and follow up of the patient population. Soroka has a unique ability to access a large number of patients in every field of medicine, being the only hospital a large region and serving a population of over 600,000. Moreover, due to the unique structure of the medical services in the area, the study population lost to follow up is minimal. The standard of medicine practiced in Soroka is of highest Western standard, thus enabling SCRC to support complex scientific protocols. SCRC serves as a coordinating link between CROs, individual sponsors and clinical investigators.
+
