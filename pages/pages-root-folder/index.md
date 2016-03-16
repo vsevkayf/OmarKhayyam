@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  title: SCRC
+  title: Soroka Clinical Research Center
   image_fullwidth: you-can-delete-me-header.png
   caption: Soroka Clinical Research Center
   caption_url: https://vsevkayf.github.io/OmarKhayyam/
