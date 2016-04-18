@@ -11,8 +11,8 @@
   dropdown:
   - title: "Vision"
     url: "/vision/"
-  - title: "Staff"
-    url: "/staff/"
+  - title: "Team"
+    url: "/team/"
   - title: "Collaboration"
     url: "/collaboration/"
   - title: "Soroka Medical Center"
