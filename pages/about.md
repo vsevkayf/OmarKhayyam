@@ -1,7 +1,11 @@
 ---
 layout: page
 header:
+<<<<<<< HEAD
   title: Soroka Clinical Research Center 
+=======
+  title: Soroka Clinical Research Center
+>>>>>>> refs/remotes/origin/master
   image_fullwidth: twodudes.png
   caption: Soroka Clinical Research Center
   caption_url: https://vsevkayf.github.io/OmarKhayyam/
