@@ -18,15 +18,14 @@ Some of the sponsored researches that take place at Soroka University Medical Ce
 
 • True AHF
 • MARINER
-• PERIPHERAL TINNITUS  
+• PERIPHERAL TINNITUS
 • AMPACT1
 • Growth Hormone Deficiency
 • PACE
-• RSV 
+• RSV
 • CAMEO
 • Persuit Peds PK
 • LOTUS
 • RESPIRE
 • RAINIER
 • MediWound
-
