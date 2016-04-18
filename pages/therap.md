@@ -11,3 +11,30 @@ subheadline: ""
 teaser: ""
 permalink: "/therap/"
 ---
+■ Bariatric Surgery
+
+■ Cardiology
+
+■ Diabetis
+
+■ ENT - Ear, Nose and Throat
+
+■ Gastroenterology 
+
+■ Hematology
+
+■ Infectious Diseases
+
+■ Intensive Care
+
+■ Internal Medicine
+
+■ Neurology
+
+■ OB\GYN - Obstetrics and Gynecology
+
+■ Oncology
+
+■ Pediatrics
+
+■ Pulmonology
