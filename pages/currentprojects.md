@@ -50,7 +50,7 @@ Our purpose is  to assess the epidemiology of Leishmania infection in Southern I
 • Fracture Prevention
 Osteoporotic fractures, including hip fractures, are common and a major health care issues worldwide, with increasing incidence with time. Every fragility fracture signals increased risk of future fractures as well as risk of premature mortality. Osteoporotic fractures carry a major health care impact worldwide, manifest both in terms of early mortality, decreased quality of life and an economic burden. We assume that intervention with various forms of Fracture Liaison Service, will reduce fracture rates by 25% and will be cost-effective. Our goal is to create a pathway for successful implementation of a multifaceted intervention for prevention of recurrent fractures. 
 
-Stroke registry
+• Stroke registry
 Some of the preventable and non-preventable risk factors for stroke has been established decades ago, including hypertension, dyslipidemia, age and race. Early diagnosis of stroke allows medical staff to provide treatment which reduces stroke related morbidity and mortality.
 The main objective of this project is to identify additional risk factor for stroke in order to raise the level of suspicion in the ED for stroke patients and provide with faster and better medical care. 
 
