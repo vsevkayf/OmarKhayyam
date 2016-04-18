@@ -54,10 +54,6 @@
 #  url: "/info/"
 #  side: right
 
-- img: "logo.png"
-  url: ""
-  side: right
-  
 - title: "Search"
   url: "/search/"
   side: right
