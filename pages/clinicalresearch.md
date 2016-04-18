@@ -12,5 +12,5 @@ teaser: ""
 permalink: "/clinicalresearch/"
 ---
 
-The clinical research has an important part in treatung patients. It enables the hospital to give the most advanced and cutling edge treatments while exploring the amazing human body.
+The clinical research has an important part in treating patients. It enables the hospital to give the most advanced and cutting edge treatments while exploring the amazing human body.
 The SCRC is working according to the ICH-GCP regulations.
