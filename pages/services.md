@@ -13,6 +13,7 @@ permalink: "/services/"
 ---
 
 •   SCRC is responsible for the organization and supervision of both investigator- initiated academic research and industry-       initiated research.
+
 • 	The Center provides epidemiological and statistical expertise, study execution services and clinical monitoring.
 
 Among the services provided by the Center are the following:
