@@ -70,7 +70,7 @@ body.video cite { color: #fff; }
     background-color: $primary-color;
 }
 #masthead-with-text {
-    text-align: end;
+    text-align: center;
     font-size: rem-calc(55);
     font-family: $header-font-family;
     color: #aaff77;
@@ -334,6 +334,7 @@ body.video cite { color: #fff; }
 .t70 { margin-top: 70px !important; }
 .t80 { margin-top: 80px !important; }
 .t90 { margin-top: 90px !important; }
+.t200 { margin-top: 200px !important; }
 
 .b15 { margin-bottom: 15px !important; }
 .b20 { margin-bottom: 20px !important; }
