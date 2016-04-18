@@ -96,20 +96,6 @@ PI Dr. Victor Novack.
 Soils as a source for atmospheric particles: A Spatio- Temporal impact on air Quality and human health in the Negev.
 Environmental Health Fund, 2010
 PI Dr. Itzhak Katra.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 •
 Recurrent Admissions to Emergency Department.
 National Institute for Health Policy Research (NIHPR), 2014
