@@ -70,18 +70,18 @@ body.video cite { color: #fff; }
     background-color: $primary-color;
 }
 #masthead-with-text {
-    text-align: left;
+    text-align: end;
     font-size: rem-calc(55);
     font-family: $header-font-family;
     color: #aaff77;
-    text-transform: uppercase;
-    text-shadow: 0 2px 3px rgba(0,0,0,.4);
+    text-transform: capitalize;
+    text-shadow: 0 5px 10px rgba(0, 0, 0, 5);
 }
 #masthead-no-image-header {
     height: 175px;
 }
 #masthead-no-image-header #logo img {
-    margin-top: 120px;
+    margin-top: 60px;
 }
 
 /* Masthead › small-only
