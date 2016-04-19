@@ -20,6 +20,6 @@ permalink: "/soroka/"
 
 •	This unique setup of one hospital in one large geographic area facilitates a close follow-up and population-based assessment with minimal referral bias and virtually no patients are lost to follow-up.
 
-<a href="hospitals.clalit.co.il/hospitals/soroka/en-us">
+<a href=hospitals.clalit.co.il/hospitals/soroka/en-us>
   <img src="http://hospitals.clalit.co.il/hospitals/soroka/en-us/PublishingImages/Map.jpg" alt="Soroka Map is Loading" style="width:42px;height:42px;border:0;">
 </a>
