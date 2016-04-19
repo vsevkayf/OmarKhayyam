@@ -54,6 +54,31 @@
 #  url: "/info/"
 #  side: right
 
+- title: "Usefull Links"
+  url: ""
+  side: right
+    dropdown:
+  - title: "Soroka University Medical Center"
+    url: "http://hospitals.clalit.co.il/hospitals/soroka/en-us/Pages/Home.aspx"
+  - title: "Ben Gurion University of the Negev"
+    url: "http://in.bgu.ac.il/en/Pages/default.aspx"
+  - title: "Ministry of Health"
+    url: "http://www.health.gov.il/English/Pages/HomePage.aspx"
+  - title: "IRB, Helsinki"
+    url: "http://in.bgu.ac.il/en/osr/Pages/Ethics.aspx"
+  - title: "ICH-GCP"
+    url: "http://ichgcp.net/"
+  - title: "PubMed"
+    url: "http://www.ncbi.nlm.nih.gov/pubmed/"
+  - title: "Epi Data"
+    url: "http://www.epidata.dk/"
+  - title: "Open Clinica"
+    url: "https://community.openclinica.com/"
+  - title: "Clalit"
+    url: "http://www.clalit-global.co.il/en/"
+  - title: "Win Pepi"
+    url: "http://www.brixtonhealth.com/pepi4windows.html"
+
 - title: "Search"
   url: "/search/"
   side: right
