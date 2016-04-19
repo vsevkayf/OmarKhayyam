@@ -12,6 +12,102 @@ teaser: ""
 permalink: "/team/"
 ---
 
+<div id="team" class="team"> 
+    <h2 class="section-title">Our Team</h2> 
+    <div id="team-carousel" class="owl-carousel owl-theme" style="opacity: 1; display: block;">
+    
+        <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 4718px; left: 0px; display: block; transition: all 1000ms ease; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 337px;"><div class="expandable-box">
+            <div class="expandable-box-top">
+                <img src="/SCRC/img/VICTOR.png" alt="Prof. Victor Novack MD, PhD <br> Head of Soroka Clinical Research Center">
+                <h4>Prof. Victor Novack MD, PhD <br> Head of Soroka Clinical Research Center</h4>
+            </div>
+            <div class="expandable-box-bottom">
+                <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Victorno@clalit.org.il"><svg class="icon icon-envelope"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-envelope"></use></svg></span>
+                <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="972 8 640 3486"><svg class="icon icon-phone"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-phone"></use></svg></span>
+            </div>
+        </div></div><div class="owl-item" style="width: 337px;"><div class="expandable-box">
+            <div class="expandable-box-top">
+                <img src="/SCRC/img/team.jpg" alt="">
+                <h4></h4>
+            </div>
+            <div class="expandable-box-bottom">
+                <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="email@gmail.com"><svg class="icon icon-envelope"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-envelope"></use></svg></span>
+                <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="9659 43 21"><svg class="icon icon-phone"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-phone"></use></svg></span>
+            </div>
+        </div></div><div class="owl-item" style="width: 337px;"><div class="expandable-box">
+            <div class="expandable-box-top">
+                <img src="/SCRC/img/team.jpg" alt="">
+                <h4></h4>
+            </div>
+            <div class="expandable-box-bottom">
+                <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="email@gmail.com"><svg class="icon icon-envelope"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-envelope"></use></svg></span>
+                <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="9659 43 21"><svg class="icon icon-phone"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-phone"></use></svg></span>
+            </div>
+        </div></div><div class="owl-item" style="width: 337px;"><div class="expandable-box">
+            <div class="expandable-box-top">
+                <img src="/SCRC/img/team.jpg" alt="">
+                <h4></h4>
+            </div>
+            <div class="expandable-box-bottom">
+                <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="email@gmail.com"><svg class="icon icon-envelope"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-envelope"></use></svg></span>
+                <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="9659 43 21"><svg class="icon icon-phone"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-phone"></use></svg></span>
+            </div>
+        </div></div><div class="owl-item" style="width: 337px;"><div class="expandable-box">
+            <div class="expandable-box-top">
+                <img src="/SCRC/img/team.jpg" alt="">
+                <h4></h4>
+            </div>
+            <div class="expandable-box-bottom">
+                <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="email@gmail.com"><svg class="icon icon-envelope"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-envelope"></use></svg></span>
+                <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="9659 43 21"><svg class="icon icon-phone"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-phone"></use></svg></span>
+            </div>
+        </div></div><div class="owl-item" style="width: 337px;"><div class="expandable-box">
+            <div class="expandable-box-top">
+                <img src="/SCRC/img/team.jpg" alt="">
+                <h4></h4>
+            </div>
+            <div class="expandable-box-bottom">
+                <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="email@gmail.com"><svg class="icon icon-envelope"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-envelope"></use></svg></span>
+                <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="9659 43 21"><svg class="icon icon-phone"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-phone"></use></svg></span>
+            </div>
+        </div></div><div class="owl-item" style="width: 337px;"><div class="expandable-box">
+            <div class="expandable-box-top">
+                <img src="/SCRC/img/team.jpg" alt="">
+                <h4></h4>
+            </div>
+            <div class="expandable-box-bottom">
+                <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="email@gmail.com"><svg class="icon icon-envelope"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-envelope"></use></svg></span>
+                <span data-toggle="tooltip" data-placement="bottom" title="" data-original-title="9659 43 21"><svg class="icon icon-phone"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-phone"></use></svg></span>
+            </div>
+        </div></div></div></div>
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    <div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 Office   
 
 Prof. Victor Novack MD, PhD 
