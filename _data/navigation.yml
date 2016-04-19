@@ -57,7 +57,7 @@
 - title: "Usefull Links"
   url: ""
   side: right
-    dropdown:
+  dropdown:
   - title: "Soroka University Medical Center"
     url: "http://hospitals.clalit.co.il/hospitals/soroka/en-us/Pages/Home.aspx"
   - title: "Ben Gurion University of the Negev"
