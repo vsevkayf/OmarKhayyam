@@ -12,6 +12,9 @@ teaser: ""
 permalink: "/soroka/"
 ---
 
+<body style="background-color: rgb(38,38,38); height: 100%; width: 100%; overflow: hidden; margin: 0"><embed width="100%" height="100%" name="plugin" id="plugin" src="http://hospitals.clalit.co.il/hospitals/Soroka/SiteCollectionImages/soroka.swf" type="application/x-shockwave-flash"></body>
+
+
 •	Soroka University Medical Center is the only tertiary hospital in the Negev region and therefore provides primary medical services to a large population of 600,000. As a tertiary hospital Soroka serves a population of no less than 1 million.
 
 •	Medicine practiced at Soroka University Medical Center is of the highest Western standards.    
