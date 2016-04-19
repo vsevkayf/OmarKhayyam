@@ -11,6 +11,82 @@ subheadline: "Here we are"
 teaser: ""
 permalink: "/team/"
 ---
+element.style {
+}
+.team {
+    overflow: hidden;
+    color: #fff;
+    background: #40b4ba;
+}
+.main-footer, .treatments, .about, .testimonials .overlay-container, .gallery, .team {
+    padding: 60px 0;
+}
+*, *:after, *:before {
+    box-sizing: inherit;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from body#top
+body {
+    margin: 0;
+    color: #555;
+    font-family: "Open Sans",sans-serif;
+    font-size: 0.875rem;
+    line-height: 1.6;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #333;
+    background-color: #fff;
+}
+Inherited from html
+@media (min-width: 1200px)
+html {
+    font-size: 100%;
+}
+@media (min-width: 768px)
+html {
+    font-size: 90%;
+}
+html {
+    box-sizing: border-box;
+    font-size: 85%;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: transparent;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+Pseudo ::before element
+*, *:after, *:before {
+    box-sizing: inherit;
+}
+*:before, *:after {
+    box-sizing: border-box;
+}
+Pseudo ::after element
+.three-shade-col:after, .gallery:after, .expandable-box-bottom:after, .team:after {
+    display: block;
+    content: '';
+    clear: both;
+}
+*, *:after, *:before {
+    box-sizing: inherit;
+}
+*:before, *:after {
+    box-sizing: border-box;
+}
 
 <div id="team" class="team"> 
     <h2 class="section-title">Our Team</h2> 
