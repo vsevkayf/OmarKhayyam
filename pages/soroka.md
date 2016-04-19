@@ -12,7 +12,8 @@ teaser: ""
 permalink: "/soroka/"
 ---
 
-<div style="background-color: rgb(38,38,38); height: 100%; width: 100%; overflow: hidden; margin: 0"><embed width="100%" height="100%" name="plugin" id="plugin" src="http://hospitals.clalit.co.il/hospitals/Soroka/SiteCollectionImages/soroka.swf" type="application/x-shockwave-flash"></div>
+<div id="headerFlash"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="778" height="156" wmode="transparent" align="right" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" id="loader"><param name="allowScriptAccess" value="sameDomain"><param name="allowFullScreen" value="false"><param name="movie" value="/hospitals/Soroka/SiteCollectionImages/soroka.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><param name="bgcolor" value="#ffffff"><embed src="/hospitals/Soroka/SiteCollectionImages/soroka.swf" quality="high" bgcolor="#ffffff" width="778" height="156" wmode="transparent" name="loader" align="right" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object></div>
+
 
 
 •	Soroka University Medical Center is the only tertiary hospital in the Negev region and therefore provides primary medical services to a large population of 600,000. As a tertiary hospital Soroka serves a population of no less than 1 million.
