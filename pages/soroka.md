@@ -19,3 +19,7 @@ permalink: "/soroka/"
 •	Soroka University Medical Center provides medical services in all fields of medicine. With more than 200,000 hospitalizations annually, our staff has an unparallel experience in treating a wide variety of clinical conditions. Our clinicians are trained to support majorly complicated research protocols in all medical specialties.  
 
 •	This unique setup of one hospital in one large geographic area facilitates a close follow-up and population-based assessment with minimal referral bias and virtually no patients are lost to follow-up.
+
+<a href="hospitals.clalit.co.il/hospitals/soroka/en-us">
+  <img src="http://hospitals.clalit.co.il/hospitals/soroka/en-us/PublishingImages/Map.jpg" alt="Soroka Map is Loading" style="width:42px;height:42px;border:0;">
+</a>
