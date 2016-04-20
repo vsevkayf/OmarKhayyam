@@ -42,3 +42,5 @@ widget3:
 permalink: /index.html
 ---
 ![SCRC](https://pixabay.com/static/uploads/photo/2015/03/26/09/42/mountain-690122_960_720.jpg)
+Our Mission
+Hoorah
