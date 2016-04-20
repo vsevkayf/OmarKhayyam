@@ -3,13 +3,13 @@ layout: page
 #
 # Content
 #
-subheadline: "Dummy"
-title: "You can delete this file"
-teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+subheadline: ""
+title: "Our Mission"
+teaser: "Our mission is to lead and support clinical study from the very first step of the project- formulation of a scientific idea, through the data collection and analysis, to the final step - integration of the scientific findings into the clinical practice."
 categories:
-  - dummy
+  - About
 tags:
-  - dummy
+  - About
 #
 # Styling
 #
@@ -17,8 +17,8 @@ image:
   header: ""
   thumb: "you-can-delete-me-thumb.png"
   homepage: "you-can-delete-me-homepage.png"
-  caption: "Caption?"
-  url: "http://phlow.de/"
+  caption: ""
+  url: ""
 ---
 
 
