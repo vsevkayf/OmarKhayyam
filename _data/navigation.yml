@@ -1,7 +1,7 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Start
+- title: Home
   url: "/"
   side: left
 
@@ -40,6 +40,60 @@
   - title: "Industry- Initiated Research"
     url: "/indures/"
 
+- title: "Links"
+  url: ""
+  side: left
+  dropdown:
+  - title: "Soroka University Medical Center"
+    url: "http://hospitals.clalit.co.il/hospitals/soroka/en-us/Pages/Home.aspx"
+    attributes:
+      target: '_blank'
+  - title: "Ben Gurion University of the Negev"
+    url: "http://in.bgu.ac.il/en/Pages/default.aspx"
+    attributes:
+      target: '_blank'
+  - title: "Ministry of Health"
+    url: "http://www.health.gov.il/English/Pages/HomePage.aspx"
+    attributes:
+      target: '_blank'
+  - title: "IRB, Helsinki"
+    url: "http://hospitals.clalit.co.il/hospitals/soroka/he-il/AcSe/Research/Helsinki/Pages/Homepage.aspx"
+    attributes:
+      target: '_blank'
+  - title: "ICH-GCP"
+    url: "http://ichgcp.net/"
+    attributes:
+      target: '_blank'
+  - title: "PubMed"
+    url: "http://www.ncbi.nlm.nih.gov/pubmed/"
+    attributes:
+      target: '_blank'
+  - title: "Epi Data"
+    url: "http://www.epidata.dk/"
+    attributes:
+      target: '_blank'
+  - title: "Open Clinica"
+    url: "https://community.openclinica.com/"
+    attributes:
+      target: '_blank'
+  - title: "Clalit"
+    url: "http://www.clalit-global.co.il/en/"
+    attributes:
+      target: '_blank'
+  - title: "Win Pepi"
+    url: "http://www.brixtonhealth.com/pepi4windows.html"
+    attributes:
+      target: '_blank'
+
+- title: "Search"
+  url: "/search/"
+  side: left
+
+- title: "Contact"
+  url: "/contact/"
+  side: left
+
+
 #- title: Blog
 #  url: "/blog/"
 #  side: left
@@ -53,36 +107,3 @@
 #- title: "Info"
 #  url: "/info/"
 #  side: right
-
-- title: "Links"
-  url: ""
-  side: right
-  dropdown:
-  - title: "Soroka University Medical Center"
-    url: "http://hospitals.clalit.co.il/hospitals/soroka/en-us/Pages/Home.aspx"
-  - title: "Ben Gurion University of the Negev"
-    url: "http://in.bgu.ac.il/en/Pages/default.aspx"
-  - title: "Ministry of Health"
-    url: "http://www.health.gov.il/English/Pages/HomePage.aspx"
-  - title: "IRB, Helsinki"
-    url: "http://hospitals.clalit.co.il/hospitals/soroka/he-il/AcSe/Research/Helsinki/Pages/Homepage.aspx"
-  - title: "ICH-GCP"
-    url: "http://ichgcp.net/"
-  - title: "PubMed"
-    url: "http://www.ncbi.nlm.nih.gov/pubmed/"
-  - title: "Epi Data"
-    url: "http://www.epidata.dk/"
-  - title: "Open Clinica"
-    url: "https://community.openclinica.com/"
-  - title: "Clalit"
-    url: "http://www.clalit-global.co.il/en/"
-  - title: "Win Pepi"
-    url: "http://www.brixtonhealth.com/pepi4windows.html"
-
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: right
