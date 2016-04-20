@@ -9,6 +9,15 @@ format: blog-index
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+{% comment %}
+*
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
 
 {% comment %}
 *
@@ -101,16 +110,6 @@ format: blog-index
     </div><!-- /.row -->
 {% endunless %}
 
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
 
 <body><!--Start of Tawk.to Script-->
 <script type="text/javascript">
