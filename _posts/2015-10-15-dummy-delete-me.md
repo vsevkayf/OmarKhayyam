@@ -3,8 +3,8 @@ layout: page
 #
 # Content
 #
-subheadline: "Our"
-title: "Mission"
+subheadline: ""
+title: "Our Mission"
 teaser: "Our mission is to lead and support clinical study from the very first step of the project- formulation of a scientific idea, through the data collection and analysis, to the final step - integration of the scientific findings into the clinical practice."
 categories:
   - About
@@ -17,7 +17,7 @@ image:
   header: ""
   thumb: "you-can-delete-me-thumb.png"
   homepage: "you-can-delete-me-homepage.png"
-  caption: "Caption?"
+  caption: ""
   url: ""
 ---
 
