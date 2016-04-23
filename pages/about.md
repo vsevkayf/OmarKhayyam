@@ -12,7 +12,7 @@ teaser: ""
 permalink: "/about/"
 ---
 The Soroka Clinical Research Center (SCRC) at Soroka University Medical Center was established by the hospital management in September 2009 under the direction of  Prof. Victor Novack.
-work
+
 SCRC has become a leading entity in promoting clinical research at Soroka University Medical Center and also at national and international levels.
 
 The Center has extensive experience in study execution and clinical monitoring, and provides epidemiological and statistical guidance.
