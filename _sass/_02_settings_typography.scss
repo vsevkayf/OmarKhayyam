@@ -15,21 +15,22 @@ Modular Scale › http://modularscale.com/scale/?px1=16&px2=36&ra1=1.25&ra2=0
 /* Fonts
 ------------------------------------------------------------------- */
 
-$base-font-size: 16px;
+$base-font-size: 17px;
 $rem-base: $base-font-size;
 // $base-line-height is 24px while $base-font-size is 16px
 $base-line-height: 1.5 !default;
 
 
+$font-family-alef: "Alef", sans-serif;
 $font-family-sans-serif: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-family-serif: "Volkhov", Georgia, Times, serif;
 $font-family-monospace: "Lucida Console", Monaco, monospace;
 
-$body-font-family: $font-family-sans-serif;
+$body-font-family: $font-family-sans-alef;
 $body-font-weight: normal;
 $body-font-style: normal;
 
-$header-font-family: $font-family-serif;
+$header-font-family: $font-family-alef;
 
 
 
