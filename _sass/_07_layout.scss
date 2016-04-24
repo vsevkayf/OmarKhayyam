@@ -280,7 +280,7 @@ body.video cite { color: #fff; }
     #footer h5 {
         letter-spacing: 1px;
         color: #fff;
-        text-transform: uppercase;
+        text-transform: none;
     }
 
 
@@ -300,7 +300,7 @@ body.video cite { color: #fff; }
     #subfooter .credits a {
         color: $subfooter-link-color;
         border: 0;
-        text-transform: uppercase;
+        text-transform: none;
         &:hover {
             color: #fff;
         }
