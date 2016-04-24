@@ -57,13 +57,13 @@ $topbar-dropdown-toggle-color: $white !default;
 $topbar-dropdown-toggle-alpha: 0.4 !default;
 
 $topbar-dropdown-label-color: $monsoon !default;
-$topbar-dropdown-label-text-transform: uppercase !default;
+$topbar-dropdown-label-text-transform: none !default;
 $topbar-dropdown-label-font-weight: $font-weight-bold !default;
 $topbar-dropdown-label-font-size: rem-calc(10) !default;
 $topbar-dropdown-label-bg: $oil !default;
 
 // Top menu icon styles
-$topbar-menu-link-transform: uppercase !default;
+$topbar-menu-link-transform: none !default;
 $topbar-menu-link-font-size: rem-calc(13) !default;
 $topbar-menu-link-weight: $font-weight-bold !default;
 $topbar-menu-link-color: $white !default;
