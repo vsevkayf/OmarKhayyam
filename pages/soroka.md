@@ -18,13 +18,13 @@ permalink: "/soroka/"
 <h1>Soroka University Medical Center</h1>
 
 <p> </p>
-•	Soroka University Medical Center (SUMC) is the only tertiary hospital in the Negev region and therefore provides primary medical services to a large population of 600,000. As a tertiary hospital Soroka serves a population of more than 1 million.
+Soroka University Medical Center (SUMC) is the only tertiary hospital in the Negev region and therefore provides primary medical services to a large population of 600,000.  As a tertiary hospital Soroka serves a population of more than 1 million.
 
-•	Medicine practiced at Soroka University Medical Center is of the highest Western standards.    
+Medicine practiced at Soroka University Medical Center is of the highest Western standards.    
 
-•	Soroka University Medical Center provides medical services in all fields of medicine. With more than 200,000 hospitalizations annually, SUMC staff has an unparallel experience in treating a wide variety of clinical conditions. Our clinicians are trained to support majorly complicated research protocols in all medical specialties.  
+Soroka University Medical Center provides medical services in all fields of medicine.  With more than 200,000 hospitalizations annually, SUMC staff has an unparallel experience in treating a wide variety of clinical conditions.  Our clinicians are trained to support majorly complicated research protocols in all medical specialties.  
 
-•	This unique setup of one hospital in one large geographic area facilitates a close follow-up and population-based assessment with minimal referral bias and virtually no patients are lost to follow-up.
+This unique setup of one hospital in one large geographic area facilitates a close follow-up and population-based assessment with minimal referral bias and virtually no patients are lost to follow-up.
 
 Click to zoom
 <a href="http://hospitals.clalit.co.il/hospitals/soroka/en-us/PublishingImages/Map.jpg" target="_blank">
