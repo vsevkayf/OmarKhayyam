@@ -34,7 +34,7 @@ $off-canvas-bg-hover: scale-color($tabbar-bg, $lightness: -30%) !default;
 // Off Canvas Menu List Variables
 $off-canvas-label-padding: 0.3rem rem-calc(15) !default;
 $off-canvas-label-color: $aluminum !default;
-$off-canvas-label-text-transform: uppercase !default;
+$off-canvas-label-text-transform: none !default;
 $off-canvas-label-font-size: rem-calc(12) !default;
 $off-canvas-label-font-weight: $font-weight-bold !default;
 $off-canvas-label-bg: $tuatara !default;
