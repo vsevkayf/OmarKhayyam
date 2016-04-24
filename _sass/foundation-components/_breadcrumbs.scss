@@ -28,7 +28,7 @@ $crumb-font-size: rem-calc(11) !default;
 $crumb-font-color: $primary-color !default;
 $crumb-font-color-current: $oil !default;
 $crumb-font-color-unavailable: $aluminum !default;
-$crumb-font-transform: uppercase !default;
+$crumb-font-transform: none !default;
 $crumb-link-decor: underline !default;
 
 // We use these to control the slash between breadcrumbs
