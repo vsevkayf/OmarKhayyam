@@ -20,17 +20,4 @@ SCRC serves as a coordinating link between CROs, individual sponsors and clinica
 
 Some of the sponsored researches that take place at Soroka University Medical Center are:
 
-• PROSE  
-• MARINER  
-• Pediatric Severe Psoriasis  
-• INFLUENZA A  
-• COLOGUARD  
-• PACE  
-• RSV  
-• ACTELION  
-• Persuit Peds PK  
-• LOTUS  
-• RESPIRE  
-• NON TB MAC  
-
-And more.
+PROSE, MARINER, Pediatric Severe Psoriasis, INFLUENZA A, COLOGUARD, PACE, RSV, ACTELION, Persuit Peds PK, LOTUS, RESPIRE, NON TB MAC, and more.
