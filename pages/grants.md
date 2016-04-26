@@ -22,7 +22,7 @@ PI -Dr. Idit Liberti.
 
 
 • Clinical benefit of health resources utilization in the Negev region: does increased use lead to better outcomes?  
-National Institute for Health Policy, Israel  
+National Institute for Health Policy, Israel  2014
 PI - Dr. Ehud Davidson.  
 
 
@@ -32,17 +32,17 @@ PI- Dr. Ofer Beharir.
 
 
 • The Effect of Parathyroidectomy on Neuropsychological Morbidity and Quality of Life in Patients with Primary Hyperparathyroidism  
-SJNF, 2014  
+Soroka, 2014  
 PI - Dr. Anat Bahat Dinur.  
 
 
 • The Affects of Vitamin D levels on Frequency and Severity of Respiratorial Events in Children Less than Two Years Old  
-SJNF,2014  
+JNF-UK, 2014  
 PI- Dr. Inbal Tripto.  
 
 
 • Measurement of Thrombin Generation in High Risk Pregnancies  
-SJNF, 2014  
+JNF-UK, 2014  
 PI- Dr. Vered klaitman Mayer.  
 
 
@@ -76,16 +76,6 @@ Ministry of Environmental Protection, 2014
 PIs - Dr. Orly Sagi, Dr. Yonat Shemer.  
 
 
-• Prediction of Infectious and Thrombotic Vascular Catheters Complications in Pediatric Intensive Care.  
-2011  
-PI Dr. Zahi Lazar.  
-
-
-• CROCS Study: collaborative regional colorectal cancer screening. Identification and screening of the first degree relatives of patients with colorectal cancer.  
-Israeli Cancer Research Society  
-PI Dr. Shlomi Codish.  
-
-
 • Recurrent Admissions to Emergency Department.  
 National Institute for Health Policy Research (NIHPR), 2014  
 PI - Dr. Orly Weinstein.  
@@ -101,6 +91,16 @@ MFS, 2014
 PI - Prof. Victor Novack.  
 
 
+• Prediction of Infectious and Thrombotic Vascular Catheters Complications in Pediatric Intensive Care.  
+2011  
+PI Dr. Zahi Lazar.  
+
+
+• CROCS Study: collaborative regional colorectal cancer screening. Identification and screening of the first degree relatives of patients with colorectal cancer.  
+Israeli Cancer Research Society, 2011.  
+PI Dr. Shlomi Codish.  
+
+
 • The influence of the temporal cessation of ACE (Angiotensin Converting Enzyme) inhibitors/ Angiotensin Receptor Blockers on renal function in patients with creatinine above 1.5 mg/dl undergoing non- emergent coronary angiography. Randomized controlled study.  
 The Faculty of Health Sciences, Ben Gurion University of the Negev, 2011.  
 PI Dr. Talia Wolak.  
@@ -112,7 +112,7 @@ PI Dr. Talia Wolak.
 
 
 • Recurrent hospitalization - prediction tool derivation and validation.  
-The Israeli National Institute for Health Policy Research, 2011  
+The Israeli National Institute for Health Policy Research, 2011.  
 PI Dr. Efrat Shadmi.  
 
 
@@ -122,7 +122,7 @@ PI Dr. Victor Novack.
 
 
 • The impact of TIOTROPIUM INCLUSION to the Israeli health basket on hospitalizations in chronic obstructive pulmonary disease.  
-Clalit Health Services, 2011  
+Clalit Health Services, 2011.  
 PI - Dr. Nimrod Maimon.  
 
 
@@ -132,20 +132,20 @@ PI - Prof. Arnon Wiznitzer.
 
 
 • Incidence of surgical site infection (SSI) among children: Longtidunal Multi-Centeral study.  
-Clalit Health Services, 2011  
+Clalit Health Services, 2011.  
 PI - Prof. Victor Novack.  
 
 
 • Epidemiology, outcomes and health expenditures of patients hospitalized with non surgical Sepsis \ Severe Sepsis in Intensive Care Units (ICU): A Multi-Center population- based study.  
-Ministry of Health, 2011  
+Ministry of Health, 2011.  
 PI Dr. Victor Novack.  
 
 
 • Soils as a source for atmospheric particles: A Spatio- Temporal impact on air Quality and human health in the Negev.  
-Environmental Health Fund, 2010  
+Environmental Health Fund, 2010.  
 PI Dr. Itzhak Katra.  
 
 
 • Evaluation of lipid levels during gestation and association with adverse pregnancy outcomes and subsequent development of true dyslipidemia.  
 Ministry of Health and Ministry of Immigrant Absorption, 2009.  
-PI Dr. Zahi Lazar.
+PI- Prof. Victor Novack.  
