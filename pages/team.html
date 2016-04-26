@@ -83,7 +83,7 @@ label.selected {
 </div>
 <div class="contact-map">
 
-  <div class="contact-card teacher cardid-1">
+  <div class="contact-card cardid-1 teacher">
     <img src="http://lorempixel.com/150/150/people/1" alt="" />
     <div class="info">
       <h3>Anna</h3>
@@ -92,7 +92,7 @@ label.selected {
       <p>mail:name@domain.com</p>
     </div>
   </div>
-  <div class="contact-card teacher cardid-2">
+  <div class="contact-card cardid-2 teacher">
     <img src="http://lorempixel.com/150/150/people/2" alt="" />
     <div class="info">
       <h3>Maria</h3>
@@ -150,7 +150,7 @@ label.selected {
 
 
 <script type="text/javascript">
-//$(".contact-card").addClass("hide");
+$(".contact-card").addClass("hide");
 $("label").on("click",function() {
   $(this).toggleClass( "selected");
   if ($(".selectors .selected").length > 0 ) {
