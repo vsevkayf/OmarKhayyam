@@ -12,19 +12,84 @@ teaser: ""
 permalink: "/team/"
 ---
 
-<!-- Start Our team -->
-<div id="team" class="team">
-## Our Team
-<div id="team-carousel">{% for member in site.data.team %}
-<div class="expandable-box">
-<div class="expandable-box-top">![{{ member.name }}]({{ site.baseurl }}/images/{{ member.image }})
-#### {{ member.name }}
+<div class="selectors">
+  <label id="all" value="all">All</label>
+  <label id="teacher" value="teacher">Teacher</label>
+  <label id="boss" value="boss">Boss</label>
+  <label id="admin" value="admin">Administration</label>
 </div>
-<div class="expandable-box-bottom"><span data-toggle="tooltip" data-placement="bottom" title="{{ member.email }}"></span><span data-toggle="tooltip" data-placement="bottom" title="{{ member.phone }}"></span></div>
+<div class="contact-map">
+
+  <div class="contact-card teacher cardid-1">
+    <img src="http://lorempixel.com/150/150/people/1" alt="" />
+    <div class="info">
+      <h3>Anna</h3>
+      <p>Teacher</p>
+      <p>Phone:123-456-789</p>
+      <p>mail:name@domain.com</p>
+    </div>
+  </div>
+  <div class="contact-card teacher cardid-2">
+    <img src="http://lorempixel.com/150/150/people/2" alt="" />
+    <div class="info">
+      <h3>Maria</h3>
+      <p>Teacher</p>
+      <p>Phone:123-456-789</p>
+      <p>mail:name@domain.com</p>
+    </div>
+  </div>
+  <div class="contact-card cardid-3 teacher">
+    <img src="http://lorempixel.com/150/150/people/3" alt="" />
+    <div class="info">
+      <h3>Sven</h3>
+      <p>Teacher</p>
+      <p>Phone:123-456-789</p>
+      <p>mail:name@domain.com</p>
+    </div>
+  </div>
+  <div class="contact-card cardid-4 boss">
+    <img src="http://lorempixel.com/150/150/people/4" alt="" />
+    <div class="info">
+      <h3>Jane</h3>
+      <p>Boss</p>
+      <p>Phone:123-456-789</p>
+      <p>mail:name@domain.com</p>
+    </div>
+  </div>
+  <div class="contact-card cardid-5 boss admin">
+    <img src="http://lorempixel.com/150/150/people/5" alt="" />
+    <div class="info">
+      <h3>Anders</h3>
+      <p>Boss</p>
+      <p>Phone:123-456-789</p>
+      <p>mail:name@domain.com</p>
+    </div>
+  </div>
+    <div class="contact-card cardid-6 admin">
+    <img src="http://lorempixel.com/150/150/people/7" alt="" />
+    <div class="info">
+      <h3>Hanna</h3>
+      <p>Administration</p>
+      <p>Phone:123-456-789</p>
+      <p>mail:name@domain.com</p>
+    </div>
+  </div>
+    <div class="contact-card cardid-7 admin">
+    <img src="http://lorempixel.com/150/150/people/8" alt="" />
+    <div class="info">
+      <h3>Gun</h3>
+      <p>Administration</p>
+      <p>Phone:123-456-789</p>
+      <p>mail:name@domain.com</p>
+    </div>
+  </div>
 </div>
-{% endfor %}</div>
-</div>
-<!-- End Our team -->
+
+
+
+
+
+
 
 
 
