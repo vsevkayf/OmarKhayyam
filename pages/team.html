@@ -76,9 +76,8 @@ label.selected {
 </style>
 
 <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-
 <script type="text/javascript">
-$(".contact-card").addClass("hide");
+//$(".contact-card").addClass("hide");
 $("label").on("click",function() {
   $(this).toggleClass( "selected");
   if ($(".selectors .selected").length > 0 ) {
@@ -95,6 +94,11 @@ $("label#all").on("click",function() {
   $("label").removeClass("selected");
   $(".contact-card").removeClass("show").removeClass("hide").fadeIn(200);
 })
+window.onload = function() {
+ 
+    alert( "welcome" );
+ 
+};
 </script>
 
 
