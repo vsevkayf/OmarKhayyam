@@ -73,7 +73,7 @@
     attributes:
       target: '_blank'
   - title: "Open Clinica"
-    url: "https://community.openclinica.com/"
+    url: "http://docs.openclinica.com/downloads"
     attributes:
       target: '_blank'
   - title: "Clalit"
