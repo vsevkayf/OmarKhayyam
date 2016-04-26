@@ -14,25 +14,15 @@ permalink: "/team/"
 
 <!-- Start Our team -->
 <div id="team" class="team">
-
 ## Our Team
-
 <div id="team-carousel">{% for member in site.data.team %}
-
 <div class="expandable-box">
-
 <div class="expandable-box-top">![{{ member.name }}]({{ site.baseurl }}/img/{{ member.image }})
-
 #### {{ member.name }}
-
 </div>
-
 <div class="expandable-box-bottom"><span data-toggle="tooltip" data-placement="bottom" title="{{ member.email }}"></span><span data-toggle="tooltip" data-placement="bottom" title="{{ member.phone }}"></span></div>
-
 </div>
-
 {% endfor %}</div>
-
 </div>
 <!-- End Our team -->
 
