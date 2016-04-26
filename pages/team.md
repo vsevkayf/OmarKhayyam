@@ -12,19 +12,25 @@ teaser: ""
 permalink: "/team/"
 ---
 
-<div class="your-class">
-  <div>your content</div>
-  <div>your content</div>
-  <div>your content</div>
+<!-- Start Our team -->
+<div id="team" class="team"> 
+    <h2 class="section-title">Our Team</h2> 
+    <div id="team-carousel">
+    {% for member in site.data.team %}
+        <div class="expandable-box">
+            <div class="expandable-box-top">
+                <img src="{{ site.baseurl }}/img/{{ member.image }}" alt="{{ member.name }}">
+                <h4>{{ member.name }}</h4>
+            </div>
+            <div class="expandable-box-bottom">
+                <span data-toggle="tooltip" data-placement="bottom" title="{{ member.email }}"><svg class="icon icon-envelope"><use xlink:href="#icon-envelope"></use></svg></span>
+                <span data-toggle="tooltip" data-placement="bottom" title="{{ member.phone }}"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></span>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
 </div>
-
-
-$('.autoplay').slick({
-  slidesToShow: 3,
-  slidesToScroll: 1,
-  autoplay: true,
-  autoplaySpeed: 2000,
-});
+<!-- End Our team -->
 
 
 
