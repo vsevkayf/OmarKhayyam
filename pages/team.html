@@ -13,32 +13,34 @@ permalink: "/team/"
 ---
 
 <style>
-  .scalable {
+.intrinsic-container {
+  position: relative;
+  height: 0;
   overflow: hidden;
 }
-
-.scalable iframe {
-  height: 100%;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 100%;
-}
-
-.scalable .scalable-content {
-  height: 0;
-  position: relative;
-}
-
-.scalable-16-9 .scalable-content {
-  /* Percentage from 9 divided by 16 for ratio of 16:9 (56.25%). nahh f that 100 % */
+ 
+/* 16x9 Aspect Ratio */
+.intrinsic-container-16x9 {
   padding-bottom: 56.25%;
+}
+ 
+/* 4x3 Aspect Ratio */
+.intrinsic-container-4x3 {
+  padding-bottom: 75%;
+}
+ 
+.intrinsic-container iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 </style>
 
 
 
-  <div class="scalable">
-    <iframe src="http://vsevkayf.github.io/OmarKhayyam/pages/teamframe.html" scrolling="no" frameBorder="0"></iframe>
-  </div>
+<div class="intrinsic-container">
+      <iframe src="http://vsevkayf.github.io/OmarKhayyam/pages/teamframe.html" scrolling="no" frameBorder="0" allowfullscreen></iframe>
+</div>
