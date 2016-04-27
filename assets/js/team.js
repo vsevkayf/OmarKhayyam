@@ -15,8 +15,6 @@ $("label#all").on("click",function() {
   $("label").removeClass("selected");
   $(".contact-card").removeClass("show").removeClass("hide").fadeIn(200);
 })
-window.onload = function() {
- 
-    alert( "welcome" );
+
  
 };
