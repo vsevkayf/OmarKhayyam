@@ -21,6 +21,30 @@
   <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.3.js"></script>
 
  <script>alert('hi there')</script>
+ <script type='text/javascript'>//<![CDATA[
+$(window).load(function(){
+
+//$(".contact-card").addClass("hide");
+$("label").on("click",function() {
+  $(this).toggleClass( "selected");
+  if ($(".selectors .selected").length > 0 ) {
+    var $show = $(this).attr("value");
+    $(".contact-card." + $show).toggleClass("show").removeClass("hide").fadeIn(200);
+    var $hide = $("div.contact-card").not(".show");
+    $($hide).fadeOut(300).addClass("hide");
+  }
+  else { 
+    $(".contact-card").removeClass("show").removeClass("hide").fadeIn(200);
+  }
+});
+$("label#all").on("click",function() {
+  $("label").removeClass("selected");
+  $(".contact-card").removeClass("show").removeClass("hide").fadeIn(200);
+})
+});//]]> 
+
+</script>
+
 
 
   <style type="text/css">
@@ -87,34 +111,6 @@ label.selected {
 }
   </style>
 
-
-
-
-<script type='text/javascript'>//<![CDATA[
-$(window).load(function(){
-
-//$(".contact-card").addClass("hide");
-$("label").on("click",function() {
-  $(this).toggleClass( "selected");
-  if ($(".selectors .selected").length > 0 ) {
-    var $show = $(this).attr("value");
-    $(".contact-card." + $show).toggleClass("show").removeClass("hide").fadeIn(200);
-    var $hide = $("div.contact-card").not(".show");
-    $($hide).fadeOut(300).addClass("hide");
-  }
-  else { 
-    $(".contact-card").removeClass("show").removeClass("hide").fadeIn(200);
-  }
-});
-$("label#all").on("click",function() {
-  $("label").removeClass("selected");
-  $(".contact-card").removeClass("show").removeClass("hide").fadeIn(200);
-})
-});//]]> 
-
-</script>
-
-  
 </head>
 
 <body>
