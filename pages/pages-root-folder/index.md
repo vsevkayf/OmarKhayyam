@@ -8,8 +8,8 @@ layout: frontpage
 header:
   title: Soroka Clinical Research Center
   image_fullwidth: you-can-delete-me-header.png
-  caption: Soroka Clinical Research Center
-  caption_url: https://vsevkayf.github.io/OmarKhayyam/
+  caption:
+  caption_url:
 widget1:
   title: "Widget 1"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
