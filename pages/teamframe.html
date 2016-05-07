@@ -30,7 +30,7 @@ $("label").on("click",function() {
     var $show = $(this).attr("value");
     $(".contact-card." + $show).toggleClass("show").removeClass("hide").fadeIn(200);
     var $hide = $("div.contact-card").not(".show");
-    $($hide).fadeOut(300).addClass("hide");
+    $($hide).fadeOut(500).addClass("hide");
   }
   else { 
     $(".contact-card").removeClass("show").removeClass("hide").fadeIn(200);
