@@ -24,7 +24,7 @@ author: vsevkayf
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://vsevkayf.github.io/OmarKhayyam'
+url: 'http://vsevkayf.github.io/OmarKhayyam'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
