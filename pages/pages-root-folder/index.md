@@ -39,7 +39,7 @@ permalink: /index.html
   </tr>
   <tr>
     <td>a</td>
-    <td><!-- start sw-rss-feed code --> 
+    <td style="width:100%;height:100%;"><!-- start sw-rss-feed code --> 
 <script type="text/javascript"> 
 <!-- 
 rssfeed_url = new Array(); 
