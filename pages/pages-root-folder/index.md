@@ -8,23 +8,6 @@ layout: frontpage
 header:
   title: Soroka Clinical Research Center
   image_fullwidth: you-can-delete-me-header.png
-  caption:
-  caption_url:
-widget1:
-  title: "Vision"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
-widget2:
-  title: "Recent Publications"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
-widget3:
-  title: "News"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -41,3 +24,27 @@ widget3:
 #  style: alert
 permalink: /index.html
 ---
+
+
+<table style="width:100%">
+  <tr>
+    <td><img src="http://vsevkayf.github.io/NEHSI/images/rsz_1b7dust.png" style="width:100%;height:64%;"></td>
+    <td><img src="http://vsevkayf.github.io/NEHSI/images/rsz_1b7ya.png" style="width:100%;height:64%;"></td>		
+    <td><img src="http://vsevkayf.github.io/NEHSI/images/rsz_1b7beach.png" style="width:100%;height:64%;"></td>
+  </tr>
+  <tr>
+    <td>Vision</td>
+    <td>Recent Publications</td>		
+    <td>News</td>
+  </tr>
+  <tr>
+    <td>a</td>
+    <td>b</td>		
+    <td>c</td>
+  </tr>
+  <tr>
+    <td>d</td>
+    <td>e</td>		
+    <td>f</td>
+  </tr>
+</table>
