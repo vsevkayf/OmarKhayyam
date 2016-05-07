@@ -40,6 +40,10 @@
   - title: "Industry- Initiated Research"
     url: "/indures/"
 
+- title: "Publications"
+  url: "/pubs/"
+  side: left
+
 - title: "Links"
   url: ""
   side: left
