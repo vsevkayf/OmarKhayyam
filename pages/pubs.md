@@ -66,8 +66,7 @@ study of pregnant Bedouin-Arab women. Sci Total Environ. 2015 Jun 1;517:106-12.
 doi: 10.1016/j.scitotenv.2015.02.056. Epub 2015 Feb 25. PubMed PMID: 25725195.
 17. Lev-Ran O, Matsa M, Ishay Y, Shabtai A, Vodonos A, Sahar G. Retroaortic right
 internal thoracic artery grafting of circumflex artery targets. Asian Cardiovasc 
-Thorac Ann. 2015 Jun;23(5):543-51. doi: 10.1177/0218492315573360. Epub 2015 Feb
-20. PubMed PMID: 25700706.
+Thorac Ann. 2015 Jun;23(5):543-51. doi: 10.1177/0218492315573360. Epub 2015 Feb 20. PubMed PMID: 25700706.
 18. Abu Freha N, Schwartz D, Elkrinawi J, Ben Yakov G, Abu Tailakh M, Munteanu D,
 Abu Ganim A, Fich A. Inflammatory bowel disease among Bedouin Arabs in southern
 Israel: urbanization and increasing prevalence rates. Eur J Gastroenterol
