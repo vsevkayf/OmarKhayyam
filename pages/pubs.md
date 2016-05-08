@@ -13,153 +13,211 @@ permalink: "/pubs/"
 ---
 
 1. Yohai D, Baumfeld Y, Zilberstein T, Yaniv Salem S, Elharar D, Idan I, Mastrolia SA, Sheiner E. Does gender of the fetus have any relation with fetal heart monitoring during the first and second stage of labor? J Matern Fetal Neonatal Med. 2016 Apr 19:1-5. [Epub ahead of print] PubMed PMID: 27003831.  
-
-
 2. Serlin Y, Shafat T, Levy J, Winter A, Shneck M, Knyazer B, Parmet Y, Shalev H, Ur E, Friedman A. Angiographic evidence of proliferative retinopathy predicts neuropsychiatric morbidity in diabetic patients. Psychoneuroendocrinology. 2016 May;67:163-70. doi: 10.1016/j.psyneuen.2016.02.009. Epub 2016 Feb 12. PubMed PMID: 26907995.  
-
-
 3. Granek L, Mizrakli Y, Ariad S, Jotkowitz A, Geffen DB. Impact of a 3-Day Introductory Oncology Course on First-Year International Medical Students. J Cancer Educ. 2016 Feb 5. [Epub ahead of print] PubMed PMID: 26847466.  
-
-
 4. Baron J, Hershkovitz R, Baumfeld Y, Imterat M, Sciaky-Tamir Y, Mastrolia SA, Schwarzman P, Weintraub AY. Postpartum uterine artery blood flow impedance following cesarean section or vaginal delivery. J Clin Ultrasound. 2015 Dec 15. doi: 10.1002/jcu.22315. [Epub ahead of print] PubMed PMID: 26666505.  
-
-
 5. Weintraub AY, Friedman T, Baumfeld Y, Neuman M, Krissi H. Long term subjective cure rate, urinary tract symptoms and dyspareunia following mesh augmented anterior vaginal wall prolapse repair. Int J Surg. 2015 Dec;24(Pt A):33-8. doi: 10.1016/j.ijsu.2015.10.027. Epub 2015 Oct 23. PubMed PMID: 26525268.  
-
-
 6. Felton D, Foley EM, Traub SJ, Vodonos A, Ganetsky M. Risk of Venous
 Thromboembolism After Receiving Prothrombin Complex Concentrate for
 Warfarin-associated Intracranial Hemorrhage. J Emerg Med. 2016 Jan;50(1):1-6.
 doi: 10.1016/j.jemermed.2015.07.001. Epub 2015 Sep 26. PubMed PMID: 26409668.
-
-
 7. Lin MJ, Tirosh AG, Landry A. Examining patient comprehension of emergency
 department discharge instructions: Who says they understand when they do not?
 Intern Emerg Med. 2015 Dec;10(8):993-1002. doi: 10.1007/s11739-015-1311-8. Epub
 2015 Sep 10. PubMed PMID: 26358466.
-
-
 8. Raz I, Novack L, Yitshak-Sade M, Shahar Y, Wiznitzer A, Sergienko R,
 Warshawsky-Livne L. Effects of changes in copayment for obstetric emergency room 
 visits on the utilization of obstetric emergency rooms. Health Policy. 2015
 Oct;119(10):1358-65. doi: 10.1016/j.healthpol.2015.08.006. Epub 2015 Aug 21.
 PubMed PMID: 26341842.
-
-
 9. Akbari M, Vodonos A, Silva G, Wungjiranirun M, Leffler DA, Kelly CP, Novack
 V. The impact of PCR on Clostridium difficile detection and clinical outcomes. J 
 Med Microbiol. 2015 Sep;64(9):1082-6. doi: 10.1099/jmm.0.000126. Epub 2015 Jul 9.
 PubMed PMID: 26297376.
-
-
 10. Mor O, Stavsky M, Yitshak-Sade M, Mastrolia SA, Beer-Weisel R,
 Rafaeli-Yehudai T, Besser L, Hamou B, Mazor M, Erez O. Early onset preeclampsia
 and cerebral palsy: a double hit model? Am J Obstet Gynecol. 2016
 Jan;214(1):105.e1-9. doi: 10.1016/j.ajog.2015.08.020. Epub 2015 Aug 15. PubMed
 PMID: 26283455.
-
-
 11. Novack L, Manor E, Gurevich E, Yitshak-Sade M, Landau D, Sarov B, Hershkovitz
 R, Dukler D, Vodonos T, Karakis I. Can cell proliferation of umbilical cord blood
 cells reflect environmental exposures? Springerplus. 2015 Jul 24;4:372. doi:
 10.1186/s40064-015-1134-0. eCollection 2015. PubMed PMID: 26217549; PubMed
 Central PMCID: PMC4512979.
-
-
 12. Politi L, Codish S, Sagy I, Fink L. Use patterns of health information
 exchange systems and admission decisions: Reductionistic and configurational
 approaches. Int J Med Inform. 2015 Dec;84(12):1029-38. doi:
 10.1016/j.ijmedinf.2015.06.012. Epub 2015 Jul 17. PubMed PMID: 26212125.
-
-
 13. Landau D, Novack L, Yitshak-Sade M, Sarov B, Kloog I, Hershkovitz R, Grotto
 I, Karakis I. Nitrogen Dioxide pollution and hazardous household environment:
 what impacts more congenital malformations. Chemosphere. 2015 Nov;139:340-8. doi:
 10.1016/j.chemosphere.2015.06.091. Epub 2015 Jul 11. PubMed PMID: 26171819.
-
-
 14. Yitshak-Sade M, Gorodischer R, Aviram M, Novack L. Prenatal exposure to H2
 blockers and to proton pump inhibitors and asthma development in offspring. J
 Clin Pharmacol. 2016 Jan;56(1):116-23. doi: 10.1002/jcph.574. Epub 2015 Aug 10.
 PubMed PMID: 26096778.
-
-
 15. Shiyovich A, Statlender L, Abu-Tailakh M, Plakht Y, Shrot S, Kassirer M.
 Treatment of chemical warfare agent casualties: retention of knowledge and
 self-perceived competency among military physicians and paramedics. Mil Med. 2015
 Jun;180(6):702-7. doi: 10.7205/MILMED-D-13-00386. PubMed PMID: 26032387.
-
-
 16. Karakis I, Landau D, Yitshak-Sade M, Hershkovitz R, Rotenberg M, Sarov B,
 Grotto I, Novack L. Exposure to metals and congenital anomalies: a biomonitoring 
 study of pregnant Bedouin-Arab women. Sci Total Environ. 2015 Jun 1;517:106-12.
 doi: 10.1016/j.scitotenv.2015.02.056. Epub 2015 Feb 25. PubMed PMID: 25725195.
-
-
 17. Lev-Ran O, Matsa M, Ishay Y, Shabtai A, Vodonos A, Sahar G. Retroaortic right
 internal thoracic artery grafting of circumflex artery targets. Asian Cardiovasc 
 Thorac Ann. 2015 Jun;23(5):543-51. doi: 10.1177/0218492315573360. Epub 2015 Feb
 20. PubMed PMID: 25700706.
-
-
 18. Abu Freha N, Schwartz D, Elkrinawi J, Ben Yakov G, Abu Tailakh M, Munteanu D,
 Abu Ganim A, Fich A. Inflammatory bowel disease among Bedouin Arabs in southern
 Israel: urbanization and increasing prevalence rates. Eur J Gastroenterol
 Hepatol. 2015 Mar;27(3):230-4. doi: 10.1097/MEG.0000000000000263. PubMed PMID:
 25563139.
-
-
 19. Daniel S, Koren G, Lunenfeld E, Levy A. Immortal time bias in drug safety
 cohort studies: spontaneous abortion following nonsteroidal antiinflammatory drug
 exposure. Am J Obstet Gynecol. 2015 Mar;212(3):307.e1-6. doi:
 10.1016/j.ajog.2014.09.028. Epub 2014 Oct 12. PubMed PMID: 25265406.
-
-
 20. El-Saied S, Kaplan DM, Zlotnik A, Abu Tailakh M, Kordeluk S, Joshua BZ. A
 comparison between amylase levels from peritonsillar, dental and neck abscesses. 
 Clin Otolaryngol. 2014 Dec;39(6):359-61. doi: 10.1111/coa.12298. PubMed PMID:
 25117975.
-
-
 21. Politi L, Codish S, Sagy I, Fink L. Use patterns of health information
 exchange through a multidimensional lens: conceptual framework and empirical
 validation. J Biomed Inform. 2014 Dec;52:212-21. doi: 10.1016/j.jbi.2014.07.003. 
 Epub 2014 Jul 14. PubMed PMID: 25034041.
-
-
 22. Horowitz I, Cafri C, Zeller L, Vodonos A, Perry ZH, Kobal SL. Athlete's
 heart in Israel: fact or fiction. Isr Med Assoc J. 2014 Jan;16(1):46-9. PubMed
 PMID: 24575505.
-
-
 23. Landau D, Schreiber R, Kleinman A, Vodonos A, Shalev H. Pediatric chronic
 kidney disease rates in Southern Israel are higher than reported. F1000Res. 2013 
 Sep 13;2:186. doi: 10.12688/f1000research.2-186.v1. eCollection 2013. PubMed
 PMID: 24555088; PubMed Central PMCID: PMC3829122.
-
-
 24. Fraenkel M, Kim M, Faggiano A, de Herder WW, Valk GD; Knowledge NETwork.
 Incidence of gastroenteropancreatic neuroendocrine tumours: a systematic review
 of the literature. Endocr Relat Cancer. 2014 May 6;21(3):R153-63. doi:
 10.1530/ERC-13-0125. Print 2014 Jun. Review. PubMed PMID: 24322304.
-
-
 25. Zlotnik A, Sinelnikov I, Gruenbaum BF, Gruenbaum SE, Dubilet M, Dubilet E,
 Leibowitz A, Ohayon S, Regev A, Boyko M, Shapira Y, Teichberg VI. Effect of
 glutamate and blood glutamate scavengers oxaloacetate and pyruvate on
 neurological outcome and pathohistology of the hippocampus after traumatic brain 
 injury in rats. Anesthesiology. 2012 Jan;116(1):73-83. doi:
 10.1097/ALN.0b013e31823d7731. PubMed PMID: 22129535.
-
-
 26. Plakht Y, Shiyovich A, Francine L, Shoshan Y, Antonovitch D, Waknine N,
 Barabi T, Sherf M. The emergency department in a region under missile attack:
 utilization patterns during Operation Cast Lead. Isr Med Assoc J. 2011
 Feb;13(2):69-75. PubMed PMID: 21443029.
-
-
 27. Plakht Y, Shiyovich A, Weitzman S, Fraser D, Zahger D, Gilutz H. A new risk 
 score predicting 1- and 5-year mortality following acute myocardial infarction
 Soroka Acute Myocardial Infarction (SAMI) Project. Int J Cardiol. 2012 Jan
 26;154(2):173-9. doi: 10.1016/j.ijcard.2010.09.014. Epub 2010 Oct 6. PubMed PMID:
 20932590.
+
+28.  Obstructive Sleep Apnea in Acute Stroke: A Role for Systemic Inflammation. Ifergane G, Ovanyan A, Toledano R, Goldbart A, Abu-Salame I, Tal A, Stavsky M, Novack V. Stroke. 2016 May;47(5):1207-12. doi: 10.1161/STROKEAHA.115.011749. Epub 2016 Apr 12. PMID: 27073238 [PubMed - in process] Similar articles
+29.  Thiamine as an adjunctive therapy in cardiac surgery: a randomized, double-blind, placebo-controlled, phase II trial. Andersen LW, Holmberg MJ, Berg KM, Chase M, Cocchi MN, Sulmonte C, Balkema J, MacDonald M, Montissol S, Senthilnathan V, Liu D, Khabbaz K, Lerner A, Novack V, Liu X, Donnino MW. Crit Care. 2016 Mar 14;20(1):92. doi: 10.1186/s13054-016-1245-1. PMID: 27044557 [PubMed - in process] Free PMC Article Similar articles
+30.  Extracranial injections of botulinum neurotoxin type A inhibit intracranial meningeal nociceptors’ responses to stimulation of TRPV1 and TRPA1 channels: Are we getting closer to solving this puzzle? Zhang X, Strassman AM, Novack V, Brin MF, Burstein R. Cephalalgia. 2016 Mar 16. pii: 0333102416636843. [Epub ahead of print] PMID: 26984967 [PubMed - as supplied by publisher] Similar articles
+31.  Elevated birth prevalence of conotruncal heart defects in a population with high consanguinity rate. Stavsky M, Robinson R, Sade MY, Krymko H, Zalstein E, Ioffe V, Novack V, Levitas A. Cardiol Young. 2016 Mar 16:1-8. [Epub ahead of print] PMID: 26979327 [PubMed - as supplied by publisher] Similar articles
+32.  Prevalence and characteristics of fibromyalgia among HIV-positive patients in southern Israel. Dotan I, Riesenberg K, Toledano R, Schlaeffer F, Smolyakov A, Saidel-Odes L, Wechsberg O, Ablin JN, Novack V, Buskila D. Clin Exp Rheumatol. 2016 Mar 3. [Epub ahead of print] PMID: 26940885 [PubMed - as supplied by publisher] Similar articles
+33.  Sci-B-VacTM Vs ENGERIX-B Vaccines for Hepatitis B Virus in Patients with Inflammatory Bowel Diseases: A Randomised Controlled Trial. Etzion O, Novack V, Perl Y, Abel O, Schwartz D, Munteanu D, Abufreha N, Ben-Yaakov G, Maoz ED, Moshaklo A, Dizingf V, Fich A. J Crohns Colitis. 2016 Feb 29. pii: jjw046. [Epub ahead of print] PMID: 26928962 [PubMed - as supplied by publisher] Similar articles
+34.  Incidence of Implantable Cardioverter Defibrillator Therapy and Mortality in Primary and Secondary Prevention of Sudden Cardiac Death. Konstantino Y, Shafat T, Novack V, Novack L, Amit G. Isr Med Assoc J. 2015 Dec;17(12):760-3. PMID: 26897978 [PubMed - indexed for MEDLINE] Free Article Similar articles
+35.  Snoring intensity and excessive daytime sleepiness in subjects without obstructive sleep apnea. Kalchiem-Dekel O, Westreich R, Regev A, Novack V, Goldberg M, Maimon N. Laryngoscope. 2016 Feb 10. doi: 10.1002/lary.25876. [Epub ahead of print] PMID: 26864252 [PubMed - as supplied by publisher] Similar articles
+36.  Assessment of aortic stiffness among patients with systemic lupus erythematosus and rheumatoid arthritis by magnetic resonance imaging. Karp G, Wolak A, Baumfeld Y, Bar-Am N, Novack V, Wolak T, Fuchs L, Shalev A, Shelef I, Abu-Shakra M. Int J Cardiovasc Imaging. 2016 Feb 6. [Epub ahead of print] PMID: 26852242 [PubMed - as supplied by publisher] Similar articles
+37.  Understanding the Extent and Drivers of Inter-physician Cost Variation for Spine Procedures. Kazberouk A, Sagy I, Novack V, McGuire K. Spine (Phila Pa 1976). 2016 Jan 15. [Epub ahead of print] PMID: 26780612 [PubMed - as supplied by publisher] Similar articles
+38.  Headache in the presentation of noncephalic acute illness. Tzadok T, Toledano R, Fuchs L, Bartal C, Novack V, Ifergane G. J Neurosci Rural Pract. 2015 Oct-Dec;6(4):494-8. doi: 10.4103/0976-3147.168425. PMID: 26752891 [PubMed] Free PMC Article Similar articles
+39.  Assessing the Predictive Value of Clinical Factors Used to Determine the Presence of Sepsis Causing Shock in the Emergency Department. Henning DJ, Carey JR, Oedorf K, Day DE, Redfield CS, Huguenel CJ, Roberts JC, Novack V, Sanchez LD, Wolfe RE, Shapiro NI. Shock. 2015 Dec 31. [Epub ahead of print] PMID: 26752661 [PubMed - as supplied by publisher] Similar articles
+40.  Will Neuroimaging Reveal a Severe Intracranial Injury in This Adult With Minor Head Trauma?: The Rational Clinical Examination Systematic Review. Easter JS, Haukoos JS, Meehan WP, Novack V, Edlow JA. JAMA. 2015 Dec 22-29;314(24):2672-81. doi: 10.1001/jama.2015.16316. Review. PMID: 26717031 [PubMed - indexed for MEDLINE] Similar articles
+41.  Correction: Pre-Conception Dyslipidemia Is Associated with Development of Preeclampsia and Gestational Diabetes Mellitus. Baumfeld Y, Novack L, Wiznitzer A, Sheiner E, Henkin Y, Sherf M, Novack V. PLoS One. 2015 Nov 4;10(11):e0142462. doi: 10.1371/journal.pone.0142462. eCollection 2015. No abstract available. PMID: 26536472 [PubMed] Free PMC Article Similar articles
+42.  Air Pollution and Ischemic Stroke Among Young Adults. Yitshak Sade M, Novack V, Ifergane G, Horev A, Kloog I. Stroke. 2015 Dec;46(12):3348-53. doi: 10.1161/STROKEAHA.115.010992. Epub 2015 Nov 3. PMID: 26534971 [PubMed - indexed for MEDLINE] Similar articles
+43.  Pre-Conception Dyslipidemia Is Associated with Development of Preeclampsia and Gestational Diabetes Mellitus. Baumfeld Y, Novack L, Wiznitzer A, Sheiner E, Henkin Y, Sherf M, Novack V. PLoS One. 2015 Oct 9;10(10):e0139164. doi: 10.1371/journal.pone.0139164. eCollection 2015. Erratum in: PLoS One. 2015;10(11):e0142462. PMID: 26452270 [PubMed - in process] Free PMC Article Similar articles
+44.  Detection of Myocardial Dysfunction in Septic Shock: A Speckle-Tracking Echocardiography Study. Shahul S, Gulati G, Hacker MR, Mahmood F, Canelli R, Nizamuddin J, Mahmood B, Mueller A, Simon BA, Novack V, Talmor D. Anesth Analg. 2015 Dec;121(6):1547-54. doi: 10.1213/ANE.0000000000000943. PMID: 26397444 [PubMed - indexed for MEDLINE] Similar articles
+45.  Individual Effect Modifiers of Dust Exposure Effect on Cardiovascular Morbidity. Vodonos A, Friger M, Katra I, Krasnov H, Zahger D, Schwartz J, Novack V. PLoS One. 2015 Sep 18;10(9):e0137714. doi: 10.1371/journal.pone.0137714. eCollection 2015. PMID: 26381397 [PubMed - in process] Free PMC Article Similar articles
+46.  The prevalence and significance of abnormal vital signs prior to in-hospital cardiac arrest. Andersen LW, Kim WY, Chase M, Berg KM, Mortensen SJ, Moskowitz A, Novack V, Cocchi MN, Donnino MW; American Heart Association’s Get With the Guidelines(®) – Resuscitation Investigators. Resuscitation. 2016 Jan;98:112-7. doi: 10.1016/j.resuscitation.2015.08.016. Epub 2015 Sep 9. PMID: 26362486 [PubMed - in process] Similar articles
+47.  Parkinson’s Disease Prevalence and Proximity to Agricultural Cultivated Fields. Yitshak Sade M, Zlotnik Y, Kloog I, Novack V, Peretz C, Ifergane G. Parkinsons Dis. 2015;2015:576564. doi: 10.1155/2015/576564. Epub 2015 Aug 18. PMID: 26357584 [PubMed] Free PMC Article Similar articles
+48.  Hospital Incidence and Outcomes of the Acute Respiratory Distress Syndrome Using the Kigali Modification of the Berlin Definition. Riviello ED, Kiviri W, Twagirumugabe T, Mueller A, Banner-Goodspeed VM, Officer L, Novack V, Mutumwinka M, Talmor DS, Fowler RA. Am J Respir Crit Care Med. 2016 Jan 1;193(1):52-9. doi: 10.1164/rccm.201503-0584OC. PMID: 26352116 [PubMed - indexed for MEDLINE] Similar articles
+49.  Observation vs admission in syncope: can we predict short length of stays? Lin M, Wolfe RE, Shapiro NI, Novack V, Lior Y, Grossman SA. Am J Emerg Med. 2015 Nov;33(11):1684-6. doi: 10.1016/j.ajem.2015.08.010. Epub 2015 Aug 10. PMID: 26342395 [PubMed - indexed for MEDLINE] Similar articles
+50.  Low Osteopontin N-Terminal Fragment and Carotid Plaque Stability Associated with Statin or Antiplatelet Therapy. Hamias R, Volvich L, Paran E, Sion-Vardi N, Novack V, Szendro G, Greenberg G, Rudich A, Wolak T. Curr Vasc Pharmacol. 2016;14(3):288-94. PMID: 26321081 [PubMed - in process] Similar articles
+51.  The impact of PCR on Clostridium difficile detection and clinical outcomes. Akbari M, Vodonos A, Silva G, Wungjiranirun M, Leffler DA, Kelly CP, Novack V. J Med Microbiol. 2015 Sep;64(9):1082-6. doi: 10.1099/jmm.0.000126. Epub 2015 Jul 9. PMID: 26297376 [PubMed - indexed for MEDLINE] Similar articles
+52.  Methylphenidate use among medical students at Ben-Gurion University of the Negev. Cohen YG, Segev RW, Shlafman N, Novack V, Ifergane G. J Neurosci Rural Pract. 2015 Jul-Sep;6(3):320-5. doi: 10.4103/0976-3147.158749. PMID: 26167012 [PubMed] Free PMC Article Similar articles
+53.  Air Pollution and Serum Glucose Levels: A Population-Based Study. Sade MY, Kloog I, Liberty IF, Katra I, Novack L, Novack V. Medicine (Baltimore). 2015 Jul;94(27):e1093. doi: 10.1097/MD.0000000000001093. PMID: 26166095 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+54.  Prognostic Value of Glycated Hemoglobin for One Year Mortality Following Hospitalization in the Internal Medicine Ward. Liberty IF, Abu Freha N, Baumfeld Y, Codish S, Schlaeffer F, Novack V. Isr Med Assoc J. 2015 May;17(5):277-81. PMID: 26137652 [PubMed - indexed for MEDLINE] Free Article Similar articles
+55.  The Utility of Inflammatory and Endothelial Markers to Identify Infection in Emergency Department Patients. Day DE, Oedorf K, Kogan S, Novack V, Sanchez LD, Wolfe RE, Shapiro NI, Henning DJ. Shock. 2015 Sep;44(3):215-20. doi: 10.1097/SHK.0000000000000411. PMID: 26009826 [PubMed - indexed for MEDLINE] Similar articles
+56.  Clinical characteristics and survival of patients with diabetes mellitus following non-traumatic lower extremity amputation. Wiessman MP, Liberty IF, Segev RW, Katz T, Abu Tailakh M, Novack V. Isr Med Assoc J. 2015 Mar;17(3):145-9. PMID: 25946764 [PubMed - indexed for MEDLINE] Free Article Similar articles
+57.  The administration of dextrose during in-hospital cardiac arrest is associated with increased mortality and neurologic morbidity. Peng TJ, Andersen LW, Saindon BZ, Giberson TA, Kim WY, Berg K, Novack V, Donnino MW; American Heart Association’s Get With The Guidelines®-Resuscitation Investigators. Crit Care. 2015 Apr 10;19:160. doi: 10.1186/s13054-015-0867-z. PMID: 25887120 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+58.  Emergency department companions of stroke patients: implications on quality of care. Ashkenazi L, Toledano R, Novack V, EIluz E, Abu-Salamae I, Ifergane G. Medicine (Baltimore). 2015 Mar;94(9):e520. doi: 10.1097/MD.0000000000000520. PMID: 25738470 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+59.  Ambient air pollution, weather and daily emergency department visits for headache. Vodonos A, Novack V, Zlotnik Y, Ifergane G. Cephalalgia. 2015 Oct;35(12):1085-91. doi: 10.1177/0333102415570300. Epub 2015 Feb 4. PMID: 25653308 [PubMed - in process] Similar articles
+60.  Dramatic increase in laboratory-diagnosed human cutaneous leishmaniasis cases in southern Israel, 2007-2013. Ben-Shimol S, Sagi O, Codish S, Novack V, Barrett C, Fruchtman Y, Berkowitz A, Shemer-Avni Y, Greenberg D. Infect Dis (Lond). 2015 Mar;47(3):161-7. doi: 10.3109/00365548.2014.977342. Epub 2015 Jan 22. PMID: 25622937 [PubMed - indexed for MEDLINE] Similar articles
+61.  Automated surveillance for ventilator-associated events. Stevens JP, Silva G, Gillis J, Novack V, Talmor D, Klompas M, Howell MD. Chest. 2014 Dec;146(6):1612-8. doi: 10.1378/chest.13-2255. PMID: 25451350 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+62.  Effectiveness of stringent decontamination of computer input devices in the era of electronic medical records and bedside computing: a randomized controlled trial. Codish S, Toledano R, Novack V, Sherf M, Borer A. Am J Infect Control. 2015 Jun;43(6):644-6. doi: 10.1016/j.ajic.2014.09.011. Epub 2014 Nov 1. PMID: 25442396 [PubMed - indexed for MEDLINE] Similar articles
+63.  Mortality due to sepsis in patients with systemic lupus erythematosus and rheumatoid arthritis. Barrett O, Abramovich E, Dreiher J, Novack V, Abu-Shakra M. Isr Med Assoc J. 2014 Oct;16(10):634-5. No abstract available. PMID: 25438453 [PubMed - indexed for MEDLINE] Free Article Similar articles
+64.  Acid suppression therapy does not predispose to Clostridium difficile infection: the case of the potential bias. Novack L, Kogan S, Gimpelevich L, Howell M, Borer A, Kelly CP, Leffler DA, Novack V. PLoS One. 2014 Oct 24;9(10):e110790. doi: 10.1371/journal.pone.0110790. eCollection 2014. PMID: 25343667 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+65.  Non-anthropogenic dust exposure and asthma medication purchase in children. Yitshak-Sade M, Novack V, Katra I, Gorodischer R, Tal A, Novack L. Eur Respir J. 2015 Mar;45(3):652-60. doi: 10.1183/09031936.00078614. Epub 2014 Oct 16. PMID: 25323244 [PubMed - indexed for MEDLINE] Similar articles
+66.  The Esophageal Pressure-Guided Ventilation 2 (EPVent2) trial protocol: a multicentre, randomised clinical trial of mechanical ventilation guided by transpulmonary pressure. Fish E, Novack V, Banner-Goodspeed VM, Sarge T, Loring S, Talmor D. BMJ Open. 2014 Oct 6;4(9):e006356. doi: 10.1136/bmjopen-2014-006356. PMID: 25287106 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+67.  The effect of hospital volume on mortality in patients admitted with severe sepsis. Shahul S, Hacker MR, Novack V, Mueller A, Shaefi S, Mahmood B, Ali SH, Talmor D. PLoS One. 2014 Sep 29;9(9):e108754. doi: 10.1371/journal.pone.0108754. eCollection 2014. PMID: 25264788 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+68.  The reliability and validity of passive leg raise and fluid bolus to assess fluid responsiveness in spontaneously breathing emergency department patients. Duus N, Shogilev DJ, Skibsted S, Zijlstra HW, Fish E, Oren-Grinberg A, Lior Y, Novack V, Talmor D, Kirkegaard H, Shapiro NI. J Crit Care. 2015 Feb;30(1):217.e1-5. doi: 10.1016/j.jcrc.2014.07.031. Epub 2014 Aug 7. PMID: 25262530 [PubMed - indexed for MEDLINE] Similar articles
+69.  Respiratory mechanical effects of surgical pneumoperitoneum in humans. Loring SH, Behazin N, Novero A, Novack V, Jones SB, O’Donnell CR, Talmor DS. J Appl Physiol (1985). 2014 Nov 1;117(9):1074-9. doi: 10.1152/japplphysiol.00552.2014. Epub 2014 Sep 11. PMID: 25213641 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+70.  Model for End-Stage Liver Disease score predicts mortality in critically ill cirrhotic patients. Boone MD, Celi LA, Ho BG, Pencina M, Curry MP, Lior Y, Talmor D, Novack V. J Crit Care. 2014 Oct;29(5):881.e7-13. doi: 10.1016/j.jcrc.2014.05.013. Epub 2014 May 28. PMID: 24974049 [PubMed - indexed for MEDLINE] Similar articles
+71.  Admission cell free DNA levels predict 28-day mortality in patients with severe sepsis in intensive care. Avriel A, Paryente Wiessman M, Almog Y, Perl Y, Novack V, Galante O, Klein M, Pencina MJ, Douvdevani A. PLoS One. 2014 Jun 23;9(6):e100514. doi: 10.1371/journal.pone.0100514. eCollection 2014. PMID: 24955978 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+72.  Impact of mass media on public behavior and physicians: an ecological study of the H1N1 influenza pandemic. Codish S, Novack L, Dreiher J, Barski L, Jotkowitz A, Zeller L, Novack V. Infect Control Hosp Epidemiol. 2014 Jun;35(6):709-16. doi: 10.1086/676426. Epub 2014 Apr 22. PMID: 24799648 [PubMed - indexed for MEDLINE] Similar articles
+73.  Attenuated predictive power of a normal myocardial perfusion scan in young smokers. Wolak A, Rafaeli E, Toledano R, Novack V, Gilutz H, Henkin Y. Eur J Intern Med. 2014 Jun;25(5):452-7. doi: 10.1016/j.ejim.2014.03.017. Epub 2014 May 3. PMID: 24793836 [PubMed - indexed for MEDLINE] Similar articles
+74.  Trends in severity of illness on ICU admission and mortality among the elderly. Fuchs L, Novack V, McLennan S, Celi LA, Baumfeld Y, Park S, Howell MD, Talmor DS. PLoS One. 2014 Apr 3;9(4):e93234. doi: 10.1371/journal.pone.0093234. eCollection 2014. PMID: 24699251 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+75.  Renal safety and angiotensin II blockade medications in patients undergoing non-emergent coronary angiography: a randomized controlled study. Wolak T, Aliev E, Rogachev B, Baumfeld Y, Cafri C, Abu-Shakra M, Novack V. Isr Med Assoc J. 2013 Nov;15(11):682-7. PMID: 24511648 [PubMed - indexed for MEDLINE] Free Article Similar articles
+76.  Doxazosin to treat hypertension: it’s time to take it personally–a retrospective analysis of 19, 495 patients. Wolak T, Toledano R, Novack V, Sharon A, Shalev A, Wolak A. J Hypertens. 2014 May;32(5):1132-7; discussion 1137. doi: 10.1097/HJH.0000000000000119. PMID: 24509125 [PubMed - indexed for MEDLINE] Similar articles
+77.  Increased glycemic variability in patients with elevated preoperative HbA1C predicts adverse outcomes following coronary artery bypass grafting surgery. Subramaniam B, Lerner A, Novack V, Khabbaz K, Paryente-Wiesmann M, Hess P, Talmor D. Anesth Analg. 2014 Feb;118(2):277-87. doi: 10.1213/ANE.0000000000000100. PMID: 24445629 [PubMed - indexed for MEDLINE] Similar articles
+78.  Prognostic value of myocardial ischemic electrocardiographic response in patients with normal stress echocardiographic study. Kobal SL, Wilkof-Segev R, Patchett MS, Vodonos A, Liel-Cohen N, Novack V, Bangalore S, Siegel RJ. Am J Cardiol. 2014 Mar 15;113(6):945-9. doi: 10.1016/j.amjcard.2013.11.051. Epub 2013 Dec 25. PMID: 24440328 [PubMed - indexed for MEDLINE] Similar articles
+79.  [Atrial fibrillation in medical intensive care unit patients: characteristics and consequences]. Baumfeld Y, Novack V, Almog Y. Harefuah. 2013 Sep;152(9):520-3, 564. Hebrew. PMID: 24364091 [PubMed - indexed for MEDLINE] Similar articles
+80.  Raising positive end-expiratory pressures in ARDS to achieve a positive transpulmonary pressure does not cause hemodynamic compromise. Sarge T, Loring SH, Yitsak-Sade M, Malhotra A, Novack V, Talmor D. Intensive Care Med. 2014 Jan;40(1):126-8. doi: 10.1007/s00134-013-3127-1. Epub 2013 Oct 15. No abstract available. PMID: 24126673 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+81.  Emergency hernia repair in cirrhotic patients with ascites. Odom SR, Gupta A, Talmor D, Novack V, Sagy I, Evenson AR. J Trauma Acute Care Surg. 2013 Sep;75(3):404-9. doi: 10.1097/TA.0b013e31829e2313. PMID: 24089110 [PubMed - indexed for MEDLINE] Similar articles
+82.  Safety and efficacy metrics for primary nitinol stenting in femoropopliteal occlusive disease: a meta-analysis and critical examination of current methodologies. Vardi M, Novack V, Pencina MJ, Doros G, Burke DA, Elmariah S, Cutlip DE, Mauri L, Yeh RW. Catheter Cardiovasc Interv. 2014 May 1;83(6):975-83. doi: 10.1002/ccd.25179. Epub 2014 Jan 31. Review. PMID: 23996913 [PubMed - indexed for MEDLINE] Similar articles
+83.  Association between bone mineral density and incidence of breast cancer. Fraenkel M, Novack V, Liel Y, Koretz M, Siris E, Norton L, Shafat T, Shany S, Geffen DB. PLoS One. 2013 Aug 5;8(8):e70980. doi: 10.1371/journal.pone.0070980. Print 2013. Erratum in: PLoS One. 2013;8(9). doi: 10.1371/annotation/2811f3e3-8efe-4183-bcd7-e4a11401fb89. PMID: 23940680 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+84.  Autoimmune hepatitis in southern Israel: a 15-year multicenter study. Delgado JS, Vodonos A, Malnick S, Kriger O, Wilkof-Segev R, Delgado B, Novack V, Rosenthal A, Menachem Y, Melzer E, Fich A. J Dig Dis. 2013 Nov;14(11):611-8. doi: 10.1111/1751-2980.12085. PMID: 23815477 [PubMed - indexed for MEDLINE] Similar articles
+85.  Severity of acute kidney injury and two-year outcomes in critically ill patients. Fuchs L, Lee J, Novack V, Baumfeld Y, Scott D, Celi L, Mandelbaum T, Howell M, Talmor D. Chest. 2013 Sep;144(3):866-75. doi: 10.1378/chest.12-2967. PMID: 23681257 [PubMed - indexed for MEDLINE] Similar articles
+86.  Prognostic impact of sleep duration and sleep efficiency on mortality in patients with chronic heart failure. Reinhard W, Plappert N, Zeman F, Hengstenberg C, Riegger G, Novack V, Maimon N, Pfeifer M, Arzt M. Sleep Med. 2013 Jun;14(6):502-9. doi: 10.1016/j.sleep.2012.12.014. Epub 2013 Apr 28. PMID: 23628241 [PubMed - indexed for MEDLINE] Similar articles
+87.  The effects of transfusion on outcomes in sepsis. Novack V, Talmor D. Crit Care Med. 2013 May;41(5):e49-50. doi: 10.1097/CCM.0b013e318283c3a5. No abstract available. PMID: 23591231 [PubMed - indexed for MEDLINE] Similar articles
+88.  Clinical outcome of patients with and without diabetes mellitus after percutaneous coronary intervention with the resolute zotarolimus-eluting stent: 2-year results from the prospectively pooled analysis of the international global RESOLUTE program. Silber S, Serruys PW, Leon MB, Meredith IT, Windecker S, Neumann FJ, Belardi J, Widimsky P, Massaro J, Novack V, Yeung AC, Saito S, Mauri L. JACC Cardiovasc Interv. 2013 Apr;6(4):357-68. doi: 10.1016/j.jcin.2012.11.006. Epub 2013 Mar 20. PMID: 23523454 [PubMed - indexed for MEDLINE] Free Article Similar articles
+89.  Safety and feasibility of robotic percutaneous coronary intervention: PRECISE (Percutaneous Robotically-Enhanced Coronary Intervention) Study. Weisz G, Metzger DC, Caputo RP, Delgado JA, Marshall JJ, Vetrovec GW, Reisman M, Waksman R, Granada JF, Novack V, Moses JW, Carrozza JP. J Am Coll Cardiol. 2013 Apr 16;61(15):1596-600. doi: 10.1016/j.jacc.2012.12.045. PMID: 23500318 [PubMed - indexed for MEDLINE] Free Article Similar articles
+90.  N-terminal rather than full-length osteopontin or its C-terminal fragment is associated with carotid-plaque inflammation in hypertensive patients. Wolak T, Sion-Vardi N, Novack V, Greenberg G, Szendro G, Tarnovscki T, Nov O, Shelef I, Paran E, Rudich A. Am J Hypertens. 2013 Mar;26(3):326-33. doi: 10.1093/ajh/hps043. Epub 2013 Jan 7. PMID: 23382482 [PubMed - indexed for MEDLINE] Similar articles
+91.  Ethnicity and sepsis characteristics and outcomes. Population based study. Karp G, Perl Y, Fuchs L, Almog Y, Klein M, Vodonos A, Dreiher J, Talmor D, Codish S, Novack V; SEPSIS-ISR Group. Eur J Intern Med. 2013 Jan;24(1):34-9. doi: 10.1016/j.ejim.2012.09.016. Epub 2012 Oct 23. PMID: 23092742 [PubMed - indexed for MEDLINE] Similar articles
+92.  Misconstrued intentions: setting the record straight. Novack V, Cohen DJ, Cutlip DE. Arch Intern Med. 2012 Oct 8;172(18):1425-6; author reply 1426-7. doi: 10.1001/archinternmed.2012.3752. No abstract available. PMID: 23045177 [PubMed - indexed for MEDLINE] Similar articles
+93.  Primary biliary cirrhosis in Southern Israel: a 20 year follow up study. Delgado JS, Vodonos A, Delgado B, Jotkowitz A, Rosenthal A, Fich A, Novack V. Eur J Intern Med. 2012 Dec;23(8):e193-8. doi: 10.1016/j.ejim.2012.09.004. Epub 2012 Sep 28. PMID: 23022449 [PubMed - indexed for MEDLINE] Similar articles
+94.  Localization of PKCη in cell membranes as a predictor for breast cancer response to treatment. Karp G, Abu-Ghanem S, Novack V, Mermershtain W, Ariad S, Sion-Vardy N, Livneh E. Onkologie. 2012;35(5):260-6. doi: 10.1159/000338443. Epub 2012 Apr 24. PMID: 22868505 [PubMed - indexed for MEDLINE] Similar articles
+95.  The prognostic importance of cathepsin D and E-cadherin in early breast cancer: A single-institution experience. Jacobson-Raber G, Lazarev I, Novack V, Mermershtein W, Baumfeld Y, Geffen DB, Sion-Vardy N, Ariad S. Oncol Lett. 2011 Nov;2(6):1183-1190. Epub 2011 Aug 24. PMID: 22848286 [PubMed] Free PMC Article Similar articles
+96.  Circulating cell-free DNA in hemodialysis patients predicts mortality. Tovbin D, Novack V, Wiessman MP, Abd Elkadir A, Zlotnik M, Douvdevani A. Nephrol Dial Transplant. 2012 Oct;27(10):3929-35. doi: 10.1093/ndt/gfs255. Epub 2012 Jul 24. PMID: 22833622 [PubMed - indexed for MEDLINE] Free Article Similar articles
+97.  Significant differences in the expected versus observed longevity of implantable cardioverter defibrillators (ICDs). Shafat T, Baumfeld Y, Novack V, Konstantino Y, Amit G. Clin Res Cardiol. 2013 Jan;102(1):43-9. doi: 10.1007/s00392-012-0493-6. Epub 2012 Jul 14. PMID: 22798033 [PubMed - indexed for MEDLINE] Similar articles
+98.  ICU admission characteristics and mortality rates among elderly and very elderly patients. Fuchs L, Chronaki CE, Park S, Novack V, Baumfeld Y, Scott D, McLennan S, Talmor D, Celi L. Intensive Care Med. 2012 Oct;38(10):1654-61. Epub 2012 Jul 14. PMID: 22797350 [PubMed - indexed for MEDLINE] Similar articles
+99.  Dexrazoxane does not affect treatment outcome in non-Hodgkin’s lymphoma patients. Rabinovich A, Weiss D, Weissman M, Novack V, Levi I. Am J Hematol. 2012 Aug;87(8):830-2. doi: 10.1002/ajh.23250. Epub 2012 May 31. No abstract available. PMID: 22648436 [PubMed - indexed for MEDLINE] Free Article Similar articles
+100.  [Incidence of hospitalizations among chronic obstructive pulmonary disease (COPD) patients with anemia]. Frank Y, Regev A, Novack V, Avnon L, Avriel A, Shimonovich F, Heimer D, Maimon N. Harefuah. 2012 Apr;151(4):211-5, 254. Hebrew. PMID: 22616148 [PubMed - indexed for MEDLINE] Similar articles
+101.  Effect of beta blocker therapy on survival of patients with heart failure and preserved systolic function following hospitalization with acute decompensated heart failure. Nevzorov R, Porath A, Henkin Y, Kobal SL, Jotkowitz A, Novack V. Eur J Intern Med. 2012 Jun;23(4):374-8. doi: 10.1016/j.ejim.2012.01.011. Epub 2012 Feb 27. PMID: 22560389 [PubMed - indexed for MEDLINE] Similar articles
+102.  PKCη is a novel prognostic marker in non-small cell lung cancer. Krasnitsky E, Baumfeld Y, Freedman J, Sion-Vardy N, Ariad S, Novack V, Livneh E. Anticancer Res. 2012 Apr;32(4):1507-13. PMID: 22493394 [PubMed - indexed for MEDLINE] Similar articles
+103.  The effect of rosuvastatin on incident pneumonia: results from the JUPITER trial. Novack V, MacFadyen J, Malhotra A, Almog Y, Glynn RJ, Ridker PM. CMAJ. 2012 Apr 17;184(7):E367-72. doi: 10.1503/cmaj.111017. Epub 2012 Mar 19. PMID: 22431901 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+104.  Mortality and multiple causes of death in systemic lupus erythematosus – role of the death certificate. Abu-Shakra M, Novack V. J Rheumatol. 2012 Mar;39(3):458-60. doi: 10.3899/jrheum.111556. No abstract available. PMID: 22383351 [PubMed - indexed for MEDLINE] Similar articles
+105.  Troponin criteria for myocardial infarction after percutaneous coronary intervention. Novack V, Pencina M, Cohen DJ, Kleiman NS, Yen CH, Saucedo JF, Berger PB, Cutlip DE. Arch Intern Med. 2012 Mar 26;172(6):502-8. doi: 10.1001/archinternmed.2011.2275. Epub 2012 Feb 27. PMID: 22371874 [PubMed - indexed for MEDLINE] Similar articles
+106.  Frequency and impact of bleeding in elective coronary stent clinical trials–utility of three commonly used definitions. Fleming LM, Novack V, Novack L, Cohen SA, Negoita M, Cutlip DE. Catheter Cardiovasc Interv. 2012 Aug 1;80(2):E23-9. doi: 10.1002/ccd.23332. Epub 2012 Jan 10. PMID: 22109802 [PubMed - indexed for MEDLINE] Similar articles
+107.  Insufficient compliance with current implantable cardioverter defibrillator (ICD) therapy guidelines in post myocardial infarction patients is associated with increased mortality. Pertzov B, Novack V, Zahger D, Katz A, Amit G. Int J Cardiol. 2013 Jun 20;166(2):421-4. doi: 10.1016/j.ijcard.2011.10.132. Epub 2011 Nov 17. PMID: 22100182 [PubMed - indexed for MEDLINE] Similar articles
+108.  Temporal trends in patient characteristics and survival of intensive care admissions with sepsis: a multicenter analysis*. Dreiher J, Almog Y, Sprung CL, Codish S, Klein M, Einav S, Bar-Lavie Y, Singer PP, Nimrod A, Sachs J, Talmor D, Friger M, Greenberg D, Olsfanger D, Hersch M, Novack V; SEPSIS-ISR Group. Crit Care Med. 2012 Mar;40(3):855-60. doi: 10.1097/CCM.0b013e318236f7b8. PMID: 22020241 [PubMed - indexed for MEDLINE] Similar articles
+109.  Impact of descent and stay at a Dead Sea resort (low altitude) on patients with systolic congestive heart failure and an implantable cardioverter defibrillator. Gabizon I, Shiyovich A, Novack V, Khalameizer V, Yosefy C, Moses SW, Katz A. Isr Med Assoc J. 2011 Jul;13(7):402-7. PMID: 21838181 [PubMed - indexed for MEDLINE] Free Article Similar articles
+110.  Objective performance goals of safety and blood pressure efficacy for clinical trials of renal artery bare metal stents in hypertensive patients with atherosclerotic renal artery stenosis. Rocha-Singh KJ, Novack V, Pencina M, D’Agostino R, Ansel G, Rosenfield K, Jaff MR. Catheter Cardiovasc Interv. 2011 Nov 1;78(5):779-89. doi: 10.1002/ccd.23055. Epub 2011 Jun 6. PMID: 21648052 [PubMed - indexed for MEDLINE] Similar articles
+111.  Increased vitamin D serum levels correlate with clinical improvement of rheumatic diseases after Dead Sea climatotherapy. Harari M, Dramsdahl E, Shany S, Baumfeld Y, Ingber A, Novack V, Sukenik S. Isr Med Assoc J. 2011 Apr;13(4):212-5. PMID: 21598808 [PubMed - indexed for MEDLINE] Free Article Similar articles
+112.  Exertional heatstroke: clinical characteristics, diagnostic and therapeutic considerations. Zeller L, Novack V, Barski L, Jotkowitz A, Almog Y. Eur J Intern Med. 2011 Jun;22(3):296-9. doi: 10.1016/j.ejim.2010.12.013. Epub 2011 Jan 19. PMID: 21570651 [PubMed - indexed for MEDLINE] Similar articles
+113.  Efficacy of combined pegylated interferon and ribavirin therapy in Jewish patients of Israel suffering from chronic hepatitis C. Delgado JS, Baumfeld Y, Novack V, Monitin S, Jotkowitz A, Etzion O, Fich A. Hepatol Int. 2011 Dec;5(4):985-90. doi: 10.1007/s12072-011-9278-7. Epub 2011 May 8. PMID: 21553307 [PubMed] Similar articles
+114.  The influence of intermittent hypoxemia on platelet activation in obese patients with obstructive sleep apnea. Rahangdale S, Yeh SY, Novack V, Stevenson K, Barnard MR, Furman MI, Frelinger AL, Michelson AD, Malhotra A. J Clin Sleep Med. 2011 Apr 15;7(2):172-8. PMID: 21509332 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+115.  Influence of low tidal volume ventilation on time to extubation in cardiac surgical patients. Sundar S, Novack V, Jervis K, Bender SP, Lerner A, Panzica P, Mahmood F, Malhotra A, Talmor D. Anesthesiology. 2011 May;114(5):1102-10. doi: 10.1097/ALN.0b013e318215e254. PMID: 21430518 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+116.  Morphological and neuro-behavioral parallels in the rat model of stroke. Boyko M, Ohayon S, Goldsmith T, Novack L, Novack V, Perry ZH, Gruenbaum BF, Gruenbaum SE, Steiner O, Shapira Y, Teichberg VI, Zlotnik A. Behav Brain Res. 2011 Sep 30;223(1):17-23. doi: 10.1016/j.bbr.2011.03.019. Epub 2011 Mar 17. PMID: 21419805 [PubMed - indexed for MEDLINE] Similar articles
+117.  Incidence, predictors and outcome of upper gastrointestinal bleeding in patients with acute coronary syndromes. Shalev A, Zahger D, Novack V, Etzion O, Shimony A, Gilutz H, Cafri C, Ilia R, Fich A. Int J Cardiol. 2012 Jun 14;157(3):386-90. doi: 10.1016/j.ijcard.2010.12.081. Epub 2011 Jan 31. PMID: 21277643 [PubMed - indexed for MEDLINE] Similar articles
+118.  Comparison of thrombolysis in myocardial infarction, Global Registry of Acute Coronary Events, and Acute Physiology and Chronic Health Evaluation II risk scores in patients with acute myocardial infarction who require mechanical ventilation for more than 24 hours. Eran O, Novack V, Gilutz H, Zahger D. Am J Cardiol. 2011 Feb 1;107(3):343-6. doi: 10.1016/j.amjcard.2010.09.024. PMID: 21256996 [PubMed - indexed for MEDLINE] Similar articles
+119.  Obstructive sleep apnea and aging effects on macrovascular and microcirculatory function. Yim-Yeh S, Rahangdale S, Nguyen AT, Jordan AS, Novack V, Veves A, Malhotra A. Sleep. 2010 Sep;33(9):1177-83. PMID: 20857864 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+120.  Effect of coronary target lesion revascularization on late cardiac events after insertion of sirolimus-eluting or bare metal stents. Novack V, Nguyen MC, Rooney M, Chacko R, Novack L, Pencina M, Apruzzese P, Mauri L, Cohen SA, Moses J, Leon MB, Cutlip DE. Am J Cardiol. 2010 Sep 15;106(6):774-9. doi: 10.1016/j.amjcard.2010.04.039. Epub 2010 Aug 2. PMID: 20816116 [PubMed - indexed for MEDLINE] Similar articles
+121.  Routine laboratory results and thirty day and one-year mortality risk following hospitalization with acute decompensated heart failure. Novack V, Pencina M, Zahger D, Fuchs L, Nevzorov R, Jotkowitz A, Porath A. PLoS One. 2010 Aug 17;5(8):e12184. doi: 10.1371/journal.pone.0012184. PMID: 20808904 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+122.  [Bedside percutaneous tracheostomy in critically ill medical patients: clinical characteristics, outcome and complications]. Binyamin Y, Frenkel A, Barski L, Novack V, Almog YY. Harefuah. 2010 Mar;149(3):143-7, 196, 195. Hebrew. PMID: 20684163 [PubMed - indexed for MEDLINE] Similar articles
+123.  Vascular dysfunction in obstructive sleep apnea and type 2 diabetes mellitus. Yim-Yeh S, Rahangdale S, Nguyen AT, Stevenson KE, Novack V, Veves A, Malhotra A. Obesity (Silver Spring). 2011 Jan;19(1):17-22. doi: 10.1038/oby.2010.116. Epub 2010 Jun 3. PMID: 20523303 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+124.  In-hospital and nine-month outcomes among patients with coronary lesions involving a side branch and treated with bare metal stents. Novack V, Battaglia L, Popma JJ, Cutlip DE. Catheter Cardiovasc Interv. 2010 Dec 1;76(7):951-7. doi: 10.1002/ccd.22568. PMID: 20506118 [PubMed - indexed for MEDLINE] Similar articles
+125.  Selective molecular potassium channel blockade prevents atrial fibrillation. Amit G, Kikuchi K, Greener ID, Yang L, Novack V, Donahue JK. Circulation. 2010 Jun 1;121(21):2263-70. doi: 10.1161/CIRCULATIONAHA.109.911156. Epub 2010 May 17. PMID: 20479154 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+126.  Iatrogenic gastric acid suppression and the risk of nosocomial Clostridium difficile infection. Howell MD, Novack V, Grgurich P, Soulliard D, Novack L, Pencina M, Talmor D. Arch Intern Med. 2010 May 10;170(9):784-90. doi: 10.1001/archinternmed.2010.89. PMID: 20458086 [PubMed - indexed for MEDLINE] Similar articles
+127.  Left ventricular geometric abnormality screening in hypertensive patients using a hand-carried ultrasound device. Perez-Avraham G, Kobal SL, Etzion O, Novack V, Wolak T, Liel-Cohen N, Paran E. J Clin Hypertens (Greenwich). 2010 Mar;12(3):181-6. doi: 10.1111/j.1751-7176.2009.00247.x. PMID: 20433531 [PubMed - indexed for MEDLINE] Free Article Similar articles
+128.  Esophageal pressures in acute lung injury: do they represent artifact or useful information about transpulmonary pressure, chest wall mechanics, and lung stress? Loring SH, O’Donnell CR, Behazin N, Malhotra A, Sarge T, Ritz R, Novack V, Talmor D. J Appl Physiol (1985). 2010 Mar;108(3):515-22. doi: 10.1152/japplphysiol.00835.2009. Epub 2009 Dec 17. PMID: 20019160 [PubMed - indexed for MEDLINE] Free PMC Article Similar articles
+129.  Discrepancy between results of randomized control studies and retrospective analysis: the case of statin therapy effect on one-year mortality in patients with decompensated heart failure. Nevzorov R, Novack V, Henkin Y, Kobal SL, Jotkowitz A, Porath A. Eur J Intern Med. 2009 Sep;20(5):494-8. doi: 10.1016/j.ejim.2009.03.001. Epub 2009 Apr 5. PMID: 19712852 [PubMed - indexed for MEDLINE] Similar articles
+130.  In-hospital and 1-year outcomes among unselected percutaneous coronary intervention patients treated with either sirolimus- or paclitaxel-eluting stents: results from the EVENT (Evaluation of Drug Eluting Stents and Ischemic Events) registry. Novack V, Cutlip D, Kleiman N, Pencina M, Mauri L, Yen CH, Berger P, Goldberg S, Kellett M, Waksman R, Hong M, Raizner AE, Cohen DJ. JACC Cardiovasc Interv. 2009 Aug;2(8):767-75. doi: 10.1016/j.jcin.2009.05.016. PMID: 19695546 [PubMed - indexed for MEDLINE] Free Article Similar articles
+131.  Association of lipid levels during gestation with preeclampsia and gestational diabetes mellitus: a population-based study. Wiznitzer A, Mayer A, Novack V, Sheiner E, Gilutz H, Malhotra A, Novack L. Am J Obstet Gynecol. 2009 Nov;201(5):482.e1-8. doi: 10.1016/j.ajog.2009.05.032. Epub 2009 Jul 24. PMID: 19631920 [PubMed - indexed for MEDLINE] Similar articles
+132.  Impact of target lesion and nontarget lesion cardiac events on 5-year clinical outcomes after sirolimus-eluting or bare-metal stenting. Chacko R, Mulhearn M, Novack V, Novack L, Mauri L, Cohen SA, Moses J, Leon MB, Cutlip DE. JACC Cardiovasc Interv. 2009 Jun;2(6):498-503. doi: 10.1016/j.jcin.2009.03.013. PMID: 19539252 [PubMed - indexed for MEDLINE] Free Article Similar articles
+133.  Continuous perioperative insulin infusion decreases major cardiovascular events in patients undergoing vascular surgery: a prospective, randomized trial. Subramaniam B, Panzica PJ, Novack V, Mahmood F, Matyal R, Mitchell JD, Sundar E, Bose R, Pomposelli F, Kersten JR, Talmor DS. Anesthesiology. 2009 May;110(5):970-7. doi: 10.1097/ALN.0b013e3181a1005b. PMID: 19387173 [PubMed - indexed for MEDLINE] Similar articles
+134.  The effects of statin therapy on inflammatory cytokines in patients with bacterial infections: a randomized double-blind placebo controlled clinical trial. Novack V, Eisinger M, Frenkel A, Terblanche M, Adhikari NK, Douvdevani A, Amichay D, Almog Y. Intensive Care Med. 2009 Jul;35(7):1255-60. doi: 10.1007/s00134-009-1429-0. Epub 2009 Feb 11. PMID: 19205663 [PubMed - indexed for MEDLINE] Similar articles
+135.  Multivessel drug-eluting stenting and impact of diabetes mellitus–a report from the EVENT registry. Novack V, Tsyvine D, Cohen DJ, Pencina M, Dubin J, Dehghani H, Kleiman NS, Cutlip DE. Catheter Cardiovasc Interv. 2009 Jun 1;73(7):874-80. doi: 10.1002/ccd.21925. PMID: 19180665 [PubMed - indexed for MEDLINE] Similar articles
+136.  The effects of natural antioxidants from tomato extract in treated but uncontrolled hypertensive patients. Paran E, Novack V, Engelhard YN, Hazan-Halevy I. Cardiovasc Drugs Ther. 2009 Apr;23(2):145-51. doi: 10.1007/s10557-008-6155-2. Epub 2008 Dec 4. PMID: 19052855 [PubMed - indexed for MEDLINE]
