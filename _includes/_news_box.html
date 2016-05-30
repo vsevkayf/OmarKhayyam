@@ -1,5 +1,9 @@
-<style>
-h1,h2,h3,h4,h5,h6,p{margin: 0;padding: 0}
+
+<!DOCTYPE html><html class=''>
+<head><script src='//assets.codepen.io/assets/editor/live/console_runner-d0a557e5cb67f9cd9bbb9673355c7e8e.js'></script><script src='//assets.codepen.io/assets/editor/live/events_runner-21174b4c7273cfddc124acb0876792e0.js'></script><script src='//assets.codepen.io/assets/editor/live/css_live_reload_init-7618a0de08795409d8f6c9ef6805f7b2.js'></script><meta charset='UTF-8'><meta name="robots" content="noindex"><link rel="canonical" href="https://codepen.io/HvS/pen/xbqxNr#anon-login" />
+
+<link rel='stylesheet prefetch' href='http://code.ionicframework.com/ionicons/2.0.0/css/ionicons.min.css'>
+<style class="cp-pen-styles">h1,h2,h3,h4,h5,h6,p{margin: 0;padding: 0}
 body{font-family: sans-serif}
 .container{margin: 50px auto auto;width: 450px}
 .NewsTickerWrapper{position: relative}
@@ -21,11 +25,13 @@ body{font-family: sans-serif}
 .NewsTicker .NewsInfo>a .ion{margin-right: 3px}
 .NewsTicker .NewsInfo>a:hover{background: #1faeff;color:#fff;text-decoration: none}
 .NewsTickerWrapper .NewsTickerMore{position: absolute;top:100%;left:0;background: #355570;color:#fff;text-decoration: none;font-size: 90%;padding: 3px;transform-origin:top center;-webkit-transform-origin:top center;-moz-transform-origin:top center;-o-transform-origin:top center;-ms-transform-origin:top center;transform:rotateX(90deg);-webkit-transform:rotateX(90deg);-moz-transform:rotateX(90deg);-o-transform:rotateX(90deg);-ms-transform:rotateX(90deg);-webkit-transition: all .25s ease-in-out;transition: all .25s ease-in-out;-moz-transition: all .25s ease-in-out;-o-transition: all .25s ease-in-out;-ms-transition: all .25s ease-in-out;}
-.NewsTickerWrapper:hover .NewsTickerMore{transform:rotateX(0deg);-webkit-transform:rotateX(0deg);-moz-transform:rotateX(0deg);-o-transform:rotateX(0deg);-ms-transform:rotateX(0deg)}
-</style>
-<script type="text/javascript"> 
-<!-- 
-/*global $, clearInterval, setInterval, window*/
+.NewsTickerWrapper:hover .NewsTickerMore{transform:rotateX(0deg);-webkit-transform:rotateX(0deg);-moz-transform:rotateX(0deg);-o-transform:rotateX(0deg);-ms-transform:rotateX(0deg)}</style></head><body>
+<div class="container">
+        <ul class="NewsTicker1 NewsTicker">
+        </ul>
+    </div>
+<script src='//assets.codepen.io/assets/common/stopExecutionOnTimeout.js?t=1'></script><script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script>/*global $, clearInterval, setInterval, window*/
 $.fn.MDNewsTicker = function (options) {
     "use strict";
     var defaults = {
@@ -193,11 +199,7 @@ $(document).ready(function () {
     $(".NewsTicker1").MDNewsTicker({
         data: sampleJsonData
     });
-}); 
-//--> 
-</script> 
-
-<div class="container">
-        <ul class="NewsTicker1 NewsTicker">
-        </ul>
-</div>
+});
+//# sourceURL=pen.js
+</script>
+</body></html>
