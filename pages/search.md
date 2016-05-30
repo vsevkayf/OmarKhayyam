@@ -9,5 +9,4 @@ header:
 title: "Search"
 ---
 
-{% include _google_search.html %}
 {% include _google_search1.html %}
