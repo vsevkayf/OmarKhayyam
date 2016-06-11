@@ -17,6 +17,8 @@
     url: "/collaboration/"
   - title: "Media"
     url: "/media/"
+  - title: "Convention"
+    url: "/convention/"
   - title: "Soroka Medical Center"
     url: "/soroka/"
 
