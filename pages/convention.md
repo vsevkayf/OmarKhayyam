@@ -8,7 +8,7 @@ meta_title: "Conventions"
 subheadline: ""
 teaser: ""
 permalink: "/convention/"
-gallery:
+gallery1:
     - image_url: gallery-image-1.jpg
       caption: כנס איגוד רופאי הציבור השנתי 2016
     - image_url: gallery-image-2.jpg
@@ -22,4 +22,6 @@ gallery:
     - image_url: gallery-image-6.jpg
       caption: כנס איגוד רופאי הציבור השנתי 2016
 ---
-{% include gallery %}
+
+כנס איגוד רופאי הציבור השנתי 2016
+{% include gallery1 %}
