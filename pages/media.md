@@ -3,7 +3,7 @@ layout: page
 header:
   title: Soroka Clinical Research Center
   image_fullwidth: twodudes.png
-title: "About Us"
+title: "Media"
 meta_title: "Media"
 subheadline: ""
 teaser: ""
