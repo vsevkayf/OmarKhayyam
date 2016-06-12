@@ -24,4 +24,4 @@ gallery1:
 ---
 
 כנס איגוד רופאי הציבור השנתי 2016
-{% include gallery1 %}
+{% include gallery %}
