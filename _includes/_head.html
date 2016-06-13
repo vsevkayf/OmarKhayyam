@@ -7,7 +7,6 @@
 	<script src="{{ site.url }}{{ site.baseurl }}/assets/js/modernizr.min.js"></script>
 	
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
   <script>
     WebFont.load({
       google: {
@@ -21,15 +20,6 @@
   </noscript>
   
 
- <script type="text/javascript">
-    $(function() {
-                $('#p1 a').miniPreview({ prefetch: 'pageload' });
-                $('#p2 a').miniPreview({ prefetch: 'parenthover' });
-                $('#p3 a').miniPreview({ prefetch: 'none' });
-            });
-  </script>
-  <script src="http://codegena.com/assets/js/image-preview-for-link.js"></script>
-  
   {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification}}" />{% endif %}
 	{% if site.bing_webmastertools_id %}<meta name="msvalidate.01" content="{{ site.bing_webmastertools_id }}" />{% endif %}
 	{% if page.meta_description %}<meta name="description" content="{{ page.meta_description | strip_html | escape }}"/>{% elsif page.teaser %}<meta name="description" content="{{ page.teaser | strip_html | escape }}" />{% elsif site.description %}<meta name="description" content="{{ site.description | strip_html | escape }}" />{% endif %}
