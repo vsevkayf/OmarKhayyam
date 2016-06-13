@@ -36,11 +36,12 @@ http://www.medicalnewstoday.com/articles/310479.php
 https://consumer.healthday.com/respiratory-and-allergy-information-2/air-pollution-health-news-540/air-pollution-heart-disease-risk-jcem-release-batch-2689-711202.html
 
 http://www.iba.org.il/program.aspx?scode=1927712
-  
+</p>  
   
   
 Glucose and stress:  
 
+<p id="p1">
 http://www.e-med.co.il/emed/new/usersite/content.asp?CatID=1&ContentID=581275
 
 http://www.maariv.co.il/lifestyle/health/Article-544633
