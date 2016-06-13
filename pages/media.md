@@ -14,6 +14,7 @@ Hover a link for preview:
 
 Glucose and air pollution:  
 
+<p id="p1">
 http://in.bgu.ac.il/fohs/Pages/news/airpollution_heart.aspx
 
 http://medicalresearch.com/author-interviews/long-term-exposure-to-air-pollutants-linked-to-metabolic-alterations-especially-in-diabetics/24722/
@@ -43,3 +44,4 @@ Glucose and stress:
 http://www.e-med.co.il/emed/new/usersite/content.asp?CatID=1&ContentID=581275
 
 http://www.maariv.co.il/lifestyle/health/Article-544633
+</p>
