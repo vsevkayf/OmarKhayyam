@@ -19,7 +19,7 @@ Glucose and air pollution:
 </p>
 
 <p id="p1">
-<a href="http://medicalresearch.com/author-interviews/long-term-exposure-to-air-pollutants-linked-to-metabolic-alterations-especially-in-diabetics/24722/"></a>
+<a href="http://medicalresearch.com/author-interviews/long-term-exposure-to-air-pollutants-linked-to-metabolic-alterations-especially-in-diabetics/24722/">Long Term Exposure to Air Pollutants Linked To Metabolic Alterations Especially in Diabetics</a>
 </p>
 
 <p id="p1">
