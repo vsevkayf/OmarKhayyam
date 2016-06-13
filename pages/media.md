@@ -9,7 +9,19 @@ subheadline: ""
 teaser: ""
 permalink: "/media/"
 ---
+<style>
+.box{
+    display: none;
+    width: 100%;
+}
 
+a:hover + .box,.box:hover{
+    display: block;
+    position: relative;
+    z-index: 100;
+}
+
+</style>
 Hover a link for preview:  
 
 Glucose and air pollution:  
