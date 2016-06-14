@@ -1,0 +1,201 @@
+---
+layout: page
+header:
+  title: Soroka Clinical Research Center
+  image_fullwidth: twodudes.png
+title: "Media"
+meta_title: "Media"
+subheadline: ""
+teaser: ""
+permalink: "/media/"
+---
+
+<!DOCTYPE html><html class=''>
+<head><script src='//assets.codepen.io/assets/editor/live/console_runner-d0a557e5cb67f9cd9bbb9673355c7e8e.js'></script><script src='//assets.codepen.io/assets/editor/live/events_runner-21174b4c7273cfddc124acb0876792e0.js'></script><script src='//assets.codepen.io/assets/editor/live/css_live_reload_init-7618a0de08795409d8f6c9ef6805f7b2.js'></script><meta charset='UTF-8'><meta name="robots" content="noindex"><link rel="canonical" href="http://codepen.io/pen/" />
+
+
+<style class="cp-pen-styles">.mini-preview-anchor {
+    display: inline-block;
+    position: relative;
+    white-space: nowrap;
+}
+
+.mini-preview-wrapper {
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    position: absolute;
+    overflow: hidden;
+    z-index: -1;
+    opacity: 0;
+    margin-top: -4px;
+    border: solid 1px #000;
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, .3);
+    transition: z-index steps(1) .3s, opacity .3s, margin-top .3s;
+}
+
+.mini-preview-anchor:hover .mini-preview-wrapper {
+    z-index: 2;
+    opacity: 1;
+    margin-top: 6px;
+    transition: opacity .3s, margin-top .3s;
+}
+
+.mini-preview-loading, .mini-preview-cover {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;    
+}
+
+.mini-preview-loading {
+    display: table;
+    height: 100%;
+    width: 100%;
+    font-size: 1.25rem;
+    text-align: center;
+    color: #f5ead4;
+    background-color: #59513f;
+}
+
+.mini-preview-loading::before {
+    content: 'Loading...';
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.mini-preview-cover {
+    background-color: rgba(0, 0, 0, 0); /* IE fix */
+}
+
+.mini-preview-frame {
+    border: none;
+    -webkit-transform-origin: 0 0;
+    transform-origin: 0 0;
+}</style></head><body>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>MiniPreview Demo</title>
+
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+        <!-- MiniPreview stuff here -->
+        <link href="./jquery.minipreview.css" rel="stylesheet">
+        <script src="./jquery.minipreview.js"></script>
+        <script>
+            $(function() {
+                $('#p1 a').miniPreview({ prefetch: 'pageload' });
+                $('#p2 a').miniPreview({ prefetch: 'parenthover' });
+                $('#p3 a').miniPreview({ prefetch: 'none' });
+            });
+        </script>
+    </head>
+    <body>
+        <p id="p1">
+            This demo shows how to add live mini-previews to links on hover. Check out these links to <a href="http://www.sitepoint.com/">SitePoint</a> and <a href="http://alistapart.com/">A List Apart</a>. Hover over them to see a small preview of what they point to.
+        </p>
+        <p class="break">&bull; &bull; &bull;</p>
+        <p id="p2">
+            Those previews were fetched as soon as this page loaded. This is great for having the previews ready ahead of time, but can eat up extra bandwidth. As an alternative, check out these links to <a href="http://abduzeedo.com/">Abduzeedo</a> and <a href="http://www.smashingmagazine.com/">Smashing Magazine</a>. These previews aren't fetched until you hover over this paragraph.
+        </p>
+        <p class="break">&bull; &bull; &bull;</p>
+        <p id="p3">
+            Finally, check out these links to <a href="http://www.growingwiththeweb.com/">Daniel's blog</a>, <a href="http://jonibologna.com/">Joni's blog</a>, and <a href="http://codersblock.com/blog/">my blog</a>. These previews are only fetched when needed. This saves the most bandwidth, but there will be a delay before the previews can be shown.
+        </p>
+    </body>
+</html>
+<script src='//assets.codepen.io/assets/common/stopExecutionOnTimeout.js?t=1'></script>
+<script>(function ($) {
+    var PREFIX = 'mini-preview';
+    $.fn.miniPreview = function (options) {
+        return this.each(function () {
+            var $this = $(this);
+            var miniPreview = $this.data(PREFIX);
+            if (miniPreview) {
+                miniPreview.destroy();
+            }
+            miniPreview = new MiniPreview($this, options);
+            miniPreview.generate();
+            $this.data(PREFIX, miniPreview);
+        });
+    };
+    var MiniPreview = function ($el, options) {
+        this.$el = $el;
+        this.$el.addClass(PREFIX + '-anchor');
+        this.options = $.extend({}, this.defaultOptions, options);
+        this.counter = MiniPreview.prototype.sharedCounter++;
+    };
+    MiniPreview.prototype = {
+        sharedCounter: 0,
+        defaultOptions: {
+            width: 256,
+            height: 144,
+            scale: 0.25,
+            prefetch: 'pageload'
+        },
+        generate: function () {
+            this.createElements();
+            this.setPrefetch();
+        },
+        createElements: function () {
+            var $wrapper = $('<div>', { class: PREFIX + '-wrapper' });
+            var $loading = $('<div>', { class: PREFIX + '-loading' });
+            var $frame = $('<iframe>', { class: PREFIX + '-frame' });
+            var $cover = $('<div>', { class: PREFIX + '-cover' });
+            $wrapper.appendTo(this.$el).append($loading, $frame, $cover);
+            $wrapper.css({
+                width: this.options.width + 'px',
+                height: this.options.height + 'px'
+            });
+            var inversePercent = 100 / this.options.scale;
+            $frame.css({
+                width: inversePercent + '%',
+                height: inversePercent + '%',
+                transform: 'scale(' + this.options.scale + ')'
+            });
+            var fontSize = parseInt(this.$el.css('font-size').replace('px', ''), 10);
+            var top = (this.$el.height() + fontSize) / 2;
+            var left = (this.$el.width() - $wrapper.outerWidth()) / 2;
+            $wrapper.css({
+                top: top + 'px',
+                left: left + 'px'
+            });
+        },
+        setPrefetch: function () {
+            switch (this.options.prefetch) {
+            case 'pageload':
+                this.loadPreview();
+                break;
+            case 'parenthover':
+                this.$el.parent().one(this.getNamespacedEvent('mouseenter'), this.loadPreview.bind(this));
+                break;
+            case 'none':
+                this.$el.one(this.getNamespacedEvent('mouseenter'), this.loadPreview.bind(this));
+                break;
+            default:
+                throw 'Prefetch setting not recognized: ' + this.options.prefetch;
+                break;
+            }
+        },
+        loadPreview: function () {
+            this.$el.find('.' + PREFIX + '-frame').attr('src', this.$el.attr('href')).on('load', function () {
+                $(this).css('background-color', '#fff');
+            });
+        },
+        getNamespacedEvent: function (event) {
+            return event + '.' + PREFIX + '_' + this.counter;
+        },
+        destroy: function () {
+            this.$el.removeClass(PREFIX + '-anchor');
+            this.$el.parent().off(this.getNamespacedEvent('mouseenter'));
+            this.$el.off(this.getNamespacedEvent('mouseenter'));
+            this.$el.find('.' + PREFIX + '-wrapper').remove();
+        }
+    };
+}(jQuery));
+//# sourceURL=pen.js
+</script>
+</body></html>
