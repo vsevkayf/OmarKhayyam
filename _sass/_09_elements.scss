@@ -145,3 +145,16 @@ img.lazy {
     transition: opacity 0.7s;
     opacity: 1;
 }
+
+
+
+.box{
+    display: none;
+    width: 100%;
+}
+
+a:hover + .box,.box:hover{
+    display: block;
+    position: relative;
+    z-index: 100;
+}
