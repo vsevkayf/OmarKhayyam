@@ -44,7 +44,7 @@ Glucose and air pollution:
 
  
 <a href="https://www.sciencedaily.com/releases/2016/05/160524144659.htm" target="_blank">Air pollution exposure may raise heart disease risk</a>
-<div class="box"><iframe src="https://www.sciencedaily.com/releases/2016/05/160524144659.htm"   width = "500px" height = "500px"></iframe></div> 
+<div class="box"><iframe src="https://www.sciencedaily.com/releases/2016/05/160524144659.htm" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"  width = "500px" height = "500px"></iframe></div> 
 
  
 <a href="http://www.doctorslounge.com/index.php/news/pb/63911" target="_blank">Study Upholds Link Between Air Pollution and Higher CVD Risk</a>
