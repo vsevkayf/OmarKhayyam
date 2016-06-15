@@ -10,107 +10,99 @@ teaser: ""
 permalink: "/testprev/"
 ---
 
-<!DOCTYPE html><html class=''>
-<head><script src='//assets.codepen.io/assets/editor/live/console_runner-d0a557e5cb67f9cd9bbb9673355c7e8e.js'></script><script src='//assets.codepen.io/assets/editor/live/events_runner-21174b4c7273cfddc124acb0876792e0.js'></script><script src='//assets.codepen.io/assets/editor/live/css_live_reload_init-7618a0de08795409d8f6c9ef6805f7b2.js'></script><meta charset='UTF-8'><meta name="robots" content="noindex"><link rel="canonical" href="http://codepen.io/pen/" />
 
 
-<style class="cp-pen-styles">.mini-preview-anchor {
-    display: inline-block;
-    position: relative;
-    white-space: nowrap;
+<style>
+  
+
+a {
+  display: inline-block;
+  position: relative;
+  white-space: nowrap;
+  color: #e25633;
+  text-decoration: none;  
 }
 
-.mini-preview-wrapper {
-    -moz-box-sizing: content-box;
-    box-sizing: content-box;
-    position: absolute;
-    overflow: hidden;
-    z-index: -1;
-    opacity: 0;
-    margin-top: -4px;
-    border: solid 1px #000;
-    box-shadow: 4px 4px 6px rgba(0, 0, 0, .3);
-    transition: z-index steps(1) .3s, opacity .3s, margin-top .3s;
+.break {
+  text-align: center;
 }
 
-.mini-preview-anchor:hover .mini-preview-wrapper {
-    z-index: 2;
-    opacity: 1;
-    margin-top: 6px;
-    transition: opacity .3s, margin-top .3s;
+.link-preview-wrapper {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  position: absolute;
+  overflow: hidden;
+  z-index: -1;
+  opacity: 0;
+  margin-top: -4px;
+  border: 1px solid #aaa;
+  box-shadow: 0 4px 6px -2px rgba(0,0,0,0.3);
+  transition: z-index steps(1) .3s, opacity .3s, margin-top .3s;
 }
 
-.mini-preview-loading, .mini-preview-cover {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    left: 0;    
+a:hover .link-preview-wrapper {
+  z-index: 2;
+  opacity: 1;
+  margin-top: 6px;
+  transition: opacity .3s, margin-top .3s;
 }
 
-.mini-preview-loading {
-    display: table;
-    height: 100%;
-    width: 100%;
-    font-size: 1.25rem;
-    text-align: center;
-    color: #f5ead4;
-    background-color: #59513f;
+.link-preview-loading, .link-preview-cover {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;  
 }
 
-.mini-preview-loading::before {
-    content: 'Loading...';
-    display: table-cell;
-    text-align: center;
-    vertical-align: middle;
+.link-preview-loading {
+  display: table;
+  height: 100%;
+  width: 100%;
+  font-size: 15px;
+  text-align: center;
+  color: #999;
+  background-color: #e5e5e5;
 }
 
-.mini-preview-cover {
-    background-color: rgba(0, 0, 0, 0); /* IE fix */
+.link-preview-loading::before {
+  content: 'Loading...';
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
 }
 
-.mini-preview-frame {
-    border: none;
-    -webkit-transform-origin: 0 0;
-    transform-origin: 0 0;
-}</style></head><body>
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>MiniPreview Demo</title>
+.link-preview-cover {
+  background-color: rgba(0,0,0,0);
+}
 
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+.link-preview-frame {
+  border: none;
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+  
+</style>
 
-        <!-- MiniPreview stuff here -->
-<link href="{{ site.url }}{{ site.baseurl }}/assets/css/jquery.minipreview.css" rel="stylesheet">
-<script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.minipreview.js"></script>
+  
+  <div class="post-body">
+    <h2 class="post-title">oer pada link untuk melihat hasilnya</h2>        
+    <p id="p1">Donec at dolor mi. Pellentesque sit amet ornare risus. Fusce varius ut turpis sed semper. In ut est et enim gravida interdum nec id quam <a href="http://lycoris9.blogspot.com">Lycoris<div style="width: 256px; height: 144px; top: 17.5px; left: -99px;" class="link-preview-wrapper"><div class="link-preview-loading"></div><iframe src="http://lycoris9.blogspot.com" style="width: 400%; height: 400%; transform: scale(0.25); background-color: rgb(255, 255, 255);" class="link-preview-frame"></iframe><div class="link-preview-cover"></div></div></a>. Aliquam leo ante, posuere id suscipit et, varius quis metus. Aenean tincidunt pellentesque facilisis <a href="http://minima9.blogspot.com">New Minima Colored<div style="width: 256px; height: 144px; top: 17.5px; left: -43px;" class="link-preview-wrapper"><div class="link-preview-loading"></div><iframe src="http://minima9.blogspot.com" style="width: 400%; height: 400%; transform: scale(0.25); background-color: rgb(255, 255, 255);" class="link-preview-frame"></iframe><div class="link-preview-cover"></div></div></a>.</p>    
+    <p id="p2">Maecenas iaculis pellentesque ante, vel faucibus massa iaculis eget. Suspendisse potenti. Quisque auctor, turpis ut auctor tempus, iam ante pharetra dui, eleifend posuere tellus metus et lorem <a href="http://minima8.blogspot.com">Minima<div style="width: 256px; height: 144px; top: 17.5px; left: -98.5px;" class="link-preview-wrapper"><div class="link-preview-loading"></div><iframe src="http://minima8.blogspot.com" style="width: 400%; height: 400%; transform: scale(0.25); background-color: rgb(255, 255, 255);" class="link-preview-frame"></iframe><div class="link-preview-cover"></div></div></a>.</p>     
+    <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>  
+    <p id="p3">Maecenas iaculis pellentesque ante, vel faucibus massa iaculis eget. Suspendisse potenti. Quisque auctor, turpis ut auctor tempus, diam ante pharetra dui, eleifend posuere tellus metus et lorem <a href="http://vampyleaf.blogspot.com">Minima Colored 3<div style="width: 256px; height: 144px; top: 17.5px; left: -56.5px;" class="link-preview-wrapper"><div class="link-preview-loading"></div><iframe style="width: 400%; height: 400%; transform: scale(0.25);" class="link-preview-frame"></iframe><div class="link-preview-cover"></div></div></a>. Ut id ultricies metus, sed pharetra ipsum. Donec egestas, mi a sagittis rhoncus diam ante pharetra dui, eleifend posuere tellus metus et lorem vel faucibus massa iaculis eget <a href="http://lycoris9.blogspot.com">Lycoris<div style="width: 256px; height: 144px; top: 17.5px; left: -99px;" class="link-preview-wrapper"><div class="link-preview-loading"></div><iframe style="width: 400%; height: 400%; transform: scale(0.25);" class="link-preview-frame"></iframe><div class="link-preview-cover"></div></div></a>.</p>
+    <p id="p1">Donec at dolor mi. Pellentesque sit amet ornare risus. Fusce varius ut turpis sed semper. </p>
+    <p>Donec at dolor mi. Pellentesque sit amet ornare risus. Fusce varius ut turpis sed semper. In ut est et enim gravida interdum nec id quam.</p>      
+</div> 
 
-        <script>
-            $(function() {
-                $('#p1 a').miniPreview({ prefetch: 'pageload' });
-                $('#p2 a').miniPreview({ prefetch: 'parenthover' });
-                $('#p3 a').miniPreview({ prefetch: 'none' });
-            });
-        </script>
-    </head>
-    <body>
-        <p id="p1">
-            This demo shows how to add live mini-previews to links on hover. Check out these links to <a href="http://www.sitepoint.com/">SitePoint</a> and <a href="http://alistapart.com/">A List Apart</a>. Hover over them to see a small preview of what they point to.
-        </p>
-        <p class="break">&bull; &bull; &bull;</p>
-        <p id="p2">
-            Those previews were fetched as soon as this page loaded. This is great for having the previews ready ahead of time, but can eat up extra bandwidth. As an alternative, check out these links to <a href="http://abduzeedo.com/">Abduzeedo</a> and <a href="http://www.smashingmagazine.com/">Smashing Magazine</a>. These previews aren't fetched until you hover over this paragraph.
-        </p>
-        <p class="break">&bull; &bull; &bull;</p>
-        <p id="p3">
-            Finally, check out these links to <a href="http://www.growingwiththeweb.com/">Daniel's blog</a>, <a href="http://jonibologna.com/">Joni's blog</a>, and <a href="http://codersblock.com/blog/">my blog</a>. These previews are only fetched when needed. This saves the most bandwidth, but there will be a delay before the previews can be shown.
-        </p>
-    </body>
-</html>
-<script src='//assets.codepen.io/assets/common/stopExecutionOnTimeout.js?t=1'></script>
-<script>(function ($) {
-    var PREFIX = 'mini-preview';
+<script src="//assets.codepen.io/assets/common/stopExecutionOnTimeout.js?t=1"></script><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script>$(function () {
+    $('#p1 a').miniPreview({ prefetch: 'pageload' });
+    $('#p2 a').miniPreview({ prefetch: 'parenthover' });
+    $('#p3 a').miniPreview({ prefetch: 'none' });
+});
+(function ($) {
+    var PREFIX = 'link-preview';
     $.fn.miniPreview = function (options) {
         return this.each(function () {
             var $this = $(this);
@@ -125,7 +117,6 @@ permalink: "/testprev/"
     };
     var MiniPreview = function ($el, options) {
         this.$el = $el;
-        this.$el.addClass(PREFIX + '-anchor');
         this.options = $.extend({}, this.defaultOptions, options);
         this.counter = MiniPreview.prototype.sharedCounter++;
     };
@@ -190,7 +181,6 @@ permalink: "/testprev/"
             return event + '.' + PREFIX + '_' + this.counter;
         },
         destroy: function () {
-            this.$el.removeClass(PREFIX + '-anchor');
             this.$el.parent().off(this.getNamespacedEvent('mouseenter'));
             this.$el.off(this.getNamespacedEvent('mouseenter'));
             this.$el.find('.' + PREFIX + '-wrapper').remove();
@@ -199,4 +189,3 @@ permalink: "/testprev/"
 }(jQuery));
 //# sourceURL=pen.js
 </script>
-</body></html>
