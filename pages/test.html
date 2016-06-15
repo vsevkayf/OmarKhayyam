@@ -9,8 +9,9 @@ subheadline: ""
 teaser: ""
 permalink: "/test/"
 ---
+
 <script>
-$(document).ready(function() {
+	$(document).ready(function() {
 	
 	var $link = $('a[href^="http"]');
 	
@@ -25,47 +26,42 @@ $(document).ready(function() {
 	
 });
 </script>
+
 <style>
 section {
-	padding: 50px 100px;
-	text-align: justify;
-	a {
-		position: relative;
-		text-decoration: none;
-		font-weight: 700;
-		color: #08f;
-		&:hover { text-decoration: underline; }
-		&[href^="http"] {
-			white-space: nowrap;
-			iframe {
-				z-index: 1;
-				position: absolute;
-				top: 100%; left: 50%;
-				transform: translate(-50%, -37.5%) scale(0.25);
-				width: 1000px; height: 800px;
-				background: #ddd;
-				border: none;
-				border: 3px solid #ddd;
-				box-shadow:
-					0 12px 24px rgba(#000, 0.2),
-					0 12px 24px rgba(#000, 0.1);
-			}
-		}
-	}
+  padding: 50px 100px;
+  text-align: justify;
 }
-
+section a {
+  position: relative;
+  text-decoration: none;
+  font-weight: 700;
+  color: #08f;
+}
+section a:hover {
+  text-decoration: underline;
+}
+section a[href^="http"] {
+  white-space: nowrap;
+}
+section a[href^="http"] iframe {
+  z-index: 1;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -37.5%) scale(0.25);
+          transform: translate(-50%, -37.5%) scale(0.25);
+  width: 1000px;
+  height: 800px;
+  background: #ddd;
+  border: none;
+  border: 3px solid #ddd;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2), 0 12px 24px rgba(0, 0, 0, 0.1);
+}
 </style>
 
 <section>
-<p>
-Glucose and air pollution:  
-</p>
-
-<p id="p3" dir="rtl"> 
-<a href="http://in.bgu.ac.il/fohs/Pages/news/airpollution_heart.aspx" target="_blank">נמצא קשר בין חשיפה לזיהום אוויר לבין שינויים ברמות סוכר ושומנים בדם, עם סיכון משמעותי יותר בקרב חולי סוכרת</a>
-</p>
-
-<p id="p3"> 
-<a href="http://medicalresearch.com/author-interviews/long-term-exposure-to-air-pollutants-linked-to-metabolic-alterations-especially-in-diabetics/24722/">Long Term Exposure to Air Pollutants Linked To Metabolic Alterations Especially in Diabetics</a>
-</p>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi <a href="http://codepen.io/">Codepen</a> quibusdam consequatur, labore quam assumenda facere odit eveniet, culpa tenetur, repudiandae illo commodi impedit sed amet tempora debitis facilis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. <a href="https://css-tricks.com/">CSS-Tricks</a> vel perspiciatis quae quaerat sunt voluptates, adipisci, eum quasi totam. Expedita voluptate minima veniam. Cum aliquid iure, omnis obcaecati quisquam.</p>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum eos rerum, ut laboriosam dolores harum, asperiores eveniet aliquam. <a href="https://unsplash.com/grid/">Unsplash</a> dolore maxime enim! Cupiditate tempora, in sunt nemo qui expedita. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore perspiciatis vitae architecto deleniti quasi perferendis, <a href="http://thecodinglove.com/">TheCodingLove</a> reprehenderit sunt ducimus debitis sequi facilis ullam, praesentium dolor deserunt, ipsum consectetur! Ratione, officiis? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe voluptatem quaerat culpa exercitationem quasi asperiores iste. Optio totam ut esse sed doloremque, eius! Porro, libero, perferendis excepturi error optio temporibus?</p>
 </section>
+
