@@ -5,23 +5,27 @@ people:
   position: Administrative Director
   phone: +972-8-624 4240
   email: RuthieB@clalit.org.il
+  url: 
 
 - name: Prof. Victor Novack MD, PhD
   pic: victor
   position: Head of Soroka Clinical Research Center
   phone: +972-8-640-3486
   email: Victorno@clalit.org.il
+  url: https://vsevkayf.github.io/OmarKhayyam/novack/
 
 - name: Maayan Yitshak-Sade, MPH
   pic: maayan
   position: Statistical Consultant
   phone: +972-8-624 4240
   email: azranma@clalit.org.il
-  
+  url: 
+
 - name: test
   pic: SOROKA
   position: Statistical Consultant
   phone: +972-8-624 4240
   email: azranma@clalit.org.il
-  
+  url: 
+
   
