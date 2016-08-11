@@ -27,5 +27,12 @@ people:
   phone: +972-8-624 4240
   email: azranma@clalit.org.il
   url: 
+  
+- name: test 2
+  pic: SOROKA
+  position: Statistical Consultant
+  phone: +972-8-624 4240
+  email: azranma@clalit.org.il
+  url: 
 
   
