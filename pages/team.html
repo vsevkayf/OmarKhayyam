@@ -11,24 +11,8 @@ subheadline: ""
 teaser: ""
 permalink: "/team/"
 ---
-
-                {% for member in site.data.team.people %}
-                <div class="col-sm-4" style="text-align: center;display: inline-block;padding: 5px 10px 5px 10px;">
-                    <div class="team-member">
-                        <img src="{{ site.urlimg }}team150x150/{{ member.pic }}.png" class="img-responsive img-circle" style="width: 150px;height: 150px;">
-                        <a href="{{ member.url }}" target="_blank"><h4>{{ member.name }}</h4></a>
-                        <p class="text-muted">{{ member.position }}</p>
-                        <p class="text-muted">{{ member.phone }}</p>
-                        <p class="text-muted">{{ member.email }}</p>
-                    </div>
-                </div>
-                {% endfor %}
-
 <!-- Team Section -->
-    <section id="team" class="bg-light-gray">
-        <div class="container">
 
-            <div class="row">
                 {% for member in site.data.team.people %}
                 <div class="col-sm-4" style="text-align: center;display: inline-block;padding: 5px 10px 5px 10px;">
                     <div class="team-member">
@@ -40,7 +24,10 @@ permalink: "/team/"
                     </div>
                 </div>
                 {% endfor %}
-            </div>
+                <p>Had pleasure to work with:<br>
+                	Adi  Regev, Yael Baumfeld, Maya Paryente wiessman, Shiri Shechner, Katya Belov, Gabriela Delgado, Dafna Oz, 
+                	Kama Sembira, Janan Awesat, Yael Perl, Noa Gohar, Ruthie Maayan, Renana Wilkof, Shira Yuval, Eiman Egbaria, 
+                	Batel Dahan, Dafna Dalla-Torre Levy, Hilel Vardi, Ronen Toledan, Shay Hertz, Tali shafat, Adva Gutman,
+                	Moshe Stavsky, Keren Houri, Whitney  Aquenda, Yuval Mirkin, Rita Troitsa.
+                </p>  
 
-        </div>
-    </section>
