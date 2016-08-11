@@ -20,17 +20,15 @@ permalink: "/team/"
                 {% for member in site.data.team.people %}
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="images/team150x150/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                        <img src="images/team150x150/{{ member.pic }}.png" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
+                        <p class="text-muted">{{ member.phone }}</p>
+                        <p class="text-muted">{{ member.email }}</p>
                     </div>
                 </div>
                 {% endfor %}
             </div>
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
-                </div>
-            </div>
+
         </div>
     </section>
