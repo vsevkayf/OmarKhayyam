@@ -20,8 +20,7 @@ permalink: "/team/"
                 {% for member in site.data.team.people %}
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="{{ site.urlimg }}team150x150/{{ member.pic }}.png" class="img-responsive img-circle" alt="">
-                        <h4>{{ member.name }}</h4>
+                        <h4>{{ member.name }} <img src="{{ site.urlimg }}team150x150/{{ member.pic }}.png" class="img-responsive img-circle" alt=""></h4>
                         <p class="text-muted">{{ member.position }}</p>
                         <p class="text-muted">{{ member.phone }}</p>
                         <p class="text-muted">{{ member.email }}</p>
