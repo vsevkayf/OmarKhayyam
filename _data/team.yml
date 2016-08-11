@@ -13,7 +13,13 @@ people:
   email: Victorno@clalit.org.il
 
 - name: Maayan Yitshak-Sade, MPH
-  pic: 3
+  pic: maayan
+  position: Statistical Consultant
+  phone: +972-8-624 4240
+  email: azranma@clalit.org.il
+  
+- name: test
+  pic: 
   position: Statistical Consultant
   phone: +972-8-624 4240
   email: azranma@clalit.org.il
