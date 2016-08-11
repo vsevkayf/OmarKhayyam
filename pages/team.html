@@ -12,6 +12,16 @@ teaser: ""
 permalink: "/team/"
 ---
 
+                {% for member in site.data.team.people %}
+                    <div class="team-member">
+                        <img src="{{ site.urlimg }}team150x150/{{ member.pic }}.png" class="img-responsive img-circle" alt="">
+                        <a href="{{ member.url }}" target="_blank"><h4>{{ member.name }}</h4></a>
+                        <p class="text-muted">{{ member.position }}</p>
+                        <p class="text-muted">{{ member.phone }}</p>
+                        <p class="text-muted">{{ member.email }}</p>
+                    </div>
+                {% endfor %}
+
 <!-- Team Section -->
     <section id="team" class="bg-light-gray">
         <div class="container">
