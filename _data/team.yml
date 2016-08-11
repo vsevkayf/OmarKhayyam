@@ -1,34 +1,21 @@
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+- name: Ruthie Bekore, B.Sc
+  pic: ruti
+  position: Administrative Director
+  phone: +972-8-624 4240
+  email: RuthieB@clalit.org.il
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+- name: Prof. Victor Novack MD, PhD
+  pic: victor
+  position: Head of Soroka Clinical Research Center
+  phone: +972-8-640-3486
+  email: Victorno@clalit.org.il
 
-- name: Diana Petersen
+- name: Maayan Yitshak-Sade, MPH
   pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  position: Statistical Consultant
+  phone: +972-8-624 4240
+  email: azranma@clalit.org.il
+  
+  
