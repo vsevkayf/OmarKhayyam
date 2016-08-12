@@ -3,8 +3,6 @@ layout: page
 header:
   title: Soroka Clinical Research Center
   image_fullwidth: flasks.jpg
-  caption: Soroka Clinical Research Center
-  caption_url: https://vsevkayf.github.io/OmarKhayyam/
 title: "Investigator- Initiated Academic Research"
 meta_title: "acares"
 subheadline: ""
