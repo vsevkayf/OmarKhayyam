@@ -3,8 +3,6 @@ layout: page
 header:
   title: Soroka Clinical Research Center
   image_fullwidth: microdude.jpg
-  caption: Soroka Clinical Research Center
-  caption_url: https://vsevkayf.github.io/OmarKhayyam/
 title: "Clinical Research"
 meta_title: "clinicalresearch"
 subheadline: ""
