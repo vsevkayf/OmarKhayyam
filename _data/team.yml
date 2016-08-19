@@ -1,5 +1,12 @@
 # Team names, titles and social links
 people:
+- name: Prof. Victor Novack MD, PhD
+  pic: victor
+  position: Head of Soroka Clinical Research Center
+  phone: +972-8-640-3486
+  email: Victorno@clalit.org.il
+  url: /novack/
+  
 - name: Ruthie Bekore, B.Sc
   pic: ruti
   position: Administrative Director
@@ -7,32 +14,11 @@ people:
   email: RuthieB@clalit.org.il
   url: http://sorokacrc.org/contact/
 
-- name: Prof. Victor Novack MD, PhD
-  pic: victor
-  position: Head of Soroka Clinical Research Center
-  phone: +972-8-640-3486
-  email: Victorno@clalit.org.il
-  url: /novack/
-
 - name: Maayan Yitshak-Sade, MPH
   pic: maayan
-  position: Statistical Consultant
-  phone: Use the contact form
-  email: azranma@clalit.org.il
-  url: http://sorokacrc.org/contact/
-
-- name: Yael Vakselman
-  pic: SOROKA
-  position: Logistic and Administrative Assistant
-  phone: Use the contact form
-  email: Use the contact form
-  url: http://sorokacrc.org/contact/
-  
-- name: Poliana Shamgar, RN, MHA
-  pic: poliana
-  position: Study Nurse
+  position: Chief Scientific officer
   phone: +972-8-624 4220
-  email: polianash@clalit.org.il
+  email: azranma@clalit.org.il
   url: http://sorokacrc.org/contact/
 
 - name: Tamar Gibor
@@ -40,6 +26,20 @@ people:
   position: Senior Project Manager, Sponsored Researh
   phone: +972-8-640 3589
   email: TamarGib@clalit.org.il
+  url: http://sorokacrc.org/contact/
+  
+- name: Yael Vakselman
+  pic: SOROKA
+  position: Logistic and Administrative Assistant
+  phone: +972-8-624 4339
+  email: yaelve@clalit.org.il
+  url: http://sorokacrc.org/contact/
+  
+- name: Poliana Shamgar, RN, MHA
+  pic: poliana
+  position: Study Nurse
+  phone: +972-8-624 4220
+  email: polianash@clalit.org.il
   url: http://sorokacrc.org/contact/
   
 - name: Irena Kantor
@@ -51,23 +51,16 @@ people:
 
 - name: Mor Portnikov
   pic: SOROKA
-  position: Administrative Director
-  phone: +972-8-640 3973
+  position: Clinical Research Project Manager
+  phone: +972-8-624 4245
   email: Use the contact form
   url: http://sorokacrc.org/contact/
   
 - name: Maka Totiashvili
   pic: SOROKA
-  position: Senior Project Manager, Sponsored Research
+  position: Clinical Research Project Manager
   phone: +972-8-624 4245
   email: Use the contact form
-  url: http://sorokacrc.org/contact/
-
-- name: Lital Wiersch
-  pic: SOROKA
-  position: To be announced
-  phone: +972-8-624 4245
-  email: Litalwi@clalit.org.il
   url: http://sorokacrc.org/contact/
   
 - name: Alina Vodonos
@@ -86,53 +79,53 @@ people:
   
 - name: Iftach Sagi, MD
   pic: iftah
-  position: PHD student
+  position: PhD student
   phone: Use the contact form
   email: IftachSa2@clalit.org.il
   url: http://sorokacrc.org/contact/
 
 - name: Orit Baret, MD
   pic: SOROKA
-  position: PHD student
+  position: PhD student
   phone: Use the contact form
   email: ShemeshO@clalit.org.il
   url: http://sorokacrc.org/contact/
   
 - name: Lihi Bar-Lev
   pic: SOROKA
-  position: Staff member
-  phone: Use the contact form
-  email: Use the contact form
-  url: http://sorokacrc.org/contact/
-
-- name: Jacob Dreiher
-  pic: SOROKA
-  position: Staff member
-  phone: Use the contact form
-  email: Use the contact form
-  url: http://sorokacrc.org/contact/
-  
-- name: Gili Talmon
-  pic: gili
-  position: Study Coordinator
-  phone: Use the contact form
-  email: Use the contact form
-  url: http://sorokacrc.org/contact/
-
-- name: Michal kravitz
-  pic: SOROKA
-  position: Study Coordinator
+  position: PhD student
   phone: Use the contact form
   email: Use the contact form
   url: http://sorokacrc.org/contact/
   
 - name: Maya Chotiner
   pic: SOROKA
-  position: Staff member
+  position: Study Assistant
+  phone: Use the contact form
+  email: Use the contact form
+  url: http://sorokacrc.org/contact/
+  
+- name: Noam Pinsk
+  pic: SOROKA
+  position: Study Assistant
   phone: Use the contact form
   email: Use the contact form
   url: http://sorokacrc.org/contact/
 
+- name: Yaara Raviv
+  pic: SOROKA
+  position: Study Assistant
+  phone: Use the contact form
+  email: Use the contact form
+  url: http://sorokacrc.org/contact/
+  
+- name: Jayanah Mored
+  pic: SOROKA
+  position: Research Assistant
+  phone: Use the contact form
+  email: Use the contact form
+  url: http://sorokacrc.org/contact/
+  
 - name: Yotam Lior, B.Med. Sc.
   pic: yotam
   position: Research Assistant
@@ -149,7 +142,7 @@ people:
 
 - name: Yuval Mizrakli
   pic: yuval
-  position: Research Assistant
+  position: PhD Student
   phone: Use the contact form
   email: YuvalMi@clalit.org.il
   url: http://sorokacrc.org/contact/
