@@ -1,21 +1,13 @@
 ---
-permalink: /search/
-layout: page
+permalink: /search.html
+layout: search
 header:
   title: Soroka Clinical Research Center 
   image_fullwidth: twodudes.png
 title: "Search"
 ---
 
-<form action="/search/" method="get">
-  <label for="search-box">Search</label>
-  <input type="text" id="search-box" name="query">
-  <input type="submit" value="search">
-</form>
-
-{% include _google_search1.html %}
-
-<form action="/search/" method="get">
+<form action="/search.html" method="get">
   <label for="search-box">Search</label>
   <input type="text" id="search-box" name="query">
   <input type="submit" value="search">
