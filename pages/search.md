@@ -7,7 +7,7 @@ header:
 title: "Search"
 ---
 <head>
-  <link href="tipuesearch/tipuesearch.css" rel="stylesheet">
+  <link href="{{site.urlass}}tipuesearch/tipuesearch.css" rel="stylesheet">
   
 </head>
 
