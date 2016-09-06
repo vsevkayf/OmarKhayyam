@@ -20,7 +20,7 @@ http://www.tipue.com/search
      box-shadow: none; 
 	outline: 0;
 	margin: 0;
-	background: #fff url('{{ site.urlimg }}search.png') no-repeat 15px 15px;
+	background: #fff url('http://sorokacrc.org/images/search.png') no-repeat 15px 15px;
 }
 
 #tipue_search_content
