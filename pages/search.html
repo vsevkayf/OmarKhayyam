@@ -6,60 +6,13 @@ header:
   image_fullwidth: twodudes.png
 title: "Search"
 ---
-
-<div id="search">
-    <form action="/search" method="get" class="input-group">
-        <input type="text" id="search-query" class="form-control search-query" name="q" placeholder="Search" autocomplete="off">
-        <span class="input-group-btn">
-            <button class="btn btn-default" type="button">
-                <span class="glyphicon glyphicon-search"></span>
-            </button>
-        </span>
-    </form>
-</div>
-
-<section id="search-results" style="display:none">
-  <header class="page-header">
-    <h2>Search results</h2>
-  </header>
-  
-  <div class="entries">
-  </div>
-</section>
-
-
-<script id="search-results-template" type="text/mustache">
-  {{#entries}}
-    <article>
-      <h3>
-        {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
-        <a href="{{url}}">{{title}}</a></h3>
-    </article>
-  {{/entries}}
-</script>
-
-
-<script id="search-results-template" type="text/mustache">
-  {{#entries}}
-    <article>
-      <h3>
-        {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
-        <a href="{{url}}">{{title}}</a></h3>
-    </article>
-  {{/entries}}
-</script>
-
-
-<script src="/assets/js/search.min.js" type="text/javascript" charset="utf-8"></script>
-
-<script type="text/javascript">
-  $(function() {
-    $('#search-query').lunrSearch({
-      index:    '/search.json',
-      results:  '#search-results',
-      entries:  '.entries',
-      template: '#search-results-template'
-    });
-  });
-</script>
-
+<form accept-charset="UTF-8" action="http://www.jrank.org/api/search/v2" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓" /></div>
+<fieldset style="border: 1px solid rgb(175, 175, 175); display: inline;">
+ <legend><a href="http://www.jrank.org/" style="font-size: 10pt; font-family: Arial, sans-serif;">Site Search</a></legend>
+ <a href="http://www.jrank.org/"><img alt="Site Search" src="http://www.jrank.org/images/jrank_88_31-fs8.png" style="border: none; vertical-align: middle;" title="Site Search" /></a>
+ <input id="key" name="key" type="hidden" value="c804448729bf0c944111b5af00322c1a523d59e3" />
+ <input name="ie_utf8_fix" type="hidden" value="☠" />
+ <input id="q" name="q" style="display: inline; vertical-align: middle;" type="text" value="" />
+ <input name="commit" style="display: inline; vertical-align: middle;" type="submit" value="Search" />
+</fieldset>
+</form>
