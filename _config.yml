@@ -34,7 +34,8 @@ improve_content: https://github.com/vsekvayf/OmarKhayyam/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 urlimg: 'http://sorokacrc.org/images/'
-
+urlass: 'http://sorokacrc.org/assets/'
+urljs: 'http://sorokacrc.org/assets/js/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -51,10 +52,9 @@ paginate_path: "blog/page:num"
 # Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
 permalink: /:categories/:title/
+searchindex: yes
 highlight: rouge
-gems: 
-    - jekyll-paginate
-    - jekyll-lunr-js-search
+gems: [jekyll-paginate]
 excerpt_separator: "<!--more-->"
 include: ['.htaccess']
 # Exclude these files from your production _site
