@@ -6,46 +6,46 @@
   side: left
 
 - title: "About Us"
-  url: "/about/"
+  url: "/About Us/"
   side: left
   dropdown:
   - title: "Vision"
-    url: "/vision/"
+    url: "/Vision/"
   - title: "Team"
-    url: "/team/"
+    url: "/Team/"
   - title: "Collaboration"
-    url: "/collaboration/"
+    url: "/Collaboration/"
   - title: "Media"
-    url: "/media/"
+    url: "/Media/"
   - title: "Conventions"
-    url: "/convention/"
+    url: "/Conventions/"
   - title: "Soroka Medical Center"
-    url: "/soroka/"
+    url: "/Soroka Medical Center/"
 
 - title: "Clinical Research"
-  url: "/clinicalresearch/"
+  url: "/Clinical Research/"
   side: left
   dropdown:
   - title: "Current Projects"
-    url: "/currentprojects/"
+    url: "/Current Projects/"
   - title: "Therapeutic Areas"
-    url: "/therap/"
+    url: "/Therapeutic Areas/"
   - title: "Sponsored Research"
-    url: "/sponsors/"
+    url: "/Sponsored Research/"
   - title: "Grants"
-    url: "/grants/"
+    url: "/Grants/"
 
 - title: "Services"
-  url: "/services/"
+  url: "/Services/"
   side: left
   dropdown:
   - title: "Academic Research"
-    url: "/acares/"
+    url: "/Academic Research/"
   - title: "Industry- Initiated Research"
-    url: "/indures/"
+    url: "/Industry- Initiated Research/"
 
 - title: "Publications"
-  url: "/pubs/"
+  url: "/Publications/"
   side: left
 
 - title: "Links"
@@ -94,11 +94,11 @@
       target: '_blank'
 
 - title: "Search"
-  url: "/search/"
+  url: "/Search/"
   side: left
 
 - title: "Contact"
-  url: "/contact/"
+  url: "/Contact Form/"
   side: left
 
 
