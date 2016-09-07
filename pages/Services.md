@@ -4,10 +4,10 @@ header:
   title: Soroka Clinical Research Center
   image_fullwidth: medic-563423_1920.jpg
 title: "Services"
-meta_title: "services"
+meta_title: "Services"
 subheadline: ""
 teaser: ""
-permalink: "/services/"
+permalink: "/Services/"
 ---
 
 SCRC is responsible for the organization and supervision of both investigator- initiated academic research and industry-initiated research.  
