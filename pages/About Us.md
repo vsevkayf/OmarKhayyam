@@ -7,7 +7,7 @@ title: "About Us"
 meta_title: "About Us"
 subheadline: ""
 teaser: ""
-permalink: "/about/"
+permalink: "/About Us/"
 ---
 The Soroka Clinical Research Center (SCRC) at Soroka University Medical Center was established by the hospital management in September 2009 .
 
