@@ -13,7 +13,7 @@ permalink: "/team/"
 <!-- Team Section -->
 
 {% for member in site.data.team.people %}
-
+<div>
       <table style="width:100%; border-style: hidden;margin-bottom: 0;">
         <tr>
           <td><img src="{{ site.urlimg }}team150x150/{{ member.pic }}.png" class="img-responsive img-circle" align="right" style="width: 150px;height: 150px;border-radius:0;">
@@ -24,7 +24,7 @@ permalink: "/team/"
           </td>
         </tr>
       </table>
-
+</div>
 {% endfor %}
 
 
