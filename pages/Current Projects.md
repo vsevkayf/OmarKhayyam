@@ -3,13 +3,11 @@ layout: page
 header:
   title: Soroka Clinical Research Center
   image_fullwidth: microdude.jpg
-  caption: Soroka Clinical Research Center
-  caption_url: https://vsevkayf.github.io/OmarKhayyam/
 title: "Current Projects"
-meta_title: "currentprojects"
+meta_title: "Current Projects"
 subheadline: ""
 teaser: ""
-permalink: "/currentprojects/"
+permalink: "/Current Projects/"
 ---
 
 There is a full collaboration between SCRC and different departments within Soroka University Medical Center.  
