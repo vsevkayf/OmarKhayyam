@@ -8,7 +8,9 @@ http://www.tipue.com/search
 var tipuesearch_pages = 
 ["http://sorokacrc.org/",
 "http://sorokacrc.org/about/",
-"http://sorokacrc.org/pubs/"];
+"http://sorokacrc.org/pubs/",
+"http://sorokacrc.org/team/"
+];
 
 /*
 Stop words
