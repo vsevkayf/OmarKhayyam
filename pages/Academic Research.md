@@ -4,10 +4,10 @@ header:
   title: Soroka Clinical Research Center
   image_fullwidth: flasks.jpg
 title: "Investigator- Initiated Academic Research"
-meta_title: "acares"
+meta_title: "Academic Research"
 subheadline: ""
 teaser: ""
-permalink: "/acares/"
+permalink: "/Academic Research/"
 ---
 
 
