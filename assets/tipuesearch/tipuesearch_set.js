@@ -5,7 +5,10 @@ Copyright (c) 2015 Tipue
 Tipue Search is released under the MIT License
 http://www.tipue.com/search
 */
-var tipuesearch_pages = ["http://sorokacrc.org/", "http://sorokacrc.org/about/", "http://sorokacrc.org/pubs/"];
+var tipuesearch_pages = 
+["http://sorokacrc.org/",
+"http://sorokacrc.org/about/",
+"http://sorokacrc.org/pubs/"];
 
 /*
 Stop words
