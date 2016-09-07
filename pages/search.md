@@ -12,11 +12,9 @@ title: "Search"
 </head>
 
 
-<form action="">
+<form action="/search">
 <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
 </form>
-
-<div id="tipue_search_content">
 
   <div id="tipue_search_content">
     <div class="tipue_search_spinner">
@@ -29,7 +27,6 @@ title: "Search"
     </div>
   </div>
 
-</div>
 
 <script>
 var $j = jQuery.noConflict();
@@ -37,7 +34,8 @@ var $j = jQuery.noConflict();
 $j(document).ready(function() {
      $j('#tipue_search_input').tipuesearch({
           'mode': 'live',
-          'liveContent': '.row t30'
+          'liveContent': '.row t30',
+          'highlightEveryTerm': true
      });
 });
 </script>
