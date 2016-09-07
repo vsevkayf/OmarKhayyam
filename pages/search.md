@@ -36,7 +36,8 @@ var $j = jQuery.noConflict();
 
 $j(document).ready(function() {
      $j('#tipue_search_input').tipuesearch({
-          'mode': 'live'
+          'mode': 'live',
+          'liveContent': '.row t30'
      });
 });
 </script>
