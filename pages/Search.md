@@ -1,5 +1,5 @@
 ---
-permalink: /search/
+permalink: /Search/
 layout: page
 header:
   title: Soroka Clinical Research Center 
