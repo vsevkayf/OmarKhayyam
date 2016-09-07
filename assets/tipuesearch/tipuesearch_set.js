@@ -8,9 +8,23 @@ http://www.tipue.com/search
 var tipuesearch_pages = 
 ["http://sorokacrc.org/",
 "http://sorokacrc.org/about/",
-"http://sorokacrc.org/pubs/",
-"http://sorokacrc.org/team/"
+"http://sorokacrc.org/vision/",
+"http://sorokacrc.org/team/",
+"http://sorokacrc.org/collaboration/",
+"http://sorokacrc.org/media/",
+"http://sorokacrc.org/convention/",
+"http://sorokacrc.org/soroka/",
+"http://sorokacrc.org/clinicalresearch/",
+"http://sorokacrc.org/currentprojects/",
+"http://sorokacrc.org/therap/",
+"http://sorokacrc.org/sponsors/",
+"http://sorokacrc.org/grants/",
+"http://sorokacrc.org/services/",
+"http://sorokacrc.org/acares/",
+"http://sorokacrc.org/indures/",
+"http://sorokacrc.org/pubs/"
 ];
+
 
 /*
 Stop words
