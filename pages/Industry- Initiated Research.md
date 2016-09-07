@@ -4,10 +4,10 @@ header:
   title: Soroka Clinical Research Center
   image_fullwidth: parallax.jpg
 title: "Industry- Initiated Research"
-meta_title: "indures"
+meta_title: "Industry- Initiated Research"
 subheadline: ""
 teaser: ""
-permalink: "/indures/"
+permalink: "/Industry- Initiated Research/"
 ---
 
 
