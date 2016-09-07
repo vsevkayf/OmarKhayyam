@@ -4,10 +4,10 @@ header:
   title: Soroka Clinical Research Center
   image_fullwidth: microdude.jpg
 title: "Clinical Research"
-meta_title: "clinicalresearch"
+meta_title: "Clinical Research"
 subheadline: ""
 teaser: ""
-permalink: "/clinicalresearch/"
+permalink: "/Clinical Research/"
 ---
 
 The clinical research has an important part in treating patients.  
