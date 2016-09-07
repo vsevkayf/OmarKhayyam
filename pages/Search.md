@@ -7,7 +7,7 @@ header:
 title: "Search"
 ---
 
-<form action="/search">
+<form action="/Search">
 <input type="text" name="q" id="tipue_search_input" list="search" autocomplete="off" required>
 </form>
 <datalist id="search">
