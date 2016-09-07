@@ -4,10 +4,10 @@ header:
   title: Soroka Clinical Research Center
   image_fullwidth: twodudes.png
 title: "Soroka University Medical Center"
-meta_title: "soroka"
+meta_title: "Soroka University Medical Center"
 subheadline: ""
 teaser: ""
-permalink: "/soroka/"
+permalink: "/Soroka University Medical Center/"
 ---
 
 <!---
