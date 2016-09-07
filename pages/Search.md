@@ -48,7 +48,9 @@ title: "Search"
   }
 
 </script>
-
+<script type="text/javascript">      
+  document.write(getCookie("q"));
+</script>
 
 <script>
 
