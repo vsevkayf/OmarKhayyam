@@ -4,10 +4,10 @@ header:
   title: Soroka Clinical Research Center
   image_fullwidth: microdude.jpg
 title: "Therapeutic Areas"
-meta_title: "therap"
+meta_title: "Therapeutic Areas"
 subheadline: ""
 teaser: ""
-permalink: "/therap/"
+permalink: "/Therapeutic Areas/"
 ---
 ■ Bariatric Surgery
 
