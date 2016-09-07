@@ -7,7 +7,7 @@ title: "Publications"
 meta_title: "Publications"
 subheadline: ""
 teaser: ""
-permalink: "/pubs/"
+permalink: "/Publications/"
 ---
 
 1. Yohai D, Baumfeld Y, Zilberstein T, Yaniv Salem S, Elharar D, Idan I, Mastrolia SA, Sheiner E. Does gender of the fetus have any relation with fetal heart monitoring during the first and second stage of labor? J Matern Fetal Neonatal Med. 2016 Apr 19:1-5. [Epub ahead of print] PubMed PMID: 27003831.  
