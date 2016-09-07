@@ -7,22 +7,22 @@ http://www.tipue.com/search
 */
 var tipuesearch_pages = 
 ["http://sorokacrc.org/",
-"http://sorokacrc.org/about/",
-"http://sorokacrc.org/vision/",
-"http://sorokacrc.org/team/",
-"http://sorokacrc.org/collaboration/",
-"http://sorokacrc.org/media/",
-"http://sorokacrc.org/convention/",
-"http://sorokacrc.org/soroka/",
-"http://sorokacrc.org/clinicalresearch/",
-"http://sorokacrc.org/currentprojects/",
-"http://sorokacrc.org/therap/",
-"http://sorokacrc.org/sponsors/",
-"http://sorokacrc.org/grants/",
-"http://sorokacrc.org/services/",
-"http://sorokacrc.org/acares/",
-"http://sorokacrc.org/indures/",
-"http://sorokacrc.org/pubs/"
+"http://sorokacrc.org/About Us/",
+"http://sorokacrc.org/Vision/",
+"http://sorokacrc.org/Team/",
+"http://sorokacrc.org/Collaboration/",
+"http://sorokacrc.org/Media/",
+"http://sorokacrc.org/Convention/",
+"http://sorokacrc.org/Soroka University Medical Center/",
+"http://sorokacrc.org/Clinical Research/",
+"http://sorokacrc.org/Current Projects/",
+"http://sorokacrc.org/Therapeutic Areas/",
+"http://sorokacrc.org/Sponsored Research/",
+"http://sorokacrc.org/Grants/",
+"http://sorokacrc.org/Services/",
+"http://sorokacrc.org/Academic Research/",
+"http://sorokacrc.org/Industry- Initiated Research/",
+"http://sorokacrc.org/Publications/"
 ];
 
 
