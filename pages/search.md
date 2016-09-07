@@ -28,7 +28,9 @@ var $j = jQuery.noConflict();
 
 $j(document).ready(function() {
      $j('#tipue_search_input').tipuesearch({
-          'mode': 'live'
+          'mode': 'live',
+          'liveDescription': '.row t30',
+          'liveContent': '.medium-8 columns medium-offset-2 end'
       });
 });
 </script>
