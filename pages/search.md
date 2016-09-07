@@ -29,7 +29,7 @@ var $j = jQuery.noConflict();
 $j(document).ready(function() {
      $j('#tipue_search_input').tipuesearch({
           'mode': 'live',
-          'liveDescription': '.row t30',
+          'liveDescription': '.header',
           'liveContent': '.medium-8 columns medium-offset-2 end'
       });
 });
