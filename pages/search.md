@@ -8,8 +8,17 @@ title: "Search"
 ---
 
 <form action="/search">
-<input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
+<input type="text" name="q" id="tipue_search_input" list="search" autocomplete="off" required>
 </form>
+<datalist id="search">
+<option>Research</option>
+<option>Event</option>
+<option>Prof. Victor Novack MD, PhD</option>
+<option>Ruthie Bekore, B.Sc</option>
+<option>Map</option>
+<option>Soroka</option>
+</datalist>
+
 
   <div id="tipue_search_content">
     <div class="tipue_search_spinner">
