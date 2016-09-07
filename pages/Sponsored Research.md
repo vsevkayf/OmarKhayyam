@@ -4,10 +4,10 @@ header:
   title: Soroka Clinical Research Center
   image_fullwidth: microdude.jpg
 title: "Sponsored Research"
-meta_title: "sponsors"
+meta_title: "Sponsored Research"
 subheadline: ""
 teaser: ""
-permalink: "/sponsors/"
+permalink: "/Sponsored Research/"
 ---
 
 Soroka University Medical Center is a highly competitive site for conducting sponsored research.
