@@ -13,8 +13,8 @@ title: "Search"
 <datalist id="search">
 <option>Research</option>
 <option>Event</option>
-<option>Prof. Victor Novack MD, PhD</option>
-<option>Ruthie Bekore, B.Sc</option>
+<option>"Prof. Victor Novack MD, PhD"</option>
+<option>"Ruthie Bekore, B.Sc"</option>
 <option>Map</option>
 <option>Soroka</option>
 </datalist>
