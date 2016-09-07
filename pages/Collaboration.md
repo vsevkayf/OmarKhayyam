@@ -4,10 +4,10 @@ header:
   title: Soroka Clinical Research Center
   image_fullwidth: twodudes.png
 title: "Collaboration"
-meta_title: "collaboration"
+meta_title: "Collaboration"
 subheadline: ""
 teaser: ""
-permalink: "/collaboration/"
+permalink: "/Collaboration/"
 ---
 
 SCRC supports over 150 clinical studies and trials at Soroka University Medical Center.  That is done in a variety of medical fields such as Internal Medicine, Pulmonology, Oncology, Rheumatology, Surgery, Intensive Care, Pediatrics, OB/GYN, Infectious Diseases, Neurology etc.
