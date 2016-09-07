@@ -15,3 +15,15 @@ title: "Search"
 <form action="http://sorokacrc.org/results.html">
 <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
 </form>
+
+<script>
+var $j = jQuery.noConflict();
+
+$j(document).ready(function() {
+     $j('#tipue_search_input').tipuesearch({
+          'mode': 'live',
+          'liveDescription': '.header',
+          'liveContent': '.top-of-page'
+     });
+});
+</script>
