@@ -7,7 +7,7 @@ title: "Conventions"
 meta_title: "Conventions"
 subheadline: ""
 teaser: ""
-permalink: "/convention/"
+permalink: "/Conventions/"
 gallery:
     - image_url: gallery-image-1.jpg
       caption: כנס איגוד רופאי הציבור השנתי 2016
