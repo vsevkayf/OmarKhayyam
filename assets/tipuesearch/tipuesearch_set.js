@@ -12,7 +12,7 @@ var tipuesearch_pages =
 "http://sorokacrc.org/Team/",
 "http://sorokacrc.org/Collaboration/",
 "http://sorokacrc.org/Media/",
-"http://sorokacrc.org/Convention/",
+"http://sorokacrc.org/Conventions/",
 "http://sorokacrc.org/Soroka University Medical Center/",
 "http://sorokacrc.org/Clinical Research/",
 "http://sorokacrc.org/Current Projects/",
