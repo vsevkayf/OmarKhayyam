@@ -3,13 +3,11 @@ layout: page
 header:
   title: Soroka Clinical Research Center
   image_fullwidth: form.png
-  caption: Soroka Clinical Research Center
-  caption_url: https://vsevkayf.github.io/OmarKhayyam/
 title: "Contact Form"
-meta_title: "contact"
+meta_title: "Contact Form"
 subheadline: "Tell Us What's On Your Mind"
 teaser: ""
-permalink: "/contact/"
+permalink: "/Contact Form/"
 ---
 <div class="col-sm-6 col-sm-offset-6 col-md-4 col-md-offset-8 form">
 	<form action="https://getsimpleform.com/messages?form_api_token=39dda43c5bb42c646bc0a41d973c9a36" method="post">
