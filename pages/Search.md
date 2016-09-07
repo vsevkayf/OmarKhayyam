@@ -23,7 +23,35 @@ title: "Search"
 <div id="tipue_search_content"><div class="tipue_search_spinner"><div class="tipue_search_rect1"></div><div class="tipue_search_rect2"></div><div class="tipue_search_rect3"></div></div></div>
 
 
+
+<script type="text/javascript">
+
+  // Original JavaScript code by Chirp Internet: www.chirp.com.au
+  // Please acknowledge use of this code by including this header.
+
+  var today = new Date();
+  var expiry = new Date(today.getTime() + 30 * 24 * 3600 * 1000); // plus 30 days
+
+  function setCookie(name, value)
+  {
+    document.cookie=name + "=" + escape(value) + "; path=/; expires=" + expiry.toGMTString();
+  }
+
+</script>
+
+<script type="text/javascript">
+
+  function storeValues(form)  
+  {
+    setCookie("q", form.q.value);
+    return true;
+  }
+
+</script>
+
+
 <script>
+
 var $j = jQuery.noConflict();
 
 $j(document).ready(function() {
