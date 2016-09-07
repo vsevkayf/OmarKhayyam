@@ -12,7 +12,7 @@ title: "Search"
 </head>
 
 
-<form action="http://sorokacrc.org/search/">
+<form action="/search">
 <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
 </form>
 
