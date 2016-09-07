@@ -3,13 +3,11 @@ layout: page
 header:
   title: Soroka Clinical Research Center
   image_fullwidth: microdude.jpg
-  caption: Soroka Clinical Research Center
-  caption_url: https://vsevkayf.github.io/OmarKhayyam/
 title: "Grants"
-meta_title: "grants"
+meta_title: "Grants"
 subheadline: ""
 teaser: ""
-permalink: "/grants/"
+permalink: "/Grants/"
 ---
 
 • Hemoglobin A1c Level in Patients with Acute Coronary Syndrome (ACS).  
