@@ -6,11 +6,6 @@ header:
   image_fullwidth: twodudes.png
 title: "Search"
 ---
-<head>
-  <link href="{{site.urlass}}tipuesearch/tipuesearch.css" rel="stylesheet">
-  
-</head>
-
 
 <form action="/search">
 <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
