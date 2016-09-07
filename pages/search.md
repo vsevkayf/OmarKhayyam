@@ -23,7 +23,7 @@ $j(document).ready(function() {
      $j('#tipue_search_input').tipuesearch({
           'mode': 'live',
           'liveDescription': '.header',
-          'liveContent': '.top-of-page'
+          'liveContent': '.row t30'
      });
 });
 </script>
