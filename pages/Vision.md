@@ -18,7 +18,7 @@ Our Goals:
 
 • To provide logistical support to scientists involved in clinical research
 
-• To provide an educational support in clinical research methodology based on the 
+• To provide an educational support in clinical research methodology based on the  
 ICH-GCP and Israeli Ministry of Health standards
 
 • To establish and develop collaboration between basic science researchers and clinicians leading adopting translational research approach
