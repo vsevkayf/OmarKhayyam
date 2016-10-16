@@ -90,12 +90,18 @@ people:
 - name: Lihi Bar-Lev
   pic: SOROKA
   position: PhD student
+  phone: +972-8-624 4245
+  url: http://sorokacrc.org/Contact%20Form/
+
+- name: Sagi Shashar
+  pic: SOROKA
+  position: PhD student
+  email: Use the contact form
   url: http://sorokacrc.org/Contact%20Form/
 
 - name: Yaara Raviv
   pic: SOROKA
   position: Study Assistant
-  email: Use the contact form
   url: http://sorokacrc.org/Contact%20Form/
   
 - name: Jayanah Mored
@@ -107,85 +113,66 @@ people:
 - name: Yotam Lior, B.Med. Sc.
   pic: yotam
   position: Research Assistant
-  email: LiorYot@clalit.org.il
   url: http://sorokacrc.org/Contact%20Form/
   
 - name: Arik Kachko
   pic: arik
   position: Research Assistant
-  email: ArikKac@clalit.org.il
   url: http://sorokacrc.org/Contact%20Form/
 
 - name: Yuval Mizrakli
   pic: yuval
-  position: PhD Student
-  email: YuvalMi@clalit.org.il
+  position: Research Assistant
   url: http://sorokacrc.org/Contact%20Form/
   
 - name: Yotam Dizitser
   pic: SOROKA
   position: Research Assistant
-  email: Use the contact form
   url: http://sorokacrc.org/Contact%20Form/
 
 - name: Daniel Halperin
   pic: daniel
   position: Research Assistant
-  email: DaniHal@clalit.org.il
   url: http://sorokacrc.org/Contact%20Form/
   
 - name: Nitsan Mendelson
   pic: SOROKA
   position: Research Assistant
-  email: NitsanMe@Clalit.org.il
   url: http://sorokacrc.org/Contact%20Form/
 
 - name: Avital Blum
   pic: avitalb
   position: Research Assistant
-  email: AvitalBl@clalit.org.il
   url: http://sorokacrc.org/Contact%20Form/
   
 - name: Maya Vardi
   pic: mayavardi
   position: Research Assistant
-  email: MayaVar@clalit.org.il
   url: http://sorokacrc.org/Contact%20Form/
 
 - name: Gil Goldinger
   pic: SOROKA
   position: Research Assistant
-  email: Use the contact form
   url: http://sorokacrc.org/Contact%20Form/
   
 - name: Gali Steiner
   pic: SOROKA
   position: Research Assistant
-  email: Use the contact form
   url: http://sorokacrc.org/Contact%20Form/
 
 - name: Liat Oxman
   pic: SOROKA
   position: Research Assistant
-  email: Use the contact form
   url: http://sorokacrc.org/Contact%20Form/
 
 - name: Ron Eshel
   pic: SOROKA
   position: Research Assistant
-  email: Use the contact form
   url: http://sorokacrc.org/Contact%20Form/
   
-- name: Sagi Shashar
-  pic: SOROKA
-  position: Research Assistant
-  email: Use the contact form
-  url: http://sorokacrc.org/Contact%20Form/
-
 - name: Tarah Coreanu
   pic: SOROKA
   position: Research Assistant
-  email: Use the contact form
   url: http://sorokacrc.org/Contact%20Form/
   
 - name: Michal Lamberger
@@ -196,8 +183,9 @@ people:
 
 - name: Noa Hazut
   pic: SOROKA
-  position: Medical Secretary
-  email: Use the contact form
+  position: Bio Bank Project Manager
+  phone: +972-8-624 4245
+  email: hazutnoa@clalit.org.il
   url: http://sorokacrc.org/Contact%20Form/
   
 - name: Hagar Racach
