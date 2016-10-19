@@ -65,7 +65,7 @@
     attributes:
       target: '_blank'
   - title: "IRB, Helsinki"
-    url: "http://hospitals.clalit.co.il/hospitals/soroka/he-il/AcSe/Research/Helsinki/Pages/Homepage.aspx"
+    url: "https://hospitals.clalit.co.il/soroka/he/ac-se/Pages/helsinki.aspx"
     attributes:
       target: '_blank'
   - title: "ICH-GCP"
