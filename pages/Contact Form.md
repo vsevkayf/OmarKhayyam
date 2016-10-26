@@ -36,4 +36,3 @@ permalink: "/Contact Form/"
 	</form>
 </div>
 
-To submit a proposal for a new study use this <a href="http://sorokacrc.med.ad.bgu.ac.il/New%20study%20form.doc">form</a>.
