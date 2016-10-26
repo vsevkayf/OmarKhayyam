@@ -9,30 +9,30 @@ subheadline: ""
 teaser: ""
 permalink: "/Therapeutic Areas/"
 ---
-■ Bariatric Surgery
+* Bariatric Surgery
 
-■ Cardiology
+* Cardiology
 
-■ Diabetis
+* Diabetis
 
-■ ENT - Ear, Nose and Throat
+* ENT - Ear, Nose and Throat
 
-■ Gastroenterology 
+* Gastroenterology 
 
-■ Hematology
+* Hematology
 
-■ Infectious Diseases
+* Infectious Diseases
 
-■ Intensive Care
+* Intensive Care
 
-■ Internal Medicine
+* Internal Medicine
 
-■ Neurology
+* Neurology
 
-■ OB\GYN - Obstetrics and Gynecology
+* OB\GYN - Obstetrics and Gynecology
 
-■ Oncology
+* Oncology
 
-■ Pediatrics
+* Pediatrics
 
-■ Pulmonology
+* Pulmonology
