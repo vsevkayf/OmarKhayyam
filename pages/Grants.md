@@ -10,6 +10,10 @@ teaser: ""
 permalink: "/Grants/"
 ---
 
+• Topical liposomal amphotericin B gel treatment for cutaneous leishmaniasis.  
+JNF-UK 2015.  
+PI - Dr. Amir Horev.  
+
 • Hemoglobin A1c Level in Patients with Acute Coronary Syndrome (ACS).  
 In memory of Simon Taylor, 2015.  
 PI- Prof. Victor Novack.  
