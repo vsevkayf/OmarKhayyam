@@ -81,11 +81,7 @@
     attributes:
       target: '_blank'
   - title: "Open Clinica"
-    url: "http://docs.openclinica.com/downloads"
-    attributes:
-      target: '_blank'
-  - title: "Clalit"
-    url: "http://www.clalit-global.co.il/en/"
+    url: "https://www.openclinica.com/"
     attributes:
       target: '_blank'
   - title: "Win Pepi"
