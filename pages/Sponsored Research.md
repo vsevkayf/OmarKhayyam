@@ -18,7 +18,3 @@ Moreover, due to the unique structure of the medical services in the area, the s
 
 The standard of medicine practiced in Soroka is of highest Western standard, thus enabling SCRC to support complex scientific protocols.  
 SCRC serves as a coordinating link between CROs, individual sponsors and clinical investigators.
-
-Some of the sponsored researches that take place at Soroka University Medical Center are:
-
-PROSE, MARINER, Pediatric Severe Psoriasis, INFLUENZA A, COLOGUARD, PACE, RSV, ACTELION, Persuit Peds PK, LOTUS, RESPIRE, NON TB MAC, and more.
