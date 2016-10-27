@@ -15,6 +15,8 @@ permalink: "/Therapeutic Areas/"
 
 * Diabetis
 
+* Dermatology
+
 * ENT - Ear, Nose and Throat
 
 * Gastroenterology 
