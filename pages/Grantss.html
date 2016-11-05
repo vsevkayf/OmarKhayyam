@@ -18,9 +18,16 @@ permalink: "/Grantss/"
 
 	{% for grant in site.data.grants %}
 		<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-picture">
-				<img src="{{site.urlass}}/timeline/{{ grant.img }}" alt="Picture">
-			</div> <!-- cd-timeline-img -->
+			
+			{% if grant.img contains 'picture' %}
+					<div class="cd-timeline-img cd-picture">
+			{% elsif grant.img contains 'movie' %}
+					<div class="cd-timeline-img cd-movie">
+			{% else %}
+					<div class="cd-timeline-img cd-location">
+			{% endif %}
+						<img src="{{site.urlass}}/timeline/{{ grant.img }}">
+					</div> <!-- cd-timeline-img -->
 
 			<div class="cd-timeline-content">
 				<h2 style="margin: 0 0 0 0;">{{ grant.title }}</h2>
