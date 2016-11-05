@@ -285,7 +285,7 @@ Main components
 }
 @media only screen and (min-width: 1170px) {
   .cd-timeline-content {
-    margin-left: 0;
+    margin-left: -5%;
     padding: 1.6em;
     width: 45%;
   }
@@ -301,13 +301,15 @@ Main components
   .cd-timeline-content .cd-date {
     position: absolute;
     width: 100%;
-    left: 130%;
+    left: 140%;
     top: 6px;
     font-size: 16px;
     font-size: 1rem;
   }
   .cd-timeline-block:nth-child(even) .cd-timeline-content {
     float: right;
+    left: 5%;
+
   }
   .cd-timeline-block:nth-child(even) .cd-timeline-content::before {
     top: 24px;
@@ -321,7 +323,7 @@ Main components
   }
   .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-date {
     left: auto;
-    right: 122%;
+    right: 140%;
     text-align: right;
   }
   .cssanimations .cd-timeline-content.is-hidden {
