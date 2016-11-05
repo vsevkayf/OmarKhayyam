@@ -16,7 +16,6 @@ html * {
 
 body {
   font-size: 100%;
-  font-family: "Droid Serif", serif;
   color: #7f8c97;
   background-color: #e9f0f5;
 }
@@ -24,7 +23,6 @@ body {
 a {
   color: #acb7c0;
   text-decoration: none;
-  font-family: "Open Sans", sans-serif;
 }
 
 img {
@@ -32,7 +30,6 @@ img {
 }
 
 h2 {
-  font-family: "Open Sans", sans-serif;
   font-weight: bold;
 }
 
@@ -43,7 +40,7 @@ Modules - reusable parts of our design
 -------------------------------- */
 .cd-container {
   /* this class is used to give a max-width to the element it is applied to, and center it horizontally when it reaches that max-width */
-  width: 90%;
+  width: 100%;
   max-width: 1170px;
   margin: 0 auto;
 }
