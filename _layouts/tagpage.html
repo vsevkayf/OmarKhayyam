@@ -2,12 +2,21 @@
 layout: default
 ---
 
-<h1>{{ page.tag }}</h1>
+<div id="blog-index" class="row">
+	<div class="small-12 columns t30">
+		<h1>{{ page.tag }}</h1>
+		{% if page.teaser %}<p class="teaser">{{ page.teaser }}</p>{% endif %}
 
-<ul>
-{% for post in site.tags[page.tag] %}
-  <li>
-    {{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+		<dl class="accordion" data-accordion>
+			{% for post in site.tags[page.tag] %}
+			<dd class="accordion-navigation">
+			<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
+				<div id="panel{{ counter }}" class="content">
+					{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
+					<a href="{{ site.url }}{{ post.url }}" title="Read {{ post.title escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
+				</div>
+			</dd>
+			{% endfor %}
+		</dl>
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
