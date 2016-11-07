@@ -99,7 +99,7 @@ defaults:
       show_meta: true 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: vsevkayf     # Default author for pages
+      # author: vsevkayf     # Default author for pages
   -
     scope:
       path: ""
@@ -108,7 +108,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: vsevkayf     # Default author for posts
+      # author: vsevkayf     # Default author for posts
 
 
 
