@@ -9,6 +9,29 @@ subheadline: ""
 teaser: ""
 permalink: "/Services/"
 ---
+<style>
+.custom-counter {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.custom-counter li {
+  counter-increment: step-counter;
+  margin-bottom: 10px;
+}
+
+.custom-counter li::before {
+  content: counter(step-counter);
+  margin-right: 5px;
+  font-size: 80%;
+  background-color: rgb(0,200,200);
+  color: white;
+  font-weight: bold;
+  padding: 3px 8px;
+  border-radius: 3px;
+}
+</style>
 
 SCRC is responsible for the organization and supervision of both investigator- initiated academic research and industry-initiated research.  
 
@@ -18,10 +41,19 @@ For each study or trial a dedicated research team is assigned according to the p
 
 Among the services provided by the Center are the following:  
 
-1. Developing a scientifically sound trial design and protocol based on analysis of the literature.  
-2. Submitting research proposals to funding agencies.  
-3. Developing tools for the data collection (both paper and electronic formats).  
-4. Data acquisition (including web based interface platform).  
-5. Performing administrative data base analysis.  
-6. Cleaning and analyzing data.  
-7. Preparing final reports for publication.  
+<ol class="custom-counter">
+  <li>Developing a scientifically sound trial design and protocol based on analysis of the literature.</li>
+  <li>Submitting research proposals to funding agencies.</li>
+  <li>Developing tools for the data collection (both paper and electronic formats).</li>
+  <li>Data acquisition (including web based interface platform).</li>
+  <li>Performing administrative data base analysis.</li>
+  <li>Cleaning and analyzing data.</li>
+  <li>Preparing final reports for publication.</li>
+</ol>
+1.   
+2.   
+3.   
+4.   
+5.   
+6.   
+7.   
