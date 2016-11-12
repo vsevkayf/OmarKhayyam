@@ -16,7 +16,7 @@ Our mission is to lead and support clinical study from the very first step of th
 &nbsp;&nbsp;&nbsp;and clinicians leading adopting translational research approach
 
 <div class="row" data-equalizer="foo">
-    <div class="panel" data-equalizer-watch="foo">
+    <div class="panel" data-equalizer-watch="foo" style="    background: #ecfaff;">
     <h3>Our Golas:</h3>
     <div class="row" data-equalizer="bar">
     <div class="medium-3 columns">
