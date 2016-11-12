@@ -31,8 +31,7 @@ Our mission is to lead and support clinical study from the very first step of th
             </div>
     <div class="medium-3 columns">
       <div class="panel" data-equalizer-watch="bar">
-        <p>To provide an educational support in clinical research methodology based on the  
-        &nbsp;&nbsp;&nbsp;ICH-GCP and Israeli Ministry of Health standards</p>
+        <p>To provide an educational support in clinical research methodology based on the <br /> ICH-GCP and Israeli Ministry of Health standards</p>
       </div>
             </div>
     <div class="medium-3 columns">
