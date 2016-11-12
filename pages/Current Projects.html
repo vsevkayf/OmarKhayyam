@@ -10,11 +10,14 @@ teaser: ""
 permalink: "/Current Projects/"
 ---
 
+
 There is a full collaboration between SCRC and different departments within Soroka University Medical Center.  
 Here are some of SCRC's recently active studies:  
-
-<div class="row">
-	<div class="small-12 columns t30">
+<style>
+	dl.accordion {
+    		 border-top: 0px solid #D7D7D7;
+	}
+</style>
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
 			{% for project in site.data.CurrentProjects.projects limit:100 %}
@@ -27,5 +30,3 @@ Here are some of SCRC's recently active studies:
 			{% assign counter=counter | plus:1 %}
 			{% endfor %}
 		</dl>
-	</div><!-- /.small-12.columns -->
-</div><!-- /.row -->
