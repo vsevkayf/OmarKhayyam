@@ -17,7 +17,7 @@ Here are some of SCRC's recently active studies:
 	<div class="small-12 columns t30">
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
-			{% for project in site.data.CurrentProjects limit:1000 %}
+			{% for project in site.data.CurrentProjects.projects limit:100 %}
 			<dd class="accordion-navigation">
 			<a href="#panel{{ counter }}"><span class="iconfont"></span><strong>{{ project.name }}</strong></a>
 				<div id="panel{{ counter }}" class="content">
