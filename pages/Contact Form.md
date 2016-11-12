@@ -32,7 +32,7 @@ permalink: "/Contact Form/"
 		<div class="form-field">
 			<textarea name="comments" placeholder="Message" required></textarea>
 		</div>
-		<input type="submit" class="btn btn-default" value="Send">
+		<input type="submit" class="button radius" value="Send">
 	</form>
 </div>
 
