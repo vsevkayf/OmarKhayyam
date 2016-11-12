@@ -30,22 +30,23 @@ Our Goals:
     <div class="row" data-equalizer="bar">
     <div class="medium-3 columns">
       <div class="panel" data-equalizer-watch="bar">
-        To enhance the clinical research infrastructure
+      <p>To enhance the clinical research infrastructure</p>
       </div>
       </div>
     <div class="medium-3 columns">
       <div class="panel" data-equalizer-watch="bar">
-        To provide logistical support to scientists involved in clinical research
+        <p>To provide logistical support to scientists involved in clinical research</p>
       </div>
             </div>
     <div class="medium-3 columns">
       <div class="panel" data-equalizer-watch="bar">
-        To provide an educational support in clinical research methodology based on the ICH-GCP and Israeli Ministry of Health standards
+        <p>To provide an educational support in clinical research methodology based on the  
+        &nbsp;&nbsp;&nbsp;ICH-GCP and Israeli Ministry of Health standards</p>
       </div>
             </div>
     <div class="medium-3 columns">
       <div class="panel" data-equalizer-watch="bar">
-        To establish and develop collaboration between basic science researchers and clinicians leading adopting translational research approach
+        <p>To establish and develop collaboration between basic science researchers and clinicians leading adopting translational research approach</p>
       </div>
             </div>
             </div>
