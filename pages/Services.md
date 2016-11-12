@@ -50,10 +50,3 @@ Among the services provided by the Center are the following:
   <li>Cleaning and analyzing data.</li>
   <li>Preparing final reports for publication.</li>
 </ol>
-1.   
-2.   
-3.   
-4.   
-5.   
-6.   
-7.   
