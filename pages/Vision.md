@@ -23,3 +23,20 @@ Our Goals:
 
 • To establish and develop collaboration between basic science researchers  
 &nbsp;&nbsp;&nbsp;and clinicians leading adopting translational research approach
+
+<div class="row" data-equalizer="foo">
+    <div class="panel" data-equalizer-watch="foo">
+    <h3>Our Golas:</h3>
+    <div class="row" data-equalizer="bar">
+      <div class="panel" data-equalizer-watch="bar">
+        ...
+      </div>
+      <div class="panel" data-equalizer-watch="bar">
+        ...
+      </div>
+      <div class="panel" data-equalizer-watch="bar">
+        ...
+      </div>
+    </div>
+    </div>
+</div>
