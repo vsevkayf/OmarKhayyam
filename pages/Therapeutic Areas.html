@@ -10,55 +10,133 @@ teaser: ""
 permalink: "/Therapeutic Areas/"
 ---
 <style>
-ul.innerContent {
-    position: relative;
-    top: 200px; left: 200px; /*for example purposes only*/
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+.circular-wrap {
+  position: relative;
+  z-index: 1;
+  width: 960px;
+  height: 500px;
+  overflow:  hidden;
+  margin: 0 auto;
 }
-li.innerContent {
-    position: absolute;
-    -webkit-transition: all 2s linear;
-    -moz-transition: all 2s linear;
-    transition: all 2s linear;
+
+.circular-wrap ul li {
+  position: absolute;
+  z-index: 2;
+  left: 50%;
+  top: 50%;
+  display: block;
+  padding: 4px;
+  border-radius: 4px;
+  text-shadow: 0 1px 0 rgba(255,255,255,.5);
+  box-shadow: 0 1px 0 rgba(255,255,255,.99); 
 }
 </style>
 
-<ul class="innerContent">
-    <li class="button round innerContent">Therapeutic Areas</li>
-    <li class="button round innerContent">Bariatric Surgery</li>
-    <li class="button round innerContent">Cardiology</li>
-    <li class="button round innerContent">Diabetis</li>
-    <li class="button round innerContent">Dermatology</li>
-    <li class="button round innerContent">ENT - Ear, Nose and Throat</li>
-    <li class="button round innerContent">Gastroenterology</li>
-    <li class="button round innerContent">Hematology</li>
-    <li class="button round innerContent">Infectious Diseases</li>
-    <li class="button round innerContent">Intensive Care</li>
-    <li class="button round innerContent">Internal Medicine</li>
-    <li class="button round innerContent">Neurology</li>
-    <li class="button round innerContent">OB\GYN - Obstetrics and Gynecology</li>
-    <li class="button round innerContent">Oncology</li>
-    <li class="button round innerContent">Pediatrics</li>
-    <li class="button round innerContent">Pulmonology</li>
+<ul id="circular">
+		<li class="button round">Therapeutic Areas</li>
+    <li class="button round">Bariatric Surgery</li>
+    <li class="button round">Cardiology</li>
+    <li class="button round">Diabetis</li>
+    <li class="button round">Dermatology</li>
+    <li class="button round">ENT - Ear, Nose <br>and Throat</li>
+    <li class="button round">Gastroenterology</li>
+    <li class="button round">Hematology</li>
+    <li class="button round">Infectious Diseases</li>
+    <li class="button round">Intensive Care</li>
+    <li class="button round">Internal Medicine</li>
+    <li class="button round">Neurology</li>
+    <li class="button round">OB\GYN - Obstetrics <br> and Gynecology</li>
+    <li class="button round">Oncology</li>
+    <li class="button round">Pediatrics</li>
+    <li class="button round">Pulmonology</li>
 </ul>
 
-<script>
-var type = 1, //circle type - 1 whole, 0.5 half, 0.25 quarter
-    radius = '12em', //distance from center
-    start = -90, //shift start from 0
-    $elements = $('li:not(:first-child)'),
-    numberOfElements = (type === 1) ?  $elements.length : $elements.length - 1, //adj for even distro of elements when not full circle
-    slice = 360 * type / numberOfElements;
 
-$elements.each(function(i) {
-    var $self = $(this),
-        rotate = slice * i + start,
-        rotateReverse = rotate * -1;
-    
-    $self.css({
-        'transform': 'rotate(' + rotate + 'deg) translate(' + radius + ') rotate(' + rotateReverse + 'deg)'
-    });
+<script>
+var Circular = function(obj) {
+		this.wrapper   = $(obj);                     // initial wrapper
+		this.items     = this.wrapper.find('li');    // text content items
+		this.nrOfItems = this.items.length;          // number of items
+		this.w         = 0;                          // wrap width
+		this.h         = 0;                          // wrap height
+		this.midX      = 0;                          // middle of wrapper X
+		this.midY      = 0;                          // middle of wrapper Y
+		this.pi        = Math.PI;                    // we ask for pi only once
+		this.radians   = (this.pi*2)/this.nrOfItems; // distance between two elements 
+		this.r         = 150;                        // radius of circle
+		this.distance  = 20;                         // distance of text from the circle
+		this.wrap      = null;                       // real wrapper 
+		var self       = this;
+
+		this.init = function() {
+
+			// create wrapper div
+			self.wrapper.wrap('<div class="circular-wrap" />');
+			self.wrap = self.wrapper.parents('div');
+
+			self.w = self.wrap.width();
+			self.h = self.wrap.height();
+
+			self.midX = self.w/2;
+			self.midY = self.h/2;
+
+			// add lines element
+			for (var i=0; i<self.nrOfItems; i++){
+				self.wrap.append("<b></b>");
+			}
+
+			// init real pixel positions
+			var posX = 0;
+			var posY = 0;
+
+      // go through li elements
+			$.each(self.items, function(index, item){
+
+				// get item's sizes
+				w = $(item).width();
+				h = $(item).height();
+
+				// actual radian value to calculate with
+				rad = self.pi/2 - index*self.radians;
+
+				// general real Y pixels
+				posY = self.midY - self.r * Math.sin(rad) - h/2;
+
+				// general real X pixels
+				posX = self.midX + self.r * Math.cos(rad) + self.distance;
+				
+				// top position, pi/2
+				if ( self.pi == rad*2 ) { 
+					posX = posX - w/2 - self.distance;
+					posY = posY - h;
+				}
+
+        // bottom position, -pi/2
+        if ( self.pi == -rad*2) { 
+					posX = posX - w/2 -self.distance;
+					posY = posY + h;
+				}
+        
+				// left part positions
+				if (rad < -self.pi/2) posX = posX - w - self.distance*2;
+        
+				// placing the item
+				$(item).css({left: posX, top: posY});
+
+				// calc degrees for lines' transform
+				deg = (self.pi/2 - rad) * (180/self.pi);
+
+				// set rotation for the nth b element
+				self.wrap.find('b').eq(index).css({
+					'transform': 'rotate('+ deg +'deg)'
+				});
+			});
+		}
+
+		this.init();
+};
+
+$(function(){
+  circular = new Circular('#circular');
 });
 </script>
