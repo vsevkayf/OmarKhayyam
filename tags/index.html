@@ -3,13 +3,13 @@ layout: default
 title: Tags
 ---
 
-<h1>{{ page.title }} 123</h1>
+<h1>{{ page.title }} 321</h1>
 <p>&nbsp;</p>
 
 
 {% capture tags %}
   {% for tag in site.tags %}
-    {{ tag }}
+    {{ tag[0] }}
   {% endfor %}
 {% endcapture %}
 {% assign sortedtags = tags | split:'\n' | sort %}
