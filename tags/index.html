@@ -6,6 +6,9 @@ title: Tags
 <h1>{{ page.title }} 1233</h1>
 <p>&nbsp;</p>
 
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tag_words = site_tags | split:',' | sort %}
+
 <div id="tags">
   <h1>Tags</h1>
   <ul class="tag-box inline">
