@@ -12,7 +12,8 @@
 				<time class="icon-calendar pr20" datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished"> {{ page.date | date: "%Y-%m-%d" }}</time>
 				{% endif %}
 
-				{% if page.categories %}<span class="icon-archive pr20"> {{ page.categories | join: ' · ' | upcase }}{% endif %}</span>
+				{% if page.categories %}<span class="pr20">{% for cat in page.categories %}<span class="icon-archive pr20">  <a href="/{{cat}}">{{cat}}</a></span> {% endfor %}{% endif %}</span>
+
 				<br />
 				<span class="pr20">{% for tag in page.tags %}<span class="icon-price-tag pr10">  <a href="/tags/{{tag}}">{{tag}}</a></span> {% endfor %}</span>
 			</p>
