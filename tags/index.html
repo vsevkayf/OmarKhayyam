@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tags
+title: Tagsss
 ---
 
 
@@ -10,6 +10,6 @@ title: Tags
 <div id="tags">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-    <a href="/tags/{{ this_word | cgi_escape }}" class="button round">{{ this_word }} <span>{{ site.tags[this_word].size }}</span></a>
+    <a href="/tags/{{ this_word }}" class="button round">{{ this_word }} <span>{{ site.tags[this_word].size }}</span></a>
   {% endunless %}{% endfor %}
 </div>
