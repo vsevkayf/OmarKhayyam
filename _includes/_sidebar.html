@@ -1,110 +1,48 @@
 <style>
-	@tag_color:#e6822f;
-
-	@import url(http://fonts.googleapis.com/css?family=Port+Lligat+Slab);
-
-	// Border Radius
-	.border-radius(@radius) {
-	  -webkit-border-radius: @radius;
-	     -moz-border-radius: @radius;
-		  border-radius: @radius;
-	}
-
-	// Drop shadows
-	.box-shadow(@shadow) {
-	  -webkit-box-shadow: @shadow;
-	     -moz-box-shadow: @shadow;
-		  box-shadow: @shadow;
-	}
-	html {
-	  height:100%; 
-	}
-
-	.tags {
-	  width:40%;
-	  margin:auto;
-	  margin-top:5em;
-	  border:1px solid black;
-	  padding:.5em;
-	  -webkit-box-shadow: inset 0 1px 1px rgba(255,255,255,.75), inset 0 0 .5em rgba(0,0,0,0.5);
-	     -moz-box-shadow: inset 0 1px 1px rgba(255,255,255,.75), inset 0 0 .5em rgba(0,0,0,0.5);
-		  box-shadow: inset 0 1px 1px rgba(255,255,255,.75), inset 0 0 .5em rgba(0,0,0,0.5);
-	  .border-radius(.5em);
-	 /* IE9 SVG, needs conditional override of 'filter' to 'none' */
-	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzVlNjA1ZiIgc3RvcC1vcGFjaXR5PSIwLjkxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjElIiBzdG9wLWNvbG9yPSIjNWU2MDVmIiBzdG9wLW9wYWNpdHk9IjAuOTEiLz4KICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjNmU3Nzc0IiBzdG9wLW9wYWNpdHk9IjAuODkiLz4KICAgIDxzdG9wIG9mZnNldD0iNTElIiBzdG9wLWNvbG9yPSIjMGEwZTBhIiBzdG9wLW9wYWNpdHk9IjAuODkiLz4KICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzMzMzMzMyIgc3RvcC1vcGFjaXR5PSIwLjg3Ii8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
-	background: -moz-linear-gradient(top,  rgba(94,96,95,0.91) 0%, rgba(94,96,95,0.91) 1%, rgba(110,119,116,0.89) 50%, rgba(10,14,10,0.89) 51%, rgba(51,51,51,0.87) 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(94,96,95,0.91)), color-stop(1%,rgba(94,96,95,0.91)), color-stop(50%,rgba(110,119,116,0.89)), color-stop(51%,rgba(10,14,10,0.89)), color-stop(100%,rgba(51,51,51,0.87))); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  rgba(94,96,95,0.91) 0%,rgba(94,96,95,0.91) 1%,rgba(110,119,116,0.89) 50%,rgba(10,14,10,0.89) 51%,rgba(51,51,51,0.87) 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  rgba(94,96,95,0.91) 0%,rgba(94,96,95,0.91) 1%,rgba(110,119,116,0.89) 50%,rgba(10,14,10,0.89) 51%,rgba(51,51,51,0.87) 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  rgba(94,96,95,0.91) 0%,rgba(94,96,95,0.91) 1%,rgba(110,119,116,0.89) 50%,rgba(10,14,10,0.89) 51%,rgba(51,51,51,0.87) 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  rgba(94,96,95,0.91) 0%,rgba(94,96,95,0.91) 1%,rgba(110,119,116,0.89) 50%,rgba(10,14,10,0.89) 51%,rgba(51,51,51,0.87) 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e85e605f', endColorstr='#de333333',GradientType=0 ); /* IE6-8 */
-
-
-
-	}
-	.tag {
-	  background:white;
-	  color:rgba(0,0,0,0.65);
-	  display:inline-block;
-	  position:relative;
-	  z-index:100;
-	  padding:.25em .75em .25em .5em;
-	  margin:.5em 1.5em .5em .5em;
-	  .border-radius(3px 0 0 3px);
-	  .box-shadow(0 1px 1px rgba(0,0,0,0.5));
-	  font-family: 'Port Lligat Slab', serif;
-	  text-shadow:0 1px 1px white;
-	  cursor:pointer;
-
-	  background: rgb(255,255,255); /* Old browsers */
-	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
-	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2YxZjFmMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjU3JSIgc3RvcC1jb2xvcj0iI2UxZTFlMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijk0JSIgc3RvcC1jb2xvcj0iI2QzYzdjMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmNmY2ZjYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
-	background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(241,241,241,1) 50%, rgba(225,225,225,1) 57%, rgba(211,199,192,1) 94%, rgba(246,246,246,1) 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(50%,rgba(241,241,241,1)), color-stop(57%,rgba(225,225,225,1)), color-stop(94%,rgba(211,199,192,1)), color-stop(100%,rgba(246,246,246,1))); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(241,241,241,1) 50%,rgba(225,225,225,1) 57%,rgba(211,199,192,1) 94%,rgba(246,246,246,1) 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(241,241,241,1) 50%,rgba(225,225,225,1) 57%,rgba(211,199,192,1) 94%,rgba(246,246,246,1) 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(241,241,241,1) 50%,rgba(225,225,225,1) 57%,rgba(211,199,192,1) 94%,rgba(246,246,246,1) 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  rgba(255,255,255,1) 0%,rgba(241,241,241,1) 50%,rgba(225,225,225,1) 57%,rgba(211,199,192,1) 94%,rgba(246,246,246,1) 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0 ); /* IE6-8 */
-
-
-	  &:before{
-	    display:block;
-	    position:absolute;
-	    top:50%;
-	    right:-1px;
-	    margin-top:-.25em;
-	    content:"";
-	    height:0;
-	    width:0;
-	    background:@tag_color;
-	    width:.25em;
-	    height:.5em;
-	    .box-shadow(inset 0 1px 0 rgba(0,0,0,0.75));
-	    .border-radius(3px 0 0 3px);
-	  }
-	  &:after {
-	    color:white;
-	    text-shadow:0 -1px rgba(0,0,0,0.5);
-	    display:block;
-	    position:absolute;
-	    left:100%;
-	    top:.125em;
-	    padding:.125em .25em;
-	    background:@tag_color;
-	    content:attr(data-number);
-	    .border-radius(0 3px 3px 0);
-	    .box-shadow(1px 1px 1px rgba(0,0,0,0.5));
-	    z-index:0;
-	  }
-	  &:hover {
-	    color:black;
-	    &:before,&:after {
-	      background:darken(@tag_color,12); 
-	    }
-	  }
-	}
+	.tag-list {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+  .tag {
+    color: SpringGreen;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.8em;
+    display: flex;
+    align-items: center;
+    background: SteelBlue;
+    vertical-align: middle;
+    height: 28px;
+    padding: 0 15px;
+    border-radius: 14px;
+    margin-right: 6px;
+    transition: all 0.2s ease;
+    &.counter {
+      padding: 0 0 0 15px;
+      span {
+        margin-left: 4px;
+      }
+    }
+    span {
+      font-size: 0.9em;
+      background: Purple;
+      color: White;
+      height: 28px;
+      width: 28px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 14px;
+      transition: all 0.2s ease;
+    }
+    &:hover {
+      color: Black;
+      span {
+        background: MediumVioletRed;
+      }
+    }
+  }
+}
 </style>
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
@@ -113,12 +51,12 @@
 <aside>
 	<div class="panel radius">
 		<h3>Tags:</h3>
-			<div id="tags">
+			<div id="tags" class="tag-list">
 			  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
 			    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-			    <a href="{{ site.url }}/tags/{{ this_word }}">
-				    <span class="tag" data-number="{{ site.tags[this_word].size }}">{{ this_word }} 
-				    </span> 
+			    <a class="tag counter" href="{{ site.url }}/tags/{{ this_word }}">
+				    {{ this_word }} 
+				    <span>{{ site.tags[this_word].size }}</span> 
 			    </a>
 			  {% endunless %}{% endfor %}
 			</div>
