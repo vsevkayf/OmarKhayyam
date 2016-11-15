@@ -1,55 +1,3 @@
-<style>
-	.tag-list {
-	display: flex;
-	flex-direction: row;
-	margin-bottom: 30px;
-}
-
-.tag-list .tag {
-	color: SpringGreen;
-	text-decoration: none;
-	font-weight: 600;
-	font-size: 0.8em;
-	display: flex;
-	align-items: center;
-	background: SteelBlue;
-	vertical-align: middle;
-	height: 28px;
-	padding: 0 15px;
-	border-radius: 14px;
-	margin-right: 6px;
-	transition: all 0.2s ease;
-}
-
-.tag-list .tag.counter {
-	padding: 0 0 0 15px;
-}
-
-.tag-list .tag.counter span {
-	margin-left: 4px;
-}
-
-.tag-list .tag span {
-	font-size: 0.9em;
-	background: Purple;
-	color: White;
-	height: 28px;
-	width: 28px;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	border-radius: 14px;
-	transition: all 0.2s ease;
-}
-
-.tag-list .tag:hover {
-	color: Black;
-}
-
-.tag-list .tag:hover span {
-	background: MediumVioletRed;
-}
-</style>
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tag_words = site_tags | split:',' | sort %}
@@ -57,15 +5,12 @@
 <aside>
 	<div class="panel radius">
 		<h3>Tags:</h3>
-			<div id="tags" class="tag-list">
-			  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-			    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-			    <a class="tag counter" href="{{ site.url }}/tags/{{ this_word }}">
-				    {{ this_word }} 
-				    <span>{{ site.tags[this_word].size }}</span> 
-			    </a>
-			  {% endunless %}{% endfor %}
-			</div>
+		<div id="tags">
+		  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+		    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+		    <a href="/tags/{{ this_word }}" class="button round">{{ this_word }} <span>{{ site.tags[this_word].size }}</span></a>
+		  {% endunless %}{% endfor %}
+		</div>
 	</div>
 
   <img class="b30" src="{{ site.urlimg }}wwb_img2.jpg" alt="">
