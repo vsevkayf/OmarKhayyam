@@ -1,47 +1,53 @@
 <style>
 	.tag-list {
-  display: flex;
-  flex-direction: row;
-  margin-bottom: 30px;
-  .tag {
-    color: SpringGreen;
-    text-decoration: none;
-    font-weight: 600;
-    font-size: 0.8em;
-    display: flex;
-    align-items: center;
-    background: SteelBlue;
-    vertical-align: middle;
-    height: 28px;
-    padding: 0 15px;
-    border-radius: 14px;
-    margin-right: 6px;
-    transition: all 0.2s ease;
-    &.counter {
-      padding: 0 0 0 15px;
-      span {
-        margin-left: 4px;
-      }
-    }
-    span {
-      font-size: 0.9em;
-      background: Purple;
-      color: White;
-      height: 28px;
-      width: 28px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      border-radius: 14px;
-      transition: all 0.2s ease;
-    }
-    &:hover {
-      color: Black;
-      span {
-        background: MediumVioletRed;
-      }
-    }
-  }
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 30px;
+}
+
+.tag-list .tag {
+	color: SpringGreen;
+	text-decoration: none;
+	font-weight: 600;
+	font-size: 0.8em;
+	display: flex;
+	align-items: center;
+	background: SteelBlue;
+	vertical-align: middle;
+	height: 28px;
+	padding: 0 15px;
+	border-radius: 14px;
+	margin-right: 6px;
+	transition: all 0.2s ease;
+}
+
+.tag-list .tag.counter {
+	padding: 0 0 0 15px;
+}
+
+.tag-list .tag.counter span {
+	margin-left: 4px;
+}
+
+.tag-list .tag span {
+	font-size: 0.9em;
+	background: Purple;
+	color: White;
+	height: 28px;
+	width: 28px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 14px;
+	transition: all 0.2s ease;
+}
+
+.tag-list .tag:hover {
+	color: Black;
+}
+
+.tag-list .tag:hover span {
+	background: MediumVioletRed;
 }
 </style>
 
