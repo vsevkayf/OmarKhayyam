@@ -1,13 +1,17 @@
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tag_words = site_tags | split:',' | sort %}
+
 <aside>
 	<div class="panel radius">
-		<h3>Sidebar</h3>
-		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-			Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-		</p>
+		<h3>Tags:</h3>
+			<div id="tags">
+			  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+			    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+			    <a href="/tags/{{ this_word }}" class="radius label">{{ this_word }} <span>{{ site.tags[this_word].size }}</span></a>
+			  {% endunless %}{% endfor %}
+			</div>
 	</div>
 
-  <img class="b30" src="http://dummyimage.com/303x16:9/334D5C/EFC94C.png&amp;text=Placeholder" alt="">
+  <img class="b30" src="{{ urlimg }}/wwb_img2.jpg&amp;text=Soroka" alt="">
 
 </aside>
