@@ -3,15 +3,15 @@
 
 <aside>
 	<div class="panel radius">
-		<h3>Tagss:</h3>
+		<h3>Tags:</h3>
 			<div id="tags">
 			  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
 			    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-			    <a href="/tags/{{ this_word }}"><span class="radius label">{{ this_word }} <span class="round secondary label">>{{ site.tags[this_word].size }}</span></span></a>
+			    <a href="/tags/{{ this_word }}"><span class="radius label">{{ this_word }} </span> <span class="round secondary label">>{{ site.tags[this_word].size }}</span> </a>
 			  {% endunless %}{% endfor %}
 			</div>
 	</div>
 
-  <img class="b30" src="{{ site.urlimg }}/wwb_img2.jpg&amp;text=Soroka" alt="">
+  <img class="b30" src="{{ site.urlimg }}wwb_img2.jpg" alt="">
 
 </aside>
