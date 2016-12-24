@@ -14,7 +14,7 @@ people:
   email: RuthieB@clalit.org.il
   url: http://sorokacrc.org/Contact%20Form/
 
-- name: Maayan Yitshak-Sade, MPH
+- name: Maayan Yitshak-Sade, MPH PHD
   pic: maayan
   position: Chief Scientific officer
   phone: +972-8-624 4220
@@ -69,13 +69,20 @@ people:
   email: makato@clalit.org.il
   url: http://sorokacrc.org/Contact%20Form/
 
+- name: Noa Hazut
+  pic: SOROKA
+  position: Bio Bank Project Manager
+  phone: +972-8-624 4245
+  email: hazutnoa@clalit.org.il
+  url: http://sorokacrc.org/Contact%20Form/
+  
 - name: Muhammad Abu Tailakh, RN, MPH
   pic: muhammad
   position: Statistical Consultant
   email: MuhammadA@clalit.org.il
   url: http://sorokacrc.org/Contact%20Form/
   
-- name: Alina Vodonos
+- name: Alina Vodonos, PHD
   pic: alina2
   position: Statistical Consultant
   email: alinaVo@clalit.org.il
@@ -174,13 +181,6 @@ people:
 - name: Maya Vardi
   pic: mayavardi
   position: Research Assistant
-  url: http://sorokacrc.org/Contact%20Form/
-  
-- name: Noa Hazut
-  pic: SOROKA
-  position: Bio Bank Project Manager
-  phone: +972-8-624 4245
-  email: hazutnoa@clalit.org.il
   url: http://sorokacrc.org/Contact%20Form/
   
 - name: Michal Lamberger
