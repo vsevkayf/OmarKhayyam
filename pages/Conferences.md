@@ -21,9 +21,9 @@ gallery:
       caption: כנס איגוד רופאי הציבור השנתי 2016
     - image_url: gallery-image-6.jpg
       caption: כנס איגוד רופאי הציבור השנתי 2016
-    - image_url: SHELLSHOCK.png
+    - image_url: SHELLSHOCK.jpg
       caption: כנס איגוד רופאי הציבור השנתי 2016
-    - image_url: STROKE.png
+    - image_url: STROKE.jpg
       caption: כנס איגוד רופאי הציבור השנתי 2016
 ---
 
