@@ -3,11 +3,11 @@ layout: page
 header:
   title: Soroka Clinical Research Center
   image_fullwidth: twodudes.png
-title: "Conventions"
-meta_title: "Conventions"
+title: "Conferences"
+meta_title: "Conferences"
 subheadline: ""
 teaser: ""
-permalink: "/Conventions/"
+permalink: "/Conferences/"
 gallery:
     - image_url: gallery-image-1.jpg
       caption: כנס איגוד רופאי הציבור השנתי 2016
