@@ -9,6 +9,22 @@ subheadline: ""
 teaser: ""
 permalink: "/Grants/"
 ---
+<div class="row">
+		<dl class="accordion" data-accordion>
+			{% assign counter = 1 %}
+			{% for grant in site.data.grants limit:200 %}
+			<dd class="accordion-navigation">
+			<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if grant.date %}{{ grant.date }} › {% endif %}<strong>{{ grant.title }}</strong></a>
+				<div id="panel{{ counter }}" class="content">
+					{% if grant.source %}{{ grant.source | strip_html | escape }}{% endif %}
+          {% if grant.PIdr %}{{ grant.PIdr | strip_html | escape }}{% endif %}
+					<br><br>
+				</div>
+			</dd>
+			{% assign counter=counter | plus:1 %}
+			{% endfor %}
+		</dl>
+</div><!-- /.row -->
 
 • Topical liposomal amphotericin B gel treatment for cutaneous leishmaniasis.  
 JNF-UK 2015.  
